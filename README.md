@@ -1,6 +1,7 @@
 Cross-Corporal Multi-Task Learning for Aspect-Based Sentiment Analysis
 
-Literature (so far):
+Literature:
+
 [BERT](https://arxiv.org/abs/1810.04805)
 
 [Joint Apsect and Polarity Classification](https://arxiv.org/abs/1808.09238)
