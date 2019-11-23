@@ -1,0 +1,62 @@
+[
+    {
+        "name": "trip",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 11, "polarity": 3, "joint": 33
+        },
+        "data_dir": "data/tripadvisor/"
+    },
+    {
+        "name": "organic",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 18, "polarity": 3, "joint": 54
+        },
+        "data_dir": "data/organic/"
+    },
+    {
+        "name": "SemEval14res",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 5, "polarity": 3, "joint": 15
+        },
+        "data_dir": "data/organic/"
+    },
+    {
+        "name": "SemEval14lap",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 876, "polarity": 3, "joint": 1277
+        },
+        "data_dir": "data/organic/"
+    },
+    {
+        "name": "SemEval16res",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 12, "polarity": 3, "joint": 36
+        },
+        "data_dir": "data/organic/"
+    },
+    {
+        "name": "SemEval16lap",
+        "heads": {
+            "aspect": true, "polarity": true, "joint": true
+        },
+        "classes": {
+            "aspect": 80, "polarity": 3, "joint": 168
+        },
+        "data_dir": "data/organic/"
+    }
+]

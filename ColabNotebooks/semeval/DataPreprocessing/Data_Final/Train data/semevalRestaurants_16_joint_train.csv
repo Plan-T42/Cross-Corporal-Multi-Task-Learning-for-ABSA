@@ -1,0 +1,1363 @@
+text,joint
+"The food is very good, but not outstanding.",FOOD#QUALITY/neutral
+I really liked this place.,RESTAURANT#GENERAL/positive
+The food is great and the environment is even better.,"FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+Don't waste money on decor.,AMBIENCE#GENERAL/neutral
+"im not necessarily fanatical about this place, but it was a fun time for low pirces.","RESTAURANT#PRICES/positive,RESTAURANT#GENERAL/positive"
+What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!,SERVICE#GENERAL/negative
+"If you are going for the food, it will not be worth it.",FOOD#QUALITY/negative
+"Not because you are ""The Four Seasons""... – you are allowed to charge an arm and a leg for a romatic dinner.",RESTAURANT#PRICES/negative
+All of the pizzas are terrific and the price is even better!,"FOOD#QUALITY/positive,FOOD#PRICES/positive"
+I will be going back and heartily recommend it!,RESTAURANT#GENERAL/positive
+The staff is very good.,SERVICE#GENERAL/positive
+The food is okay and the prices here are mediocre.,"FOOD#QUALITY/neutral,RESTAURANT#PRICES/neutral"
+"If you are looking for a good quality, cheap eats - this is the place.","FOOD#QUALITY/positive,FOOD#PRICES/positive"
+The baked clams octopus we shared as appetizers were the best we've ever had!!,FOOD#QUALITY/positive
+"the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty.,LOCATION#GENERAL/positive
+Lives up to the hype,RESTAURANT#GENERAL/positive
+We were offered water for the table but were not told the Voss bottles of water were $8 a piece.,DRINKS#PRICES/negative
+The food now is inconsistent.,FOOD#QUALITY/negative
+"The entree was bland and small, dessert was not inspired.","FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+The restaurant is cute but not upscale.,AMBIENCE#GENERAL/neutral
+"The atmosphere is unheralded, the service impecible, and the food magnificant.","AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+and you can't beat the prices.,RESTAURANT#PRICES/positive
+They have authentic Indian at amazin prices.,"FOOD#PRICES/positive,FOOD#QUALITY/positive"
+Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.,SERVICE#GENERAL/negative
+"I am not a vegetarian but, almost all the dishes were great.",FOOD#QUALITY/positive
+Vanison was good but not amazing.,FOOD#QUALITY/neutral
+"Food was just average...if they lowered the prices just a bit, it would be a bigger draw.","FOOD#PRICES/negative,FOOD#QUALITY/neutral"
+"A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",SERVICE#GENERAL/negative
+"Though it's been crowded most times I've gone here, Bark always delivers on their food.","RESTAURANT#MISCELLANEOUS/neutral,FOOD#QUALITY/positive"
+"Terrible, terrible management - deserves to be shut-down.","RESTAURANT#GENERAL/negative,SERVICE#GENERAL/negative"
+"Oh, and there's hookah.",AMBIENCE#GENERAL/positive
+"Delicate spices, onions, eggs and a kick-ass roti.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"The drinks are great, especially when made by Raymond.","DRINKS#QUALITY/positive,SERVICE#GENERAL/positive"
+I'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much... and we're repeat customers.,RESTAURANT#GENERAL/positive
+You must try the shrimp appetizers.,FOOD#QUALITY/positive
+The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.,SERVICE#GENERAL/negative
+I/we will never go back to this place again.,RESTAURANT#GENERAL/negative
+"I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal.",SERVICE#GENERAL/negative
+But that is highly forgivable.,SERVICE#GENERAL/positive
+"Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.",SERVICE#GENERAL/negative
+I highly recommend visiting this restaurant and having dinner and drinks!,RESTAURANT#GENERAL/positive
+"Also, because it is so thin, it gets cold very quickly and its not that filling.","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+It's a rather cramped and busy restaurant and it closes early.,"AMBIENCE#GENERAL/negative,RESTAURANT#MISCELLANEOUS/negative"
+"I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place.",SERVICE#GENERAL/neutral
+"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.","SERVICE#GENERAL/negative,FOOD#QUALITY/positive"
+Single Worst Restaurant in Manhattan,RESTAURANT#GENERAL/negative
+The service is good and the resturant is clean.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+Also very inexpensive.,RESTAURANT#PRICES/positive
+Would NEVER go back there.,RESTAURANT#GENERAL/negative
+Bison was quite excellent however.,FOOD#QUALITY/positive
+I love it.,"RESTAURANT#GENERAL/positive,RESTAURANT#GENERAL/positive"
+We went around 9:30 on a Friday and it had died down a bit by then so the service was great!,SERVICE#GENERAL/positive
+The filet mignon dish was superb!,FOOD#QUALITY/positive
+"Well, this place is so Ghetto its not even funny.",AMBIENCE#GENERAL/negative
+"Took my mom for Mother's Day, and the maitre d' was pretty rude.",SERVICE#GENERAL/negative
+"The side dishes were passable, and I did get a refill upon request.","FOOD#QUALITY/neutral,FOOD#STYLE_OPTIONS/neutral"
+"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.","FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/negative"
+A little crowded but they move that line really fast!,"RESTAURANT#MISCELLANEOUS/negative,SERVICE#GENERAL/positive"
+Definitely a neighborhood favorite.,RESTAURANT#GENERAL/positive
+Have been several times and it never dissapoints.,RESTAURANT#GENERAL/positive
+I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.,FOOD#PRICES/negative
+The place itself is beautiful the bar scene seems to be happening.,"AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+$20 for all you can eat sushi cannot be beaten.,FOOD#PRICES/positive
+Right off the L in Brooklyn this is a nice cozy place with good pizza.,"AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"Also, specify if you like your food spicy- its rather bland if you don't.",FOOD#QUALITY/negative
+"However, our main course was wonderful.",FOOD#QUALITY/positive
+"However, if you want great food at a great price and don't mind the decor, you can't beat this place.","AMBIENCE#GENERAL/neutral,FOOD#PRICES/positive,FOOD#QUALITY/positive"
+"This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+This place...god where do i begin.,RESTAURANT#GENERAL/negative
+We were ushered to the bar to wait momentarily and upon arrival were so excited.,RESTAURANT#GENERAL/positive
+One of my favorite places in Brooklyn.,RESTAURANT#GENERAL/positive
+My Girlfriend and I stumbled onto this hopping place the other night and had a great time!,RESTAURANT#GENERAL/positive
+"Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.",FOOD#QUALITY/negative
+"The fish was adequate, but inexpertly sliced.",FOOD#STYLE_OPTIONS/negative
+Love their drink menu.,DRINKS#STYLE_OPTIONS/positive
+This was a repeat visit and we'll definitely be back again.,RESTAURANT#GENERAL/positive
+Food is excellent.,FOOD#QUALITY/positive
+The duck confit is always amazing and the foie gras terrine with figs was out of this world.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+We asked for sides which the waiter than admitted that he forgot to put in that part of our order.,SERVICE#GENERAL/negative
+"Seriously, this place kicks ass.",RESTAURANT#GENERAL/positive
+"Even though the place is not beautiful, the food speaks for itself.","AMBIENCE#GENERAL/negative,FOOD#QUALITY/positive"
+You can't go wrong here.,RESTAURANT#GENERAL/positive
+"peppers, onions, relish, chilli, cheeses, you NAME it.",FOOD#STYLE_OPTIONS/positive
+The appetizers are also delicious!,FOOD#QUALITY/positive
+We had a great time at the Jekyll and hyde Pub last night.,RESTAURANT#GENERAL/positive
+I'm glad I was introduced to this place and this is a rare gem in NY.,RESTAURANT#GENERAL/positive
+"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...","AMBIENCE#GENERAL/negative,AMBIENCE#GENERAL/negative"
+"I am so coming back here again, as much as I can.",RESTAURANT#GENERAL/positive
+Service was wonderful;,SERVICE#GENERAL/positive
+"I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer.",FOOD#STYLE_OPTIONS/negative
+Definitely a great spot for a nice occasion or date.,RESTAURANT#MISCELLANEOUS/positive
+Fish is so very fresh.,FOOD#QUALITY/positive
+"As to my comment about the food, no apology or acknowledgment was made.",SERVICE#GENERAL/negative
+Thanks Bloom's for a lovely trip.,RESTAURANT#GENERAL/positive
+"We have been to this place many times, and always have great food, wine, and service.","SERVICE#GENERAL/positive,DRINKS#QUALITY/positive,FOOD#QUALITY/positive"
+He offers subpar service and has no personality.,SERVICE#GENERAL/negative
+So I decide to report back to the waitress because it was completely inedible.,FOOD#QUALITY/negative
+"This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.","FOOD#QUALITY/positive,SERVICE#GENERAL/negative,RESTAURANT#PRICES/negative"
+Cozy romantic atomosphere with only around 15 tables at most.,AMBIENCE#GENERAL/positive
+MMmmm... it was delicious.,FOOD#QUALITY/positive
+"The food arrived 20 minutes after I called, cold and soggy.","SERVICE#GENERAL/negative,FOOD#QUALITY/negative"
+"Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",SERVICE#GENERAL/negative
+"I didn't complain, I liked the atmosphere so much.",AMBIENCE#GENERAL/positive
+it's the only place you can get yummy authentic japanese comfort food.,FOOD#QUALITY/positive
+Warning: You may find it difficult to dine at other Japanese restaurants after a visit to Mizu!,RESTAURANT#GENERAL/positive
+Super YUMMY Pizza!,FOOD#QUALITY/positive
+This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.,SERVICE#GENERAL/positive
+I started out with a Bombay beer which was big enough for two.,DRINKS#STYLE_OPTIONS/positive
+Appetizers took nearly an hour.,SERVICE#GENERAL/negative
+I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood.,RESTAURANT#GENERAL/positive
+"Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE""",RESTAURANT#GENERAL/positive
+"We concluded with tiramisu chocolate cake, both were delicious.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Even my Indian friend couldn't believe how good and tasty everything was.,FOOD#QUALITY/positive
+But the pizza is way to expensive.,FOOD#PRICES/negative
+great taste,FOOD#QUALITY/positive
+I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+Never again!,RESTAURANT#GENERAL/negative
+I would highly recommend it.,RESTAURANT#GENERAL/positive
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"However, it is jus too good to not praise it.",RESTAURANT#GENERAL/positive
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive,FOOD#PRICES/positive"
+"He served me an Uni Hand roll, which I never had before, and let me tell you...IT WAS HEAVEN!",FOOD#QUALITY/positive
+I highly recommend to anyone to give this place a try.,RESTAURANT#GENERAL/positive
+The veal and the mushrooms were cooked perfectly.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"Not only is the cuisine the best around, the service has always been attentive and charming.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+Very affordable and excellent ambient!,"RESTAURANT#PRICES/positive,AMBIENCE#GENERAL/positive"
+Food is great.,FOOD#QUALITY/positive
+NO PIZZA 33 for me!,RESTAURANT#GENERAL/negative
+They were such a rip-off ($8.95 for four small meat patties in steamed buns) and not worth trying.,"FOOD#PRICES/negative,FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/negative"
+"You'll be ther for every anniversary, birthday, valentines day...",RESTAURANT#MISCELLANEOUS/positive
+"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!","SERVICE#GENERAL/negative,FOOD#PRICES/negative,DRINKS#PRICES/negative,SERVICE#GENERAL/negative"
+"I found the food to be outstanding, particulary the salmon dish I had.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.","AMBIENCE#GENERAL/negative,AMBIENCE#GENERAL/negative"
+"Just straight up cheap, good food.","FOOD#PRICES/positive,FOOD#QUALITY/positive"
+"If you are the type of person who likes being scared and entertained, this is a great place to go and eat.",RESTAURANT#MISCELLANEOUS/positive
+The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/negative"
+"As a retired hipster, I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city.",RESTAURANT#GENERAL/positive
+My friend got the mushroom pizza which tasted better.,FOOD#QUALITY/positive
+"The freshest, best variety, and the fastest delivery.","SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+We were 4 and got the family size penne a la vodka which was tremendously gigantic portion...a bucket of food literally.,FOOD#STYLE_OPTIONS/positive
+We paid and left because we didn't feel like arguing any more.,SERVICE#GENERAL/negative
+I'd be horrified if my staff were turning away customers so early and so rudely!,SERVICE#GENERAL/negative
+Not impressed with the food.,FOOD#QUALITY/negative
+The people that work there are always so friendly you forget you are in New York sometimes.,SERVICE#GENERAL/positive
+Mizu is the Japenese find in Grammercy.,RESTAURANT#GENERAL/positive
+DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.,RESTAURANT#MISCELLANEOUS/negative
+"On a recent Sunday afternoon, a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT.",RESTAURANT#GENERAL/positive
+The food arrived in about 15 minutes.,SERVICE#GENERAL/neutral
+"well, i didn't find it there, and trust, i have told everyone i can think of about my experience.",RESTAURANT#GENERAL/negative
+"Our teenage kids love it, too.",RESTAURANT#GENERAL/positive
+Raymond the bartender rocks!,SERVICE#GENERAL/positive
+"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+This place is worth an one-hour drive.,RESTAURANT#GENERAL/positive
+I have NEVER been disappointed in the Red Eye.,RESTAURANT#GENERAL/positive
+And I hate to say this but I doubt I'll ever go back.,RESTAURANT#GENERAL/negative
+Amazing!,FOOD#QUALITY/positive
+I can't remember the last time I had such gross food in New York.,FOOD#QUALITY/negative
+"The service is ok, some of the people didn't get what they asked for.",SERVICE#GENERAL/neutral
+"So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.",FOOD#QUALITY/negative
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"The food is wonderful, tasty and filling, and the service is professional and friendly.","FOOD#STYLE_OPTIONS/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+The atmosphere was great.,AMBIENCE#GENERAL/positive
+Drawbacks: service is slow and they don't toast!,SERVICE#GENERAL/negative
+"I found the food, service and value exceptional everytime I have been there.","FOOD#QUALITY/positive,RESTAURANT#PRICES/positive,SERVICE#GENERAL/positive"
+Never got an explanation as to what was going on.,SERVICE#GENERAL/negative
+"But after last night, Spice Grill is the only place I'm eating indian cuisine.",FOOD#QUALITY/positive
+We will return many times for this oasis in mid-town.,RESTAURANT#GENERAL/positive
+"I have tried to make reservations, but both times, the hostess didn't have my name.",SERVICE#GENERAL/negative
+It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.,FOOD#QUALITY/negative
+The sushi is amazing!!!,FOOD#QUALITY/positive
+"On the way out, we heard of other guests complaining about similar issues.",SERVICE#GENERAL/negative
+"Kind, attentive wait staff.",SERVICE#GENERAL/positive
+We didn't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough.,DRINKS#STYLE_OPTIONS/positive
+The veal was incredible last night.,FOOD#QUALITY/positive
+Winnie and her staff are the best crew you can find serving you.,"SERVICE#GENERAL/positive,SERVICE#GENERAL/positive"
+"My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.",FOOD#QUALITY/negative
+"I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",FOOD#QUALITY/positive
+This place is great.,RESTAURANT#GENERAL/positive
+The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each).,"FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+"Seating is always prompt, though the restaurant does fill up in the evening.",SERVICE#GENERAL/positive
+"Best Italian food I ever had (and being Italian, that means alot).",FOOD#QUALITY/positive
+"A few tips: skip the turnip cake, roast pork buns and egg custards.","FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+"She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded.""",SERVICE#GENERAL/negative
+"Service, however, was excellent...and I liked the setting/atmosphere a lot.","AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive"
+Nice for one time special occasion.,RESTAURANT#MISCELLANEOUS/positive
+"We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.",AMBIENCE#GENERAL/positive
+The food is prepared quickly and efficiently.,SERVICE#GENERAL/positive
+Gorgeous place ideal for a romantic dinner,"RESTAURANT#MISCELLANEOUS/positive,AMBIENCE#GENERAL/positive"
+"So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...",SERVICE#GENERAL/negative
+This place is a great bargain.,RESTAURANT#PRICES/positive
+Love Pizza 33..,RESTAURANT#GENERAL/positive
+"At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.",SERVICE#GENERAL/positive
+There are no negatives to speak of.,RESTAURANT#GENERAL/positive
+Good food.,FOOD#QUALITY/positive
+I was one of the people that went for this horrible experience.,RESTAURANT#GENERAL/negative
+Just go to Yamato and order the Red Dragon Roll.,"FOOD#QUALITY/positive,RESTAURANT#GENERAL/positive"
+great hot dogs..,FOOD#QUALITY/positive
+Best Pastrami I ever had and great portion without being ridiculous.,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+"The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.","FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/positive,AMBIENCE#GENERAL/positive"
+The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,"FOOD#PRICES/negative,FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/positive"
+"The food however, is what one might expect.",FOOD#QUALITY/negative
+The nakgi-bokum was horrible.,FOOD#QUALITY/negative
+"However, I think this place is a good hang out spot.",AMBIENCE#GENERAL/positive
+"The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.",FOOD#STYLE_OPTIONS/positive
+The farro salad and the mashed yukon potatoes were also extremely tasty.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).","SERVICE#GENERAL/negative,SERVICE#GENERAL/positive"
+Mazing interior.,AMBIENCE#GENERAL/negative
+I will go back to Suan soon!,RESTAURANT#GENERAL/positive
+Stepped on my foot on the SECOND time he reached over me to adjust lighting.,SERVICE#GENERAL/negative
+Consistently good Japanese Tapas.,FOOD#QUALITY/positive
+I think that it is absolutely brilliant and well runned business operation.,RESTAURANT#GENERAL/positive
+They refuse to seat parties of 3 or more on weekends.,SERVICE#GENERAL/negative
+We paid a fixed pricce but got nothing!!,SERVICE#GENERAL/negative
+The service was friendly and the atmosphere was casual.,"AMBIENCE#GENERAL/neutral,SERVICE#GENERAL/positive"
+"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return.","SERVICE#GENERAL/negative,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+Great find in the West Village!,RESTAURANT#GENERAL/positive
+"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.","FOOD#QUALITY/negative,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+It is also extremely well priced.,FOOD#PRICES/positive
+"Service was devine, oysters where a sensual as they come, and the price can't be beat!!!","SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+Authentic Pakistani food.,FOOD#QUALITY/positive
+"One special roll and one regular roll is enough to fill you up, but save room for dessert!","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/positive"
+"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.","FOOD#QUALITY/positive,DRINKS#QUALITY/neutral"
+I'd definitely go back again.,RESTAURANT#GENERAL/positive
+"Once you step into Cosette, you're miraculously in a small, off-the-beaten path Parisian bistro.",AMBIENCE#GENERAL/positive
+I have been to Roth's twice and both times were very disappointing.,RESTAURANT#GENERAL/negative
+My boyfriend had Prime Rib it was good .,FOOD#QUALITY/positive
+The mussels were fantastic and so was the dessert...definitely going to be back very soon.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive,RESTAURANT#GENERAL/positive"
+"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",AMBIENCE#GENERAL/positive
+Highly impressed from the decor to the food to the hospitality to the great night I had!,"SERVICE#GENERAL/positive,RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.",FOOD#QUALITY/negative
+"They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!",SERVICE#GENERAL/negative
+Love it.,RESTAURANT#GENERAL/positive
+"Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...","RESTAURANT#PRICES/neutral,DRINKS#STYLE_OPTIONS/positive"
+"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!","SERVICE#GENERAL/negative,RESTAURANT#MISCELLANEOUS/negative,SERVICE#GENERAL/negative"
+Go to Volare for 1st class service and terrific food.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+"The service is excellent, the decor is great, and the food is delicious and comes in large portions.","AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive"
+It's cuz it's so good you need to taste it!!!,FOOD#QUALITY/positive
+"An awesome organic dog, and a conscious eco friendly establishment.","FOOD#QUALITY/positive,RESTAURANT#MISCELLANEOUS/positive"
+"Great, original taste.",FOOD#QUALITY/positive
+The pizza was pretty good and huge.,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+The Yellowtail was particularly good as well.,FOOD#QUALITY/positive
+The drinks are always welll made and wine selection is fairly priced.,"DRINKS#QUALITY/positive,DRINKS#PRICES/positive"
+I tried a couple other dishes but wasn't too impressed.,FOOD#QUALITY/neutral
+so delicious!!!!!!,FOOD#QUALITY/positive
+The pizza was great.,FOOD#QUALITY/positive
+Beautiful experience.,RESTAURANT#GENERAL/positive
+"We thought the dessert would be better, Wrong!",FOOD#QUALITY/negative
+I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).,"RESTAURANT#PRICES/negative,SERVICE#GENERAL/negative"
+Good Food,FOOD#QUALITY/positive
+this place had ALL the trimmings and i mean all.,FOOD#STYLE_OPTIONS/positive
+We were very disappointed.,FOOD#QUALITY/negative
+"As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place.",RESTAURANT#GENERAL/positive
+"The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+Service is average.,SERVICE#GENERAL/neutral
+"i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience.",SERVICE#GENERAL/negative
+"the spinach is fresh, definately not frozen...",FOOD#QUALITY/positive
+Someone else recommended the dessert - we also left that.,FOOD#QUALITY/negative
+would NOT go back.,RESTAURANT#GENERAL/negative
+I have been to Rao's probably 15 times the past 3 years and it keeps getting better.,RESTAURANT#GENERAL/positive
+honestly the worst sushi my husband and i had in our entire lives.,FOOD#QUALITY/negative
+I thought this place was totally overrated.,RESTAURANT#GENERAL/negative
+Very good wine choices.,DRINKS#STYLE_OPTIONS/positive
+It is simply amazing.,FOOD#QUALITY/positive
+I got hair in my food 2 times of then !,FOOD#QUALITY/negative
+We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.,SERVICE#GENERAL/negative
+"I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.",SERVICE#GENERAL/negative
+You will find yourself returning quite often.,RESTAURANT#GENERAL/positive
+"Good spreads, great beverage selections and bagels really tasty.","DRINKS#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"You would think they would make up for it with service, sadly, no.",SERVICE#GENERAL/negative
+I went there for lunch and it was not as good as I expected from the reviews I read.,FOOD#QUALITY/negative
+The omlette for brunch is great...,FOOD#QUALITY/positive
+Please be aware that it's CASH or AMEX only!,RESTAURANT#MISCELLANEOUS/neutral
+Although we were looking for regular lettuce and some walnuts the salads we got were great.,FOOD#QUALITY/positive
+Check this place out!,RESTAURANT#GENERAL/positive
+I was looking for banana tempura for dessert and they dont have.,FOOD#STYLE_OPTIONS/negative
+I do not recommend.,RESTAURANT#GENERAL/negative
+I ordered the smoked salmon and roe appetizer and it was off flavor.,FOOD#QUALITY/negative
+The service was attentive.,SERVICE#GENERAL/positive
+"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",AMBIENCE#GENERAL/negative
+"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!","FOOD#PRICES/positive,FOOD#STYLE_OPTIONS/positive"
+Best Reuben sandwich ever!,FOOD#QUALITY/positive
+"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The prices were CHEAP compared to the quality of service and food.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+Yakitori (bbq meats) is tasty too.,FOOD#QUALITY/positive
+Restaurant with a view,LOCATION#GENERAL/neutral
+Service is not what one would expect from a joint in this price category.,SERVICE#GENERAL/negative
+"The rest of the dim sum, though pricey by Chinatown standards, is worth it.","FOOD#QUALITY/positive,FOOD#PRICES/negative"
+supercilious scorn is in.,SERVICE#GENERAL/negative
+"This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.",SERVICE#GENERAL/negative
+"Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+The Four Seasons restaurant is a great experience.,RESTAURANT#GENERAL/positive
+Wonderful at holiday time.,RESTAURANT#MISCELLANEOUS/positive
+"The atmosphere isn't the greatest , but I suppose that's how they keep the prices down .","AMBIENCE#GENERAL/neutral,RESTAURANT#PRICES/positive"
+Get the pepperoni - YUM - and a family style salad.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Prices are fair across the board for both food and bev.,"DRINKS#PRICES/positive,FOOD#PRICES/positive"
+I heartily recommend.,RESTAURANT#GENERAL/positive
+"When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.",SERVICE#GENERAL/positive
+Not the typical NYC gimmick theme restaurant.,AMBIENCE#GENERAL/positive
+If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!,"FOOD#QUALITY/negative,RESTAURANT#PRICES/negative"
+"Inexpensive, unassuming, great time!","RESTAURANT#PRICES/positive,RESTAURANT#GENERAL/positive"
+How is this palce still open?,RESTAURANT#GENERAL/negative
+Over 100 different choices to create your own.,FOOD#STYLE_OPTIONS/positive
+The concept of japanese tapas is newly created and clearly doesn't work.,FOOD#STYLE_OPTIONS/negative
+This is a fun restaurant to go to.,RESTAURANT#GENERAL/positive
+I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.,AMBIENCE#GENERAL/positive
+Remind me of home.,RESTAURANT#MISCELLANEOUS/positive
+I had to ask her three times before she finally came back with the dish Ive requested.,SERVICE#GENERAL/negative
+"quacamole at pacifico is yummy, as are the wings with chimmichuri.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+food was luke warm.,FOOD#QUALITY/negative
+We were charged full price.,SERVICE#GENERAL/negative
+"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+Delicious crab cakes too.,FOOD#QUALITY/positive
+The staff was the friendliest that have seen in New York.,SERVICE#GENERAL/positive
+Loved It,RESTAURANT#GENERAL/positive
+"For those that go once and don't enjoy it, all I can say is that they just don't get it.",RESTAURANT#GENERAL/positive
+Downstairs lounge is always a good attraction,AMBIENCE#GENERAL/positive
+"In an area sadly lacking in decent Thai food, this is one of the best spots.",FOOD#QUALITY/positive
+Don't go with a larger group than 4!,RESTAURANT#MISCELLANEOUS/negative
+Everything on the menu is great.,FOOD#QUALITY/positive
+The workers there also absolutely load the bagel with cream cheese (gets a little messy).,FOOD#STYLE_OPTIONS/negative
+Way below average,RESTAURANT#GENERAL/negative
+Great pizza and fantastic service.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+I loved this place!!,RESTAURANT#GENERAL/positive
+"The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+This is one of the best comfort food places in the city.,RESTAURANT#GENERAL/positive
+Tiny dessert was $8.00...just plain overpriced for what it is.,"FOOD#STYLE_OPTIONS/negative,FOOD#PRICES/negative"
+Personal pans are the perfect size for those hungry nights.,FOOD#STYLE_OPTIONS/positive
+"The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The wine the service was very good too.,"SERVICE#GENERAL/positive,DRINKS#QUALITY/positive"
+"The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).",SERVICE#GENERAL/negative
+Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.,"FOOD#QUALITY/positive,AMBIENCE#GENERAL/negative"
+Be sure not to get anything other than bagels!..,"FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+Service was slow had to wait to order and get food although not crowded.,SERVICE#GENERAL/negative
+"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.","RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+The jukebox plays everything from Italian Opera to The Strokes.,AMBIENCE#GENERAL/positive
+"It is nearly impossible to get a table, so if you ever have the chance to go here for dinner, DO NOT pass it up.",RESTAURANT#GENERAL/positive
+The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!,DRINKS#QUALITY/positive
+"The view is spectacular, and the food is great.","LOCATION#GENERAL/positive,FOOD#QUALITY/positive"
+Had an awful experience at Casa la Femme on a Saturday dinner.,RESTAURANT#GENERAL/negative
+the bestt!,RESTAURANT#GENERAL/positive
+Fabulous food - if the front of house staff don't put you off –,"FOOD#QUALITY/positive,SERVICE#GENERAL/negative"
+We were very pleasantly surprised.,RESTAURANT#GENERAL/positive
+"Ambience is delightful, service impeccable.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+I must give it Yon out of Yon stars!,RESTAURANT#GENERAL/positive
+Big Wong gets big Ups for a fine establishment.,RESTAURANT#GENERAL/positive
+"I got the $10 10-piece dim sum combo, every bite of which was great.",FOOD#QUALITY/positive
+I'm not picky - but it was actually gross.,FOOD#QUALITY/negative
+And the Tom Kha soup was pathetic.,FOOD#QUALITY/negative
+To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.,"RESTAURANT#MISCELLANEOUS/negative,SERVICE#GENERAL/negative"
+My fav was the sassy lassi...,DRINKS#QUALITY/positive
+"Also, I personally wasn't a fan of the portobello and asparagus mole.",FOOD#QUALITY/negative
+"Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+not only is the food,"RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive"
+"She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.",SERVICE#GENERAL/negative
+"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+Save your money and your time and go somewhere else.,RESTAURANT#GENERAL/negative
+I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.,RESTAURANT#MISCELLANEOUS/positive
+I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.,"SERVICE#GENERAL/positive,SERVICE#GENERAL/positive"
+Best drumsticks over rice and sour spicy soup in town!,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I recommend this place to everyone.,RESTAURANT#GENERAL/positive
+"Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.",FOOD#QUALITY/positive
+The menu is limited but almost all of the dishes are excellent.,"FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/positive"
+"The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if I must recommend a dish it must be the pumkin tortelini.","DRINKS#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"While their kitchen food is delicious, their Sushi is out of this world.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I thought I had died and gone to heaven.,FOOD#QUALITY/positive
+the food is always fresh ...,FOOD#QUALITY/positive
+Over all the looks of the place exceeds the actual meals.,"FOOD#QUALITY/negative,AMBIENCE#GENERAL/positive"
+The hostess was very pleasant.,SERVICE#GENERAL/positive
+"they were dry and disgusting, i didn't even finish my first piece.",FOOD#QUALITY/negative
+"For me dishes a little oily, but overall dining experience good.","FOOD#QUALITY/negative,RESTAURANT#GENERAL/positive"
+Great Indian food and the service is incredible.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+These are overpriced and you can get better just around the corner:,"FOOD#PRICES/negative,FOOD#QUALITY/negative"
+"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.","RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive"
+The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal.,FOOD#QUALITY/positive
+Still we keep going back :),RESTAURANT#GENERAL/positive
+The family seafood entree was very good.,FOOD#QUALITY/positive
+What more can you ask for?,RESTAURANT#GENERAL/positive
+A weakness is the chicken in the salads.,FOOD#QUALITY/negative
+There is no excuse for such lousy service!,SERVICE#GENERAL/negative
+I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,"RESTAURANT#GENERAL/negative,RESTAURANT#PRICES/negative"
+The price very reasonable.,RESTAURANT#PRICES/positive
+The owner and staff are all Japanese as well and that adds to the entire ambiance.,"RESTAURANT#MISCELLANEOUS/positive,RESTAURANT#MISCELLANEOUS/positive,AMBIENCE#GENERAL/positive"
+This was a great surprise.,RESTAURANT#GENERAL/positive
+The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.,SERVICE#GENERAL/negative
+"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.","RESTAURANT#PRICES/negative,AMBIENCE#GENERAL/positive"
+WORST PLACE ON SMITH STREET IN BROOKLYN,RESTAURANT#GENERAL/negative
+this is can became on e of the NY Italian Food fare institutions.,RESTAURANT#GENERAL/positive
+Expensive,RESTAURANT#PRICES/negative
+"This place, which is only a few months old, is perhaps Queens' biggest secret!",RESTAURANT#GENERAL/positive
+Best meal in a long time!,FOOD#QUALITY/positive
+The waitress was not attentive at all.,SERVICE#GENERAL/negative
+Wonderful strawberry daiquiries as well!,DRINKS#QUALITY/positive
+Was surprisingly disappointed.,FOOD#QUALITY/negative
+This place is the most Japanese it can ever get.,RESTAURANT#MISCELLANEOUS/positive
+We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.,FOOD#QUALITY/negative
+Have never had a problem with service save a missing rice once.,SERVICE#GENERAL/positive
+Favorite Sushi in NYC,FOOD#QUALITY/positive
+The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/positive"
+Prices are very good.,RESTAURANT#PRICES/positive
+it was really good pizza.,FOOD#QUALITY/positive
+You will not be disapointed at all.,RESTAURANT#GENERAL/positive
+I was pleasantly surprised to find this gem in Hoboken.,RESTAURANT#GENERAL/positive
+I really recommend the very simple Unda (Egg) rolls.,FOOD#QUALITY/positive
+Subtle food and service,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+Which of course is not real Kobe but Wagyu beef.,FOOD#QUALITY/negative
+We won't go to this place again for a good meal.,FOOD#QUALITY/negative
+"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!","RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive"
+it is not consistent.,RESTAURANT#GENERAL/negative
+The dining room is quietly elegant with no music to shout over -- how refreshing!,AMBIENCE#GENERAL/positive
+The food is reliable and the price is moderate.,"RESTAURANT#PRICES/neutral,FOOD#QUALITY/positive"
+"Do not get the Go Go Hamburgers, no matter what the reviews say.",FOOD#QUALITY/negative
+The exotic food is beautifully presented and is a delight in delicious combinations.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.,SERVICE#GENERAL/negative
+delicious simple food in nice outdoor atmosphere.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,AMBIENCE#GENERAL/positive"
+The food was lousy - too sweet or too salty and the portions tiny.,"FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.,"FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+It's a great place to order from or sit-in.,RESTAURANT#MISCELLANEOUS/positive
+the turkey burgers are scary!,FOOD#QUALITY/negative
+I had a huge pastrami sandwich on a roll.,FOOD#STYLE_OPTIONS/neutral
+Make sure you try this place as often as you can.,RESTAURANT#GENERAL/positive
+Mussles and calamari were superb Saturday evening.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+great toppings definitely a place you need to check out for late night munchies or a mid day boost!,"RESTAURANT#MISCELLANEOUS/positive,FOOD#QUALITY/positive"
+Not a great place for family or general dining.,RESTAURANT#MISCELLANEOUS/negative
+Okay-i don't mind the oily part (cause most are cooked that way) but it was way too bland.,FOOD#QUALITY/negative
+"Ambience is so cute and quaint, good for business although we were there on vacation.","AMBIENCE#GENERAL/positive,RESTAURANT#MISCELLANEOUS/positive"
+"If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Food was good not great not worth the wait or another visit,"FOOD#QUALITY/neutral,RESTAURANT#GENERAL/negative"
+the drinks are amazing and half off till 8pm.,"DRINKS#QUALITY/positive,DRINKS#PRICES/positive"
+By far the best salad I have had in a fast food restaurant.,FOOD#QUALITY/positive
+"Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.",RESTAURANT#MISCELLANEOUS/positive
+"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#MISCELLANEOUS/positive,FOOD#STYLE_OPTIONS/positive"
+The portions are large and the servers always surprise us with a different starter.,"SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive"
+I've never had bad service and the fish is fresh and delicious.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"It is terrific, as is the value.","FOOD#QUALITY/positive,FOOD#PRICES/positive"
+The food was ok and fair nothing to go crazy.,FOOD#QUALITY/neutral
+"Rao is a good restaurant, but it's nothing special.",RESTAURANT#GENERAL/neutral
+The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.,FOOD#QUALITY/positive
+"Great wine selection, Gigondas is worth the price, and the house champagne is a great value.","DRINKS#QUALITY/positive,DRINKS#PRICES/positive,DRINKS#STYLE_OPTIONS/positive"
+"In the summer months, the back garden area is really nice.",AMBIENCE#GENERAL/positive
+"They have great rolls, the triple color and norwegetan rolls, are awesome and filling.","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+Not enough wines by the glass either.,DRINKS#STYLE_OPTIONS/negative
+And even with it's Pub atmosphere they were great to my kids too!,SERVICE#GENERAL/positive
+"Excellent atmosphere, delicious dishes good and friendly service.","AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+The fried dumplings are GREAT!,FOOD#QUALITY/positive
+Wouldn't recomend it for dinner!,RESTAURANT#GENERAL/negative
+"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.","FOOD#QUALITY/positive,FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+Dumbfoundingly Poor,RESTAURANT#GENERAL/negative
+I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine.,FOOD#QUALITY/negative
+"the salads are delicious, both refreshing and very spicy.",FOOD#QUALITY/positive
+We all felt it was worth it.,RESTAURANT#GENERAL/positive
+Probably would not go back here.,RESTAURANT#GENERAL/negative
+Maggot in the food!,FOOD#QUALITY/negative
+Surprisingly nothing could be further from the truth.,RESTAURANT#MISCELLANEOUS/positive
+Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.,"SERVICE#GENERAL/negative,RESTAURANT#PRICES/negative"
+Slightly on the pricey side but worth it!,"RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/positive"
+This place has the best Chinese style BBQ ribs in the city.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+Faan is sooo good.,RESTAURANT#GENERAL/positive
+"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food","RESTAURANT#PRICES/negative,FOOD#QUALITY/positive"
+This is by far my favorite place in the neighborhood.,RESTAURANT#GENERAL/positive
+The only downside... they only take cash which is OK if you know about it ahead of time.,RESTAURANT#MISCELLANEOUS/negative
+"THe back garden sitting area is very pleasant, where you can see their personal herb garden.",AMBIENCE#GENERAL/positive
+Would NEVER go back,RESTAURANT#GENERAL/negative
+Great atmoshere and worth every bit.,"RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive"
+sometimes i get good food and ok service.,"SERVICE#GENERAL/neutral,FOOD#QUALITY/positive"
+"Rude service, medicore food...there are tons of restaurants in NY...stay away from this one","SERVICE#GENERAL/negative,RESTAURANT#GENERAL/negative,FOOD#QUALITY/neutral"
+Although we were told 10-15 minutes and it was more like 45 minutes.,SERVICE#GENERAL/negative
+Our experience did not ever get any better.,RESTAURANT#GENERAL/negative
+"As many other reviewers noticed, your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time.",SERVICE#GENERAL/neutral
+I will be going back very soon.,RESTAURANT#GENERAL/positive
+The entertainment was great they have shows that go on through out the dinner.,AMBIENCE#GENERAL/positive
+"Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!",SERVICE#GENERAL/negative
+"Place is open till late, no dress code.",RESTAURANT#MISCELLANEOUS/positive
+I am happy i did the food was awsome.,FOOD#QUALITY/positive
+The Cypriot restaurant has a lot going for it.,RESTAURANT#GENERAL/positive
+They even scoop it out nice (for those on a diet) not too much not to little.,FOOD#STYLE_OPTIONS/positive
+Everything about this restaurant was special.,RESTAURANT#GENERAL/positive
+"delicious bagels, especially when right out of the oven.",FOOD#QUALITY/positive
+"Their calzones are horrific, bad, vomit-inducing, YUCK.",FOOD#QUALITY/negative
+Saul is the best restaurant on Smith Street and in Brooklyn.,RESTAURANT#GENERAL/positive
+I loved it and would HIGHLY RECOMMEND.,RESTAURANT#GENERAL/positive
+"Service ok but unfriendly,filthy bathroom.","AMBIENCE#GENERAL/negative,SERVICE#GENERAL/negative"
+bad staff,SERVICE#GENERAL/negative
+"Food was very good, but not what I would consider out of this world.",FOOD#QUALITY/neutral
+Thank You Emilio.,RESTAURANT#GENERAL/positive
+"Pizza is terrific, as is homemade pasta.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"In about 12 minutes, the thing is gone.",FOOD#QUALITY/positive
+"The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",SERVICE#GENERAL/negative
+"Have recommended the place to friends, always gets good response.",RESTAURANT#MISCELLANEOUS/positive
+Fantastic place.,RESTAURANT#GENERAL/positive
+"Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.","SERVICE#GENERAL/positive,SERVICE#GENERAL/positive"
+We had a good time.,RESTAURANT#GENERAL/positive
+"If you don't like it, I don't know what to tell you.",FOOD#QUALITY/positive
+Service was also very good.,SERVICE#GENERAL/positive
+What a great place!,RESTAURANT#GENERAL/positive
+Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.,RESTAURANT#MISCELLANEOUS/positive
+Too bad the food wasn't of the same heritage.,FOOD#QUALITY/negative
+"If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona.",RESTAURANT#GENERAL/positive
+"Good, fast service.",SERVICE#GENERAL/positive
+Good for dates or with friends.,RESTAURANT#MISCELLANEOUS/positive
+"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+Had no flavor and the staff is rude and not attentive.,"FOOD#QUALITY/negative,SERVICE#GENERAL/negative"
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever.,SERVICE#GENERAL/negative
+If I could give 0 stars I would do so for this place.,RESTAURANT#GENERAL/negative
+Terrible Waste of money.. scammers,"RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/negative"
+The service was excellent - friendly and attentive.,SERVICE#GENERAL/positive
+Slightly above average wines start at $70+ with only one selection listed at $30+.,"DRINKS#QUALITY/negative,DRINKS#PRICES/negative"
+But they do.,SERVICE#GENERAL/positive
+"You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+"The food here is rather good, but only if you like to wait for it.","SERVICE#GENERAL/negative,FOOD#QUALITY/positive"
+"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",SERVICE#GENERAL/negative
+"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.","FOOD#PRICES/negative,FOOD#QUALITY/negative"
+"Don't judge this place prima facie, you have to try it to believe it, a home away from home for the literate heart.",RESTAURANT#GENERAL/positive
+One of the BEST,RESTAURANT#GENERAL/positive
+This place survives on reputation alone.,RESTAURANT#MISCELLANEOUS/negative
+"Try everything for that matter, it is all good.",FOOD#QUALITY/positive
+Service was quick.,SERVICE#GENERAL/positive
+I plan on stopping by next week as well.,RESTAURANT#GENERAL/positive
+"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.","FOOD#QUALITY/positive,RESTAURANT#MISCELLANEOUS/negative"
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,"SERVICE#GENERAL/negative,FOOD#QUALITY/positive"
+I loved it and would go again.,RESTAURANT#GENERAL/positive
+"While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.",SERVICE#GENERAL/negative
+Best Indian Restaurant in the City,RESTAURANT#GENERAL/positive
+"The waiter was attentive, the food was delicious and the views of the city were great.","SERVICE#GENERAL/positive,LOCATION#GENERAL/positive,FOOD#QUALITY/positive"
+The food is so cheap and the waiters are nice.,"FOOD#PRICES/positive,SERVICE#GENERAL/positive"
+"You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.","DRINKS#QUALITY/positive,DRINKS#STYLE_OPTIONS/positive,DRINKS#PRICES/positive,AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,DRINKS#QUALITY/positive"
+Even after they overcharged me the last time I was there.,SERVICE#GENERAL/negative
+The wine list is excellent.,DRINKS#STYLE_OPTIONS/positive
+"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).","FOOD#PRICES/positive,FOOD#PRICES/positive,FOOD#PRICES/positive,FOOD#PRICES/positive"
+Best Taiwanese food in NY!,FOOD#QUALITY/positive
+"If you're into being lost when you're just five feet from your table then hey, that's a good thing.",AMBIENCE#GENERAL/negative
+love the food.,FOOD#QUALITY/positive
+Got a date? Go here!,RESTAURANT#MISCELLANEOUS/positive
+"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!","AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive"
+"To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok.",SERVICE#GENERAL/neutral
+The stuff tilapia was horrid...tasted like cardboard.,FOOD#QUALITY/negative
+"They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.",SERVICE#GENERAL/negative
+The design and atmosphere is just as good.,"AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"The decor is night tho...but they REALLY need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.","AMBIENCE#GENERAL/negative,AMBIENCE#GENERAL/negative,AMBIENCE#GENERAL/positive"
+Possibly the Most Romantic Restaurant in the City,AMBIENCE#GENERAL/positive
+Best In ALL of NYC,RESTAURANT#GENERAL/positive
+The location and ambience is Ok but the food is what makes up for it.,"AMBIENCE#GENERAL/neutral,FOOD#QUALITY/positive,LOCATION#GENERAL/neutral"
+"The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",SERVICE#GENERAL/positive
+"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,LOCATION#GENERAL/neutral"
+I think I've had some the best meals of my life at minnow.,FOOD#QUALITY/positive
+I did not try the caviar but I tried their salmon and crab salad (they are all good),"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+By the time we finished our dinner we still had not received one beverage NOR hooka!,SERVICE#GENERAL/negative
+"Either that, or the editor's idea of romance must be sharing a conversation with the next table, while trying to speak louder than the traffic on 57th.",AMBIENCE#GENERAL/negative
+"Service not the friendliest to our ""large party""!",SERVICE#GENERAL/negative
+"I have eaten at Saul, many times, the food is always consistently, outrageously good.",FOOD#QUALITY/positive
+"Excellent dumplings served amid clean, chic decor.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+Haru on Park S is simply disgusting.,RESTAURANT#GENERAL/negative
+I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.,RESTAURANT#GENERAL/negative
+Can't wait to go back.,"RESTAURANT#GENERAL/positive,RESTAURANT#GENERAL/positive"
+"Great food, great prices, great service.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+I would go back.,RESTAURANT#GENERAL/positive
+"However, go for the ambience, and consider the food just a companion for a trip across the world!","FOOD#QUALITY/neutral,AMBIENCE#GENERAL/positive"
+The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.,RESTAURANT#MISCELLANEOUS/negative
+"The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.","FOOD#QUALITY/positive,SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+We were greeted promptly by the waiter who was very nice and cordial.,SERVICE#GENERAL/positive
+The food here does a great service to the name (Cantonese that is...).,FOOD#QUALITY/positive
+It was divine melts in your mouth.,FOOD#QUALITY/positive
+"Servers are all different, Greg is my favorite.",SERVICE#GENERAL/positive
+The best pad thai i've ever had.,FOOD#QUALITY/positive
+"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"Please take my advice, go and try this place.",RESTAURANT#GENERAL/positive
+Definitely worth the trip to Battery Park City!,RESTAURANT#GENERAL/positive
+Ingredients are organic which is a real plus for me.,FOOD#QUALITY/positive
+I take all my NYC guests to VT's.,RESTAURANT#MISCELLANEOUS/positive
+The wait staff is very courteous and accomodating.,SERVICE#GENERAL/positive
+"Food was okay, nothing great.",FOOD#QUALITY/neutral
+"The blond wood decor is very soothing, the premium sake is excellent and the service is great.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive,DRINKS#QUALITY/positive"
+This is a nice pizza place with good selection of thin crust pizza including the Basil slice.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,RESTAURANT#GENERAL/positive"
+Patsy's Pizza = true love,RESTAURANT#GENERAL/positive
+We were not dissappointed in the least bit by this little gem.,RESTAURANT#GENERAL/positive
+"This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!",RESTAURANT#MISCELLANEOUS/positive
+In summer-eat outside on a terrace (another great feature of Suan)!!!,AMBIENCE#GENERAL/positive
+"The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!","SERVICE#GENERAL/negative,RESTAURANT#GENERAL/positive"
+The martinis are amazing and very fairly priced.,"DRINKS#QUALITY/positive,DRINKS#PRICES/positive"
+"The service was attentive, yet discreet.",SERVICE#GENERAL/positive
+The counter service is bad.,SERVICE#GENERAL/negative
+"The waitress, seems to be more concerned of looking good than actually waitressing.",SERVICE#GENERAL/negative
+"Be prepared to wait, because the place is pretty tiny.",RESTAURANT#MISCELLANEOUS/negative
+"We ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat.",FOOD#QUALITY/negative
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,LOCATION#GENERAL/positive
+Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.,"FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/negative"
+A guaranteeed delight!,RESTAURANT#GENERAL/positive
+"Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.","FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+This tiny Williamsburg spot is always pleasantly surprising.,RESTAURANT#GENERAL/positive
+Rao's has the best service and atmosphere in NYC.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"Everytime I decide to try another place on the UES, I get angry that I didn't just go to Zucchero Pomodori.",RESTAURANT#GENERAL/positive
+"Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!",SERVICE#GENERAL/negative
+"I came across Village Underground by accident, now I go there all the time.",RESTAURANT#GENERAL/positive
+"The food was good, the place was clean and affordable.","AMBIENCE#GENERAL/positive,RESTAURANT#PRICES/positive,FOOD#QUALITY/positive"
+"When we threatened to leave, we were offered a meager discount even though half the order was missing.",SERVICE#GENERAL/negative
+"This was, from start to finish, a mind-bogglingly uncomfortable experience.",RESTAURANT#GENERAL/negative
+People are always friendly.,SERVICE#GENERAL/positive
+The decor is very simple but comfortable.,AMBIENCE#GENERAL/positive
+A little noise but I think that was because of our party!,AMBIENCE#GENERAL/neutral
+Salads are a delicious way to begin the meal.,FOOD#QUALITY/positive
+The main entree was also very good.,FOOD#QUALITY/positive
+"Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!","DRINKS#STYLE_OPTIONS/positive,SERVICE#GENERAL/positive"
+The food here was mediocre at best.,FOOD#QUALITY/negative
+I have never before eaten 40 pieces of relatively good nigiri.,FOOD#QUALITY/neutral
+"Best of all is the warm vibe, the owner is super friendly and service is fast.","SERVICE#GENERAL/positive,SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+And amazingly cheap.,FOOD#PRICES/positive
+They have a huge selection of different cream cheeses and all of their salads are great.,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+A beautifully designed dreamy Egyptian restaurant that gets sceney at night.,AMBIENCE#GENERAL/positive
+"great for a romantic evening, or a fun evening with friends...","AMBIENCE#GENERAL/positive,RESTAURANT#MISCELLANEOUS/positive"
+"I attended a holiday dinner at the restaurant, and the food was majorly disappointing.",FOOD#QUALITY/negative
+Delivery is fast too.,SERVICE#GENERAL/positive
+This is the kind of place you'd like to take all your friends to and still keep a secret.,RESTAURANT#MISCELLANEOUS/positive
+The food is authentic Italian - delicious!,FOOD#QUALITY/positive
+Service was also horrible and the ambience is not that great.,"SERVICE#GENERAL/negative,AMBIENCE#GENERAL/negative"
+With the theater 2 blocks away we had a delicious meal in a beautiful room.,"LOCATION#GENERAL/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.","RESTAURANT#PRICES/positive,RESTAURANT#GENERAL/positive"
+A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,"AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"Considering you will spend at least $60 a head, I expect better service.","RESTAURANT#PRICES/negative,SERVICE#GENERAL/negative"
+No thanks!!!,RESTAURANT#GENERAL/negative
+SO GOOD,RESTAURANT#GENERAL/positive
+Food is great and inexpensive.,"FOOD#PRICES/positive,FOOD#QUALITY/positive"
+We thought that this place is using too much of MSG cooking in the foods.,FOOD#QUALITY/negative
+It is a lot of fun with live entertainment and all kinds of Disney type special effects.,AMBIENCE#GENERAL/positive
+This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+For a Fabulous Wedding!,RESTAURANT#MISCELLANEOUS/positive
+"This is the MOST wonderful restaurant in all of New York City, not just Brooklyn...",RESTAURANT#GENERAL/positive
+"My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary, and to our surprise it was fantastic.",RESTAURANT#GENERAL/positive
+Dessert: pure disaster.,FOOD#QUALITY/negative
+Our food was great too!,FOOD#QUALITY/positive
+"I must say I am surprised by the bad reviews of the restaurant earlier in the year, though.",RESTAURANT#GENERAL/positive
+"After dinner the manager grabbed my boyfriend, asked him: Where are you from...maybe you dont know how things work in America...and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.",SERVICE#GENERAL/negative
+Surprised that a place of this caliber would advertise it as Kobe.,RESTAURANT#MISCELLANEOUS/negative
+It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!,"AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive"
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.,"AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/negative"
+For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.,SERVICE#GENERAL/negative
+Excellent food for great prices,"FOOD#PRICES/positive,FOOD#QUALITY/positive"
+Try the sea bass.,FOOD#QUALITY/positive
+Patroon features a nice cigar bar and has great staff.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,LOCATION#GENERAL/positive
+Beef noodle soup is good as well.,FOOD#QUALITY/positive
+I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.,FOOD#QUALITY/positive
+"This is a great place to take out-of-towners, and perfect for watching the sunset.",LOCATION#GENERAL/positive
+This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.,RESTAURANT#MISCELLANEOUS/positive
+"short and sweet – seating is great:it's romantic,cozy and private.",AMBIENCE#GENERAL/positive
+The Seafood Dynamite is also otherworldly.,FOOD#QUALITY/positive
+I wasn't here for the pizza so I can't comment on that yet but what I had was very good.,FOOD#QUALITY/positive
+The pizza is yummy and I like the atmoshpere.,"AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+The entree was also very good.,FOOD#QUALITY/positive
+"Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",RESTAURANT#GENERAL/positive
+"Great place, great value.","RESTAURANT#GENERAL/positive,RESTAURANT#PRICES/positive"
+Worth the trip from Manhattan.,RESTAURANT#GENERAL/positive
+The place is small and cramped but the food is fantastic.,"AMBIENCE#GENERAL/negative,FOOD#QUALITY/positive"
+Get the tuna of gari.,FOOD#QUALITY/positive
+My son and his girlfriend both wanted cheeseburgers and they were huge!,FOOD#STYLE_OPTIONS/neutral
+The design of the space is good.,AMBIENCE#GENERAL/positive
+"The food was not fresh, the sauces were bland and very oily.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+Authentic Taiwanese food that's cheap... what more could you ask for?,"FOOD#QUALITY/positive,FOOD#PRICES/positive"
+I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.,RESTAURANT#MISCELLANEOUS/positive
+you know what i mean all the positives things happening there made mw write this review.,RESTAURANT#GENERAL/positive
+Go hungry and enjoy.,RESTAURANT#GENERAL/positive
+Food was OK.,FOOD#QUALITY/neutral
+I've waited over one hour for food.,SERVICE#GENERAL/negative
+"The food is amazing, rich pastas and fresh doughy pizza.","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I would definitely recommend SEA if you like thai cuisine!,FOOD#QUALITY/positive
+Everyone was more then happy with his choices.,SERVICE#GENERAL/positive
+Everything we had was good or ok....but definitely nothing great.,RESTAURANT#GENERAL/neutral
+LOVE the atmosphere - felt like I was in Paris.,AMBIENCE#GENERAL/positive
+Wine list selection is good and wine-by-the-glass was generously filled to the top.,"DRINKS#STYLE_OPTIONS/positive,DRINKS#STYLE_OPTIONS/positive"
+"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice!","FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+"For the price, you cannot eat this well in Manhattan.","RESTAURANT#PRICES/positive,FOOD#QUALITY/positive"
+Great pizza for lunch place.,FOOD#QUALITY/positive
+"Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+"Toons has recently been redone, so it's now a very attractive space.",AMBIENCE#GENERAL/positive
+"Admittedly some nights inside the restaurant were rather warm, but the open kitchen is part of the charm.","AMBIENCE#GENERAL/negative,AMBIENCE#GENERAL/positive"
+"If we were to move from the upper east side, we would genuinely miss this restaurant.",RESTAURANT#GENERAL/positive
+I will NEVER return.,RESTAURANT#GENERAL/negative
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,"FOOD#PRICES/negative,SERVICE#GENERAL/negative,FOOD#QUALITY/negative"
+The scallion pancakes and fried dumplings were nothing out of the ordinary.,"FOOD#QUALITY/neutral,FOOD#QUALITY/neutral"
+Everything was going good until we got our meals.,"FOOD#QUALITY/negative,RESTAURANT#GENERAL/positive"
+Taking Hot Dogs to the next level,FOOD#QUALITY/positive
+"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.","FOOD#QUALITY/negative,FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/negative"
+This restaurant was way overhyped.,RESTAURANT#GENERAL/negative
+"Great friendly service, Fast seating, Fast Delivery, Excellent sushi.","SERVICE#GENERAL/positive,SERVICE#GENERAL/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+We'd go back again,RESTAURANT#GENERAL/positive
+"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,DRINKS#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The setting is casual and romantic.,AMBIENCE#GENERAL/positive
+"Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.","FOOD#QUALITY/positive,FOOD#QUALITY/negative"
+Nice view of river and NYC.,LOCATION#GENERAL/positive
+"Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+I also recommend the rice dishes or the different varieties of congee (rice porridge).,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I can't wait to go back.,RESTAURANT#GENERAL/positive
+"Nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything.",SERVICE#GENERAL/negative
+But $500 for a dinner for two that didn't include Wine?,FOOD#PRICES/negative
+Try it!,RESTAURANT#GENERAL/positive
+The place was nice and calm.,AMBIENCE#GENERAL/positive
+The hostess was rude and I got a distinct feeling that they did not want to serve us.,"SERVICE#GENERAL/negative,SERVICE#GENERAL/negative"
+You can do it here.,FOOD#STYLE_OPTIONS/positive
+We did arrive late for our reservation so I can not complain too much about the wait for a table.,SERVICE#GENERAL/neutral
+it's delicious!,FOOD#QUALITY/positive
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.,FOOD#QUALITY/positive
+My daughter's wedding reception at Water's Edge received the highest compliments from our guests.,RESTAURANT#MISCELLANEOUS/positive
+Not what I would expect for the price and prestige of this location.,"SERVICE#GENERAL/negative,RESTAURANT#PRICES/neutral,RESTAURANT#MISCELLANEOUS/neutral"
+Pizza here is consistently good.,FOOD#QUALITY/positive
+We've tried before but it always packed and doesn't take reservations.,RESTAURANT#MISCELLANEOUS/neutral
+I go and eat out at many different restaurants and this is one place you have go and try.,RESTAURANT#GENERAL/positive
+I LOVE their Thai,FOOD#QUALITY/positive
+Ravioli was good...but I have to say that I found everything a bit overpriced.,"FOOD#QUALITY/positive,FOOD#PRICES/negative"
+The three of us standing in front of her should have been an indication of how many of us there were.,SERVICE#GENERAL/negative
+Try their chef's specials-- they are to die for.,FOOD#QUALITY/positive
+"The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.","SERVICE#GENERAL/negative,AMBIENCE#GENERAL/negative,RESTAURANT#MISCELLANEOUS/negative"
+The only beverage we did receive was water in dirty glasses!,SERVICE#GENERAL/negative
+Also they were $15 each!,FOOD#PRICES/negative
+It's a small cute restaurant.,AMBIENCE#GENERAL/positive
+"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.","AMBIENCE#GENERAL/negative,FOOD#PRICES/negative,RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/positive"
+"His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.",SERVICE#GENERAL/negative
+and yes Dal Bukhara is so dam good and so are all the kababs.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Food-awesome.,FOOD#QUALITY/positive
+Great Hot Dogs!,FOOD#QUALITY/positive
+Keep up the good work guys!,RESTAURANT#GENERAL/positive
+I will definetly be going back.,RESTAURANT#GENERAL/positive
+This is the best sushi in new york city - hands down.,FOOD#QUALITY/positive
+"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"My wife and I always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.",SERVICE#GENERAL/positive
+We could have made a meal of the yummy dumplings from the dumpling menu.,FOOD#QUALITY/positive
+It looked like shredded cheese partly done - still in strips.,FOOD#STYLE_OPTIONS/negative
+This establishment is the real deal.,RESTAURANT#GENERAL/positive
+"great food, great wine list, great service in a great neighborhood...","DRINKS#STYLE_OPTIONS/positive,SERVICE#GENERAL/positive,LOCATION#GENERAL/positive,FOOD#QUALITY/positive"
+"But the best part about LS is the late night atmosphere, delightfully free of the BTs.",AMBIENCE#GENERAL/positive
+Noodle pudding is exactly the type of service and food I enjoy.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+It is thick and slightly soggy.,FOOD#QUALITY/negative
+"When you add it all together, it just doesn't seem worth it to me...especially considering the prices.","RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/negative"
+I pray it stays open forever.,RESTAURANT#GENERAL/positive
+The hostess and the waitress were incredibly rude and did everything they could to rush us out.,"SERVICE#GENERAL/negative,SERVICE#GENERAL/negative"
+"It is set far from the small street it's on, and there is no traffic noise.",LOCATION#GENERAL/positive
+"Try the Pad Thai, it's fabulous and their prices are so cheap!","FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+Mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though).,"FOOD#QUALITY/positive,FOOD#QUALITY/negative"
+The seats are uncomfortable if you are sitting against the wall on wooden benches.,AMBIENCE#GENERAL/negative
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,"FOOD#QUALITY/positive,LOCATION#GENERAL/positive"
+Big Wong is a great place to eat and fill your stomach.,RESTAURANT#GENERAL/positive
+IT WAS HORRIBLE.,RESTAURANT#GENERAL/negative
+"Great spot, whether looking for a couple of drinks or quiet dinner.","RESTAURANT#MISCELLANEOUS/positive,RESTAURANT#GENERAL/positive"
+My husband and I have been sold on this from the first visit.,RESTAURANT#GENERAL/positive
+Terrible would be a compliment!,RESTAURANT#GENERAL/negative
+They all know you.,SERVICE#GENERAL/positive
+I highly recommend this beautiful place.,"RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive"
+The cream cheeses are out of this world and I love that coffee!!,"DRINKS#QUALITY/positive,FOOD#QUALITY/positive"
+Not cheap but very yummy.,"FOOD#PRICES/negative,FOOD#QUALITY/positive"
+"There was a small wait, but shorter than I expected.",SERVICE#GENERAL/positive
+Mizu is home to creative and unique rolls not to found anywhere else.,FOOD#STYLE_OPTIONS/positive
+"Don't get me started on the margaritas, either.",DRINKS#QUALITY/negative
+"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??",SERVICE#GENERAL/negative
+Awsome Pizza especially the Margheritta slice.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+She just nodded and walked off.,SERVICE#GENERAL/negative
+I heard the lobster roll was excellent.,FOOD#QUALITY/positive
+They honored reservation on Sunday afternoon very well.,SERVICE#GENERAL/positive
+It's great to go for a quick lunch either alone or with a friend.,RESTAURANT#MISCELLANEOUS/positive
+The pizza is delicious and the proprietor is one of the nicest in NYC.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+"Judging from previous posts this used to be a good place, but not any longer.",RESTAURANT#GENERAL/negative
+"Skip this restaurant, it's a big disappointment.",RESTAURANT#GENERAL/negative
+Try green curry with vegetables.,FOOD#QUALITY/positive
+The food was pretty tradional but it was hot and good with large portions.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The only thing more wonderful than the food (which is exceptional) is the service.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+Salads were fantastic.,FOOD#QUALITY/positive
+Wine list is extensive without being over-priced.,"DRINKS#STYLE_OPTIONS/positive,DRINKS#PRICES/positive"
+"Again, I'd be super upset if that were my employee.",SERVICE#GENERAL/negative
+But the staff was so horrible to us.,SERVICE#GENERAL/negative
+Loved it!,RESTAURANT#GENERAL/positive
+The wine list is also really nice.,DRINKS#STYLE_OPTIONS/positive
+Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.,"FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+"They tell me they are going to cover the garden in glass for the winter, so i'm looking forward to going there on a snowy night to enjoy it.",RESTAURANT#MISCELLANEOUS/positive
+"Other guests enjoyed pizza, santa fe chopped salad and fish and chips.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+even the wine by the glass was good.,DRINKS#QUALITY/positive
+"I can't believe that it was, but please put the bag down before delivering food!",SERVICE#GENERAL/negative
+"They have it all -- great price, food, and service.","RESTAURANT#GENERAL/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+Great Indian food,FOOD#QUALITY/positive
+Great sushi experience.,FOOD#QUALITY/positive
+I have never been so disgusted by both food an service.,"SERVICE#GENERAL/negative,FOOD#QUALITY/negative"
+We will be back.,"RESTAURANT#GENERAL/positive,RESTAURANT#GENERAL/positive"
+"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.","RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"Cute place, nice wait staff but would never go there again.","AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/negative,SERVICE#GENERAL/positive"
+I highly recommend the restaurant based on our experience last night.,RESTAURANT#GENERAL/positive
+How do you rate home?,RESTAURANT#MISCELLANEOUS/positive
+first it took us a long time to find the place.,RESTAURANT#MISCELLANEOUS/negative
+"We arrived and were seated immediately, which made us both happy.",SERVICE#GENERAL/positive
+"The staff was accomodating, the food was absolutely delicious and the place is lovely.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive"
+The high prices you're going to pay is for the view not for the food.,"FOOD#QUALITY/negative,RESTAURANT#PRICES/negative,LOCATION#GENERAL/neutral"
+Thank you everyone at Water's Edge.,RESTAURANT#GENERAL/positive
+The only fallback on this restaurant is the prices.,RESTAURANT#PRICES/negative
+i love margherita pizza – i looove east village pizza,"RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive"
+"A word to the wise: you can't dine here and disturb the maitre-D's sense of "" table turnover"", as whacked as it is, or else.",SERVICE#GENERAL/negative
+The bar is very well stocked with interesting beers and well priced wines.,"DRINKS#STYLE_OPTIONS/positive,DRINKS#STYLE_OPTIONS/positive,DRINKS#PRICES/positive"
+(Always ask the bartender for the SEASONAL beer!!!,DRINKS#QUALITY/positive
+This place is always packed.,RESTAURANT#MISCELLANEOUS/neutral
+I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere!,SERVICE#GENERAL/negative
+"Also, the sandwiches (nearing $7) didn't come with anything like chips or a side.","FOOD#PRICES/negative,FOOD#STYLE_OPTIONS/negative"
+"Love this place, every time we are in the city this is one of the places we always go.",RESTAURANT#GENERAL/positive
+"I paid just about $60 for a good meal, though :)","FOOD#PRICES/positive,FOOD#QUALITY/positive"
+"Ask for Usha, the nicest bartender in manhattan.",SERVICE#GENERAL/positive
+I highly recommend the Sophia pizza.,FOOD#QUALITY/positive
+The portions are small but being that the food was so good makes up for that.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/negative"
+A great place to meet up for some food and drinks...,RESTAURANT#MISCELLANEOUS/positive
+"The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.",SERVICE#GENERAL/negative
+not sure why this restaurant would be rated that highly.,RESTAURANT#GENERAL/negative
+This little place definitely exceeded my expectations and you sure get a lot of food for your money.,"FOOD#PRICES/positive,FOOD#STYLE_OPTIONS/positive,RESTAURANT#GENERAL/positive"
+"Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.",SERVICE#GENERAL/positive
+I think the pizza is so overrated and was under cooked.,FOOD#QUALITY/negative
+She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+One of us actually liked the expresso - that's it.,DRINKS#QUALITY/positive
+I am bringing my whole family back next time.,RESTAURANT#MISCELLANEOUS/positive
+The waiter was attentive.,SERVICE#GENERAL/positive
+"Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,LOCATION#GENERAL/positive"
+"Food took some time to prepare, all worth waiting for.","FOOD#QUALITY/positive,SERVICE#GENERAL/neutral"
+I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...),RESTAURANT#GENERAL/positive
+"After all that, they complained to me about the small tip.",SERVICE#GENERAL/negative
+I have been to Casimir over 5 times and I have always had a great time there.,RESTAURANT#GENERAL/positive
+Pacifico is a great place to casually hang out.,RESTAURANT#MISCELLANEOUS/positive
+I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.,"FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+"Not much of a selection of bottled beer either, we went with Brahma.",DRINKS#STYLE_OPTIONS/negative
+Best. Sushi. Ever.,FOOD#QUALITY/positive
+"The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+Too bad I had paid an extra $2 for the stone bowl.,FOOD#PRICES/negative
+"They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand).",SERVICE#GENERAL/negative
+"The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/negative,SERVICE#GENERAL/negative"
+I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.,FOOD#STYLE_OPTIONS/negative
+"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/negative,SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+Very cozy and warm inside.....,AMBIENCE#GENERAL/positive
+"There was no tap beer that evening, which was a disappointment.",DRINKS#STYLE_OPTIONS/negative
+My chow fun and chow see was really bland and oily.,FOOD#QUALITY/negative
+The staff is no nonsense.,SERVICE#GENERAL/positive
+great food,FOOD#QUALITY/positive
+"Great service, great food.","FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+And really large portions.,FOOD#STYLE_OPTIONS/positive
+"The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse.",AMBIENCE#GENERAL/neutral
+Cheese plate is a varied delight and great bargain at $10.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#PRICES/positive"
+"Always a nice crowd, but never loud.","RESTAURANT#MISCELLANEOUS/positive,AMBIENCE#GENERAL/positive"
+Great survice,SERVICE#GENERAL/positive
+"Service is not exactly five star, but thats not really a big deal.",SERVICE#GENERAL/neutral
+"The food was excellent as well as service, however, I left The Four Seasons very dissappointed.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#GENERAL/negative"
+I won't go back unless someone else is footing the bill.,"RESTAURANT#GENERAL/negative,RESTAURANT#PRICES/negative"
+"I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.",RESTAURANT#GENERAL/positive
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.,AMBIENCE#GENERAL/positive
+The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.,"RESTAURANT#MISCELLANEOUS/neutral,AMBIENCE#GENERAL/neutral"
+Great bagels made the old-fashioned way.,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+The lava cake dessert was incredible and I recommend it.,FOOD#QUALITY/positive
+"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).","FOOD#QUALITY/positive,SERVICE#GENERAL/negative"
+"Both times I was extremely dissappointed by the service, which was boarderline rude.",SERVICE#GENERAL/negative
+The food was average or above including some surprising tasty dishes.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"So close, but not good enough.",RESTAURANT#GENERAL/neutral
+The buffet had a nice selection.,FOOD#STYLE_OPTIONS/positive
+And where does Patis go wrong; no where.,RESTAURANT#GENERAL/positive
+We were drawn into the belly dancing show that captivated the crowd.,AMBIENCE#GENERAL/positive
+Make sure you have the Spicy Scallop roll.. .,FOOD#QUALITY/positive
+"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+"The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).",SERVICE#GENERAL/positive
+"Nice atmosphere, the service was very pleasant and the desert was good.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+Planet Thai is great!,RESTAURANT#GENERAL/positive
+This is the BEST Shabu-Shabu Restaurant in the Try-State Area.,RESTAURANT#GENERAL/positive
+We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.,FOOD#QUALITY/positive
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,"AMBIENCE#GENERAL/neutral,FOOD#QUALITY/positive"
+"In any event, this is a place I'll be sure to stop by again when I'm in this part of town.",RESTAURANT#GENERAL/positive
+A great choice at any cost and a great deal.,"RESTAURANT#PRICES/positive,RESTAURANT#GENERAL/positive"
+"My husband said he could've eaten several more, the portion was fine for me he even exclaimed that the french fries were the best he has had.","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/negative"
+Will absolutely visit again.,RESTAURANT#GENERAL/positive
+"lobster was good, nothing spectacular.",FOOD#QUALITY/neutral
+I asked for a menu and the same waitress looked at my like I was insane.,SERVICE#GENERAL/negative
+"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I had the duck breast special on my last visit and it was incredible.,FOOD#QUALITY/positive
+MMMMMMMMMmmmmmm so delicious,FOOD#QUALITY/positive
+We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,SERVICE#GENERAL/positive
+I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.,"AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/negative"
+It hits the spot every time,RESTAURANT#GENERAL/positive
+It's a nice place to relax and have conversation.,AMBIENCE#GENERAL/positive
+It was well worth the wait.,RESTAURANT#GENERAL/positive
+"Went here last night - nice decor, good service, but the food was surprisingly excellent.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+We will go back every time we are in the City.,RESTAURANT#GENERAL/positive
+"When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.",SERVICE#GENERAL/negative
+We were seated outside and the waiter spilled red wine and hot tea on myself and my date.,SERVICE#GENERAL/negative
+"It's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.","FOOD#QUALITY/negative,FOOD#QUALITY/negative,AMBIENCE#GENERAL/negative,FOOD#QUALITY/negative"
+This place is not inviting and the food is totally weird.,"AMBIENCE#GENERAL/negative,FOOD#QUALITY/negative"
+The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.,"DRINKS#STYLE_OPTIONS/positive,SERVICE#GENERAL/negative"
+"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.","RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/negative,SERVICE#GENERAL/negative"
+Good luck getting a table.,RESTAURANT#MISCELLANEOUS/neutral
+This dish is my favorite and I always get it when I go there and never get tired of it.,FOOD#QUALITY/positive
+"The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.","DRINKS#PRICES/negative,FOOD#STYLE_OPTIONS/neutral,AMBIENCE#GENERAL/negative"
+Go here.,RESTAURANT#GENERAL/positive
+The flavors are amazing and the value is phenomenal.,"FOOD#QUALITY/positive,FOOD#PRICES/positive"
+Good creative rolls!,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+"La Rosa waltzes in, and I think they are doing it the best.",FOOD#QUALITY/positive
+Service was prompt and courteous.,SERVICE#GENERAL/positive
+"The crust is thin, the ingredients are fresh and the staff is friendly.","FOOD#QUALITY/positive,SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"The pasta was well cooked, didn't have enough sauce though or flavor.","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/positive"
+Great Shabu Shabu,FOOD#QUALITY/positive
+"We ate out in the back patio, which is worth it as it's cool and the music is hear well there.","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+Fresh ingredients and everything is made to order.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The shrimp scampi was excellent and the antipasti were plentiful.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+I wish they would change back to what it was before.,RESTAURANT#GENERAL/negative
+Such a disappointment...,SERVICE#GENERAL/negative
+Try sushimi cucumber roll.,FOOD#QUALITY/positive
+My wife and I ate here earlier this week and have not stopped ranting and raving about the food.,FOOD#QUALITY/positive
+"Have eaten at Ginger House several times, and it's always good.",RESTAURANT#GENERAL/positive
+"The first time the sushi was outstanding, the second time it was a little bland.","FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/negative"
+the waitstaffs are nice though.,SERVICE#GENERAL/positive
+I have never had cheescake like this.,FOOD#QUALITY/positive
+Their tuna tartar appetizer is to die for.,FOOD#QUALITY/positive
+I took one look at the chicken and I was appalled.,FOOD#STYLE_OPTIONS/negative
+its alright,RESTAURANT#GENERAL/neutral
+It is very overpriced and not very tasty.,"FOOD#PRICES/negative,FOOD#QUALITY/negative"
+"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+Our server was very helpful and friendly.,SERVICE#GENERAL/positive
+"The bar drinks were Eh, ok to say the least.",DRINKS#QUALITY/negative
+"The menu looked great, and the waiter was very nice, but when the food came, it was average.","FOOD#QUALITY/neutral,FOOD#STYLE_OPTIONS/positive,SERVICE#GENERAL/positive"
+wont come back again for sure!,RESTAURANT#GENERAL/negative
+When I got there the place was packed but they made sure to seat me quickly.,SERVICE#GENERAL/positive
+If you want good authentic Thai this place is not the place to go.,FOOD#QUALITY/negative
+"Not sure where the previous reviewer, lonk, dined, but Saul is in a great neighborhood and has great food!","FOOD#QUALITY/positive,LOCATION#GENERAL/positive"
+I had a grat time at Jekyll and Hyde!,RESTAURANT#GENERAL/positive
+i love their chicken pasta cant remember the name but is sooo good,FOOD#QUALITY/positive
+"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.","FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/positive"
+"Of course, it is crowded but who cares.",RESTAURANT#MISCELLANEOUS/neutral
+"Told us to sit anywhere, and when we sat he said the table was reserved.",SERVICE#GENERAL/negative
+my favorite place lol,RESTAURANT#GENERAL/positive
+Decor needs to be upgraded but the food is amazing!,"AMBIENCE#GENERAL/negative,FOOD#QUALITY/positive"
+"(The asparagus, truffle oil, parmesan bruschetta is a winner!)",FOOD#QUALITY/positive
+"The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way.","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+Located at the end of a magnificent block.,LOCATION#GENERAL/positive
+"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.","FOOD#PRICES/positive,SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive,FOOD#PRICES/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The sashimi is always fresh and the rolls are innovative and delicious.,"FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+The food was exceptional.,FOOD#QUALITY/positive
+amazing fresh dogs but best of all endless toppings!!!,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+The staff is incredibly helpful and attentive.,SERVICE#GENERAL/positive
+"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!","RESTAURANT#MISCELLANEOUS/negative,RESTAURANT#PRICES/negative,FOOD#QUALITY/negative"
+"We love the food, drinks, and atmosphere!","DRINKS#QUALITY/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+Open late (well as late as I ever got there and I'm a night person),RESTAURANT#MISCELLANEOUS/positive
+"I highly recommend the fish tacos, everything else was ok.","FOOD#QUALITY/neutral,FOOD#QUALITY/positive"
+Pizza was a little soggy.,FOOD#QUALITY/negative
+Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.,FOOD#QUALITY/positive
+Awesome,RESTAURANT#GENERAL/positive
+Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!,"LOCATION#GENERAL/positive,AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.",SERVICE#GENERAL/negative
+The staff offers impeccable service.,SERVICE#GENERAL/positive
+Very pleased,RESTAURANT#GENERAL/positive
+THe perfect spot.,RESTAURANT#GENERAL/positive
+Good drink.,DRINKS#QUALITY/positive
+"I like the ambience, it's very dark and original.",AMBIENCE#GENERAL/positive
+If you like spicy food get the chicken vindaloo.,FOOD#QUALITY/positive
+"If you go here, do it on his off-night.",SERVICE#GENERAL/negative
+I felt as though I were eating in Paris.,FOOD#QUALITY/positive
+I would highly recommend this place!,RESTAURANT#GENERAL/positive
+Problem is nothing at Prune is particularly memorable.,RESTAURANT#GENERAL/negative
+"Been there, done that, and New York, it's not that big a deal.",RESTAURANT#GENERAL/neutral
+I had Lobster Bisque it has 2 oz. of Maine Lobster in it.,FOOD#STYLE_OPTIONS/positive
+but overall i give it a 10,RESTAURANT#GENERAL/positive
+This is the perfect date spot for Williamsburg couples.,RESTAURANT#MISCELLANEOUS/positive
+What you are paying for is the environment and the name.,"RESTAURANT#PRICES/negative,RESTAURANT#MISCELLANEOUS/neutral,AMBIENCE#GENERAL/neutral"
+"How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me.",RESTAURANT#GENERAL/negative
+"But for the Shabu Shabu, you won't find much better in NY.",FOOD#QUALITY/positive
+Poor service and management,"SERVICE#GENERAL/negative,SERVICE#GENERAL/negative"
+The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.,SERVICE#GENERAL/negative
+What a hassle!,RESTAURANT#GENERAL/negative
+I absolutely Loved this place.,RESTAURANT#GENERAL/positive
+"The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+fresh restaurant was amazing........ food was delicious and of course fresh.,"FOOD#QUALITY/positive,RESTAURANT#GENERAL/positive"
+No plans to return anytime soon.,RESTAURANT#GENERAL/negative
+"Interesting selection, good wines, service fine, fun decor.","SERVICE#GENERAL/positive,DRINKS#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,AMBIENCE#GENERAL/positive"
+"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant"".","RESTAURANT#PRICES/negative,RESTAURANT#MISCELLANEOUS/neutral"
+"Raga's is a romantic, cozy restaurant.",AMBIENCE#GENERAL/positive
+Waitstaff are very friendly.,SERVICE#GENERAL/positive
+After the 4th time i asked again and the waiter than said after our dinner.,SERVICE#GENERAL/negative
+Stay away,RESTAURANT#GENERAL/negative
+I loved everythig about it-especially the shows and actors.,"AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/positive"
+"We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",SERVICE#GENERAL/negative
+"The food is flavorful, plentiful and reasonably priced.","FOOD#PRICES/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+"I LOOOVE their eggplant pizza, as well as their pastas!","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.","LOCATION#GENERAL/positive,RESTAURANT#PRICES/positive"
+"Creative, consistent, fresh.","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+"They don't concern much of customer's health, just want to make money.",RESTAURANT#GENERAL/negative
+"This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.",SERVICE#GENERAL/negative
+The potato balls were not dry at all... in fact it was buttery.,FOOD#QUALITY/positive
+The service was the only thing good about this restaurant.,"SERVICE#GENERAL/positive,RESTAURANT#GENERAL/negative"
+The rice was poor quality and was cooked so badly it was hard.,FOOD#QUALITY/negative
+I look forward to eating here again,RESTAURANT#GENERAL/positive
+"The seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.","FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive,DRINKS#STYLE_OPTIONS/positive"
+"if you're daring, try the balsamic vinegar over icecream, it's wonderful!",FOOD#QUALITY/positive
+Amma is nothing special.,RESTAURANT#GENERAL/neutral
+Always good drinks and service is pretty good;,"DRINKS#QUALITY/positive,SERVICE#GENERAL/positive"
+I ate here a week ago and found most dishes average at best and too expensive.,"FOOD#QUALITY/negative,FOOD#PRICES/negative"
+Everyone was smiling so that made me feel welcome.,SERVICE#GENERAL/positive
+We all agreed that mare is one of the best seafood restaurants in New York.,RESTAURANT#GENERAL/positive
+My six year old loved it.,RESTAURANT#GENERAL/positive
+Fantastic!,RESTAURANT#GENERAL/positive
+"i've been to sapphire twice and both times the food was fine, if not good.",FOOD#QUALITY/positive
+I don't think I would go again.,RESTAURANT#GENERAL/negative
+highly recommended.,RESTAURANT#GENERAL/positive
+It is so romantic.,AMBIENCE#GENERAL/positive
+The food was authentic.,FOOD#QUALITY/positive
+Have been dozens of times and never failed to enjoy the experience.,RESTAURANT#GENERAL/positive
+"When we sat, we got great and fast service.",SERVICE#GENERAL/positive
+The lox is always fresh too.,FOOD#QUALITY/positive
+"We were worried we would have trouble getting in, but somehow managed to have a short wait.",SERVICE#GENERAL/positive
+Price and quality of fish alone will keep us from making a return visit.,"FOOD#QUALITY/negative,RESTAURANT#GENERAL/negative,FOOD#PRICES/negative"
+"I go out to eat and like my courses, servers are patient and never rush courses or force another drink.",SERVICE#GENERAL/positive
+"Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.",SERVICE#GENERAL/positive
+Delivery can be spot on or lacking depending on the weather and the day of the week.,SERVICE#GENERAL/negative
+Once you try it for a special occasion beware.. you can't stop!,RESTAURANT#MISCELLANEOUS/positive
+Our family never expected such incredible entertainment in a restaurant.,RESTAURANT#GENERAL/positive
+I had a great experience.,RESTAURANT#GENERAL/positive
+"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.","RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/negative"
+Nice Family owned traditional restaurant.,RESTAURANT#GENERAL/positive
+"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.","FOOD#QUALITY/negative,SERVICE#GENERAL/negative,SERVICE#GENERAL/negative"
+Prices are in line.,RESTAURANT#PRICES/neutral
+I just don't understand all the hype...,RESTAURANT#GENERAL/negative
+The location is perfect.,LOCATION#GENERAL/positive
+"The food is good, especially their more basic dishes, and the drinks are delicious.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,DRINKS#QUALITY/positive"
+Highly recommended.,RESTAURANT#GENERAL/positive
+"Look, the appetizers were really good.",FOOD#QUALITY/positive
+This is my first time writing a review for a restaurant because the food and service was excellent.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+Atmosphere is nice and relaxed too...,AMBIENCE#GENERAL/positive
+I come here enjoy very much with husband.,RESTAURANT#GENERAL/positive
+It was wonderful.,"RESTAURANT#GENERAL/positive,DRINKS#QUALITY/positive"
+My wife had barely touched that mess of a dish.,FOOD#QUALITY/negative
+This place is not worth the prices.,"RESTAURANT#GENERAL/negative,RESTAURANT#PRICES/negative"
+I never write on these sites but this restaurant is def worth commending!,RESTAURANT#GENERAL/positive
+I am actually offended to have spent so much money on such a bad experience.,"RESTAURANT#GENERAL/negative,RESTAURANT#PRICES/negative"
+"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.","FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+Highly recommended!,"RESTAURANT#GENERAL/positive,RESTAURANT#GENERAL/positive"
+I've had my fair share of modern Japanese and this spot delivers.,FOOD#QUALITY/positive
+I really like both the scallops and the mahi mahi (on saffron risotto-yum!).,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.",RESTAURANT#MISCELLANEOUS/positive
+The bagel was huge.,FOOD#STYLE_OPTIONS/positive
+"The kitchen however, is almost always slow.",SERVICE#GENERAL/negative
+Decent wine at reasonable prices.,"DRINKS#QUALITY/neutral,DRINKS#PRICES/positive"
+Steamed fresh so brought hot hot hot to your table.,FOOD#QUALITY/positive
+Highly recommended to all!,RESTAURANT#GENERAL/positive
+"The lobster knuckles (special of the day) were ok, but pretty tasteless.","FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/neutral"
+I would highly recommend.,RESTAURANT#GENERAL/positive
+"The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.",AMBIENCE#GENERAL/negative
+They were served warm and had a soft fluffy interior.,FOOD#QUALITY/positive
+Will not be back.,RESTAURANT#GENERAL/negative
+"Service was very good - prompt, attentive and non-intrusive.",SERVICE#GENERAL/positive
+"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.","AMBIENCE#GENERAL/positive,RESTAURANT#MISCELLANEOUS/positive"
+"Great food, good size menu, great service and an unpretensious setting.","FOOD#QUALITY/positive,SERVICE#GENERAL/positive,FOOD#STYLE_OPTIONS/positive,AMBIENCE#GENERAL/positive"
+It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!,"FOOD#QUALITY/negative,FOOD#PRICES/neutral"
+So rude!!!,SERVICE#GENERAL/negative
+Always busy but fast moving.,SERVICE#GENERAL/positive
+Never fails to please.,RESTAURANT#GENERAL/positive
+"There's another girl who I can't describe, she is about 5'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about.",SERVICE#GENERAL/negative
+"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.","RESTAURANT#PRICES/negative,FOOD#QUALITY/positive"
+The menu is very limited - i think we counted 4 or 5 entrees.,FOOD#STYLE_OPTIONS/negative
+Thius is a must for anyone who loves Shabu-Shabu.,FOOD#QUALITY/positive
+"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,DRINKS#STYLE_OPTIONS/positive,SERVICE#GENERAL/negative"
+Sushi experience was unbelievable with my fiance.,FOOD#QUALITY/positive
+Good Experience,RESTAURANT#GENERAL/positive
+I lOVE THIS PLACE!,RESTAURANT#GENERAL/positive
+Hats off to the chef.,FOOD#QUALITY/positive
+I ordered the vitello alla marsala and I was pretty impressed.,FOOD#QUALITY/positive
+"My father had the flank steak which was very good, and my mother had the swordfish.",FOOD#QUALITY/positive
+The sake’s complimented the courses very well and is successfully easing me into the sake world.,DRINKS#QUALITY/positive
+"The lamb was tender so full of flavor, the dessert was divine!!","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.,FOOD#QUALITY/positive
+skip dessert.,FOOD#QUALITY/negative
+"Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+The sauce tasted more like Chinese fast food than decent Korean.,FOOD#QUALITY/negative
+So rushing us out was absolutely unnecessary!,SERVICE#GENERAL/negative
+"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",FOOD#STYLE_OPTIONS/negative
+"Average to good Thai food, but terrible delivery.","FOOD#QUALITY/positive,SERVICE#GENERAL/negative"
+The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink.,SERVICE#GENERAL/negative
+Ambiance- relaxed and stylish.,AMBIENCE#GENERAL/positive
+This quaint and romantic trattoria is at the top of my Manhattan restaurant list.,"AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/positive"
+My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.,FOOD#QUALITY/negative
+Indoor was very cozy and cute.,AMBIENCE#GENERAL/positive
+It is quite a spectacular scene i'll give them that.,AMBIENCE#GENERAL/positive
+Who has room for Cheesesticks with the best pizza in NYC!,FOOD#QUALITY/positive
+"Also, don't plan on asking for your favorite roll, if it's not on the menu, you can't have it.",SERVICE#GENERAL/negative
+Just not good at all.,FOOD#QUALITY/negative
+Highly recommend it!,RESTAURANT#GENERAL/positive
+THE BIG COMPLAINT: NO TOASTING AVAILABLE.,SERVICE#GENERAL/negative
+"But nonetheless--great spot, great food.","RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive"
+"It's just average, just shredded, no seasoning on it.",FOOD#QUALITY/negative
+everyone was cheerfully cooperative and helpful.,SERVICE#GENERAL/positive
+"Most importantly, food is excellent.",FOOD#QUALITY/positive
+Cute and decorative.,AMBIENCE#GENERAL/positive
+"If only they delivered, they'd make a mint!",RESTAURANT#MISCELLANEOUS/neutral
+But the service is HORRID!,SERVICE#GENERAL/negative
+The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).,"FOOD#PRICES/positive,FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+"I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.","FOOD#PRICES/negative,FOOD#STYLE_OPTIONS/negative"
+"This tiny restaurant is as cozy as it gets, with that certain Parisian flair.",AMBIENCE#GENERAL/positive
+it's a perfect place to have a amanzing indian food.,FOOD#QUALITY/positive
+The characters really make for an enjoyable experience.,AMBIENCE#GENERAL/positive
+"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).","AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).","FOOD#QUALITY/negative,SERVICE#GENERAL/negative,FOOD#STYLE_OPTIONS/negative"
+"During the course of the past 3 months, the chef and staff changed and it was not for the better.","FOOD#QUALITY/negative,SERVICE#GENERAL/negative"
+"The quantity is also very good, you will come out satisfied.",FOOD#STYLE_OPTIONS/positive
+Tasty Dog!,FOOD#QUALITY/positive
+"To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.","FOOD#QUALITY/positive,RESTAURANT#GENERAL/negative"
+Amazing food.,FOOD#QUALITY/positive
+The wine list is interesting and has many good values.,"DRINKS#PRICES/positive,DRINKS#STYLE_OPTIONS/positive"
+"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.","DRINKS#QUALITY/positive,FOOD#QUALITY/positive,SERVICE#GENERAL/negative"
+This has got to be one of the most overrated restaurants in Brooklyn.,RESTAURANT#GENERAL/negative
+And evaluated on those terms Pastis is simply wonderful.,RESTAURANT#GENERAL/positive
+Have the iced tea.,DRINKS#QUALITY/positive
+I honestly don't even know where to begin.,RESTAURANT#GENERAL/negative
+Sauce was watery and the food didn't have much flavor.,"FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+I absolutely love this place!!!,RESTAURANT#GENERAL/positive
+Went here on sat 1/26 and was disappointed.,RESTAURANT#GENERAL/negative
+"The dinner was ok, nothing I would have again.",FOOD#QUALITY/negative
+This is one of my favorite restaurants and it is not to be missed.,RESTAURANT#GENERAL/positive
+Love YUKA.,RESTAURANT#GENERAL/positive
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,"FOOD#QUALITY/positive,FOOD#PRICES/negative,SERVICE#GENERAL/positive,FOOD#PRICES/positive"
+The dishes came out around 5 minutes apart.,SERVICE#GENERAL/negative
+Service is top notch.,SERVICE#GENERAL/positive
+I was speechless by the horrible food.,FOOD#QUALITY/negative
+Service is fast and friendly.,SERVICE#GENERAL/positive
+But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.,FOOD#QUALITY/negative
+The staff there is very attentive and down to earth.,SERVICE#GENERAL/positive
+"This is some really good, inexpensive sushi.","FOOD#PRICES/positive,FOOD#QUALITY/positive"
+the last time i walked by it looked pretty empty. hmmm.,RESTAURANT#MISCELLANEOUS/negative
+I'm still mad that i had to pay for lousy food.,FOOD#QUALITY/negative
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,"SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"The food they serve is not comforting, not appetizing and uncooked.",FOOD#QUALITY/negative
+go here for the drinks!,DRINKS#QUALITY/positive
+"But, they were too big for the bun.",FOOD#STYLE_OPTIONS/negative
+"The place is a bit hidden away, but once you get there, it's all worth it.","RESTAURANT#GENERAL/positive,LOCATION#GENERAL/neutral"
+I was very disappointed with this restaurant.,RESTAURANT#GENERAL/negative
+I definitely wouldn't go back.,RESTAURANT#GENERAL/negative
+We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,SERVICE#GENERAL/negative
+Your friends will thank you for introducing them to this gem!,RESTAURANT#GENERAL/positive
+Give it a try and enjoy.,RESTAURANT#GENERAL/positive
+I recently went to this restaurant with some co-workers for lunch and had an amazing time.,RESTAURANT#GENERAL/positive
+Go there to relax and feel like your somewhere else.,AMBIENCE#GENERAL/positive
+Great Atmosphere,AMBIENCE#GENERAL/positive
+They charge different prices all the time.,SERVICE#GENERAL/negative
+Great food.,FOOD#QUALITY/positive
+I have been going back again and again.,RESTAURANT#GENERAL/positive
+The sushi seemed pretty fresh and was adequately proportioned.,"FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+"Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",SERVICE#GENERAL/positive
+The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.,AMBIENCE#GENERAL/positive
+Wasn't going to share but I feel obligated...while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing.,FOOD#QUALITY/negative
+Great food and the prices are very reasonable.,"FOOD#QUALITY/positive,RESTAURANT#PRICES/positive"
+This place is always very crowded and popular.,RESTAURANT#MISCELLANEOUS/positive
+Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.,"AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+"We liked it so much, that we will always make it a point to dine here when we visit New York.",RESTAURANT#GENERAL/positive
+"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing.","FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+"The Dancing, White River and Millenium rolls are musts.",FOOD#QUALITY/positive
+The worst excuse for Japanese food I've ever encountered.,FOOD#QUALITY/negative
+"It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive.",RESTAURANT#GENERAL/negative
+Taxan delicious!,FOOD#QUALITY/positive
+And it was quick which is very important.,SERVICE#GENERAL/positive
+Finally a reliable Chinese restaurant!,RESTAURANT#GENERAL/positive
+The manager was rude and handled the situation extremely poorly.,SERVICE#GENERAL/negative
+The service was quick and friendly.,SERVICE#GENERAL/positive
+We asked for beverages and never received them.,SERVICE#GENERAL/negative
+"its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are.","RESTAURANT#GENERAL/positive,LOCATION#GENERAL/neutral"
+We started off with a delightful sashimi amuse bouche.,FOOD#QUALITY/positive
+The real problem I had with this place was the complete lack of service.,SERVICE#GENERAL/negative
+"There's nice and quiet, small but enough for 6 (or more).",AMBIENCE#GENERAL/positive
+It just wasn't Thai.,FOOD#QUALITY/negative
+LLOOVVE THIS PLACE.,RESTAURANT#GENERAL/positive
+"This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.","AMBIENCE#GENERAL/positive,FOOD#QUALITY/negative"
+"The bread was stale, the salad was overpriced and empty.","FOOD#PRICES/negative,FOOD#QUALITY/negative,FOOD#STYLE_OPTIONS/negative"
+This place is incredibly tiny.,RESTAURANT#MISCELLANEOUS/negative
+If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.,"DRINKS#PRICES/negative,AMBIENCE#GENERAL/negative"
+Most of the booths allow you to sit next to eachother without looking like 'that' couple.,AMBIENCE#GENERAL/positive
+Not worth it.,FOOD#PRICES/negative
+It's somewhere you can eat and be happy.,RESTAURANT#GENERAL/positive
+Try the lobster teriyaki and the rose special roll.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Overpriced and not tasty,"FOOD#PRICES/negative,FOOD#QUALITY/negative"
+What a great place.,RESTAURANT#GENERAL/positive
+"However, our $14 drinks were were horrible!","DRINKS#PRICES/negative,DRINKS#QUALITY/negative"
+We were then shooed inside.,SERVICE#GENERAL/negative
+"And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?",SERVICE#GENERAL/negative
+The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The food was actually aweful.,FOOD#QUALITY/negative
+If you want something really different than try Jekyll and Hyde.,RESTAURANT#GENERAL/positive
+It was pretty inexpensive too.,RESTAURANT#PRICES/positive
+"Yes, the prices are high, but I felt it was worth it.","RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/positive"
+"It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.",RESTAURANT#PRICES/negative
+"Even though its good seafood, the prices are too high.","FOOD#PRICES/negative,FOOD#QUALITY/positive"
+The owner truly caters to all your needs.,SERVICE#GENERAL/positive
+I have to say I have never had a disapointing meal here.,FOOD#QUALITY/positive
+HIGHLY RECOMMENDED!!!!!,RESTAURANT#GENERAL/positive
+"Service here was great, food was fantastic.","SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/negative"
+Service is not what you are coming here for...,SERVICE#GENERAL/negative
+"The food is outstanding and the service is quick, friendly and very professional.","FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+This place is a must visit!,RESTAURANT#GENERAL/positive
+The level of rudeness was preposterous.,SERVICE#GENERAL/negative
+Chicken teriyaki had tomato or pimentos on top??,FOOD#STYLE_OPTIONS/negative
+"I've been to at Cafe Spice probably 5-8 times, it is probably still the best Indian restaurant around Union Square.",RESTAURANT#GENERAL/positive
+"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.","RESTAURANT#MISCELLANEOUS/positive,SERVICE#GENERAL/negative"
+The place is a lot of fun.,AMBIENCE#GENERAL/positive
+"Moules were excellent, lobster ravioli was VERY salty!","FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+"(that is A MUST, but not every restaurant can do...)",SERVICE#GENERAL/positive
+"Be sure to try the seasonal, and always delicious, specials.",FOOD#QUALITY/positive
+The tuna and wasabe potatoes are excellent.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.",RESTAURANT#GENERAL/negative
+"Its dark, and cozy.. there is always jazz music playing when we go.",AMBIENCE#GENERAL/positive
+"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.","RESTAURANT#PRICES/positive,FOOD#QUALITY/positive,AMBIENCE#GENERAL/positive"
+The hostess is rude to the point of being offensive.,SERVICE#GENERAL/negative
+"My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good.",FOOD#QUALITY/neutral
+"The fish was really,really fresh.",FOOD#QUALITY/positive
+We had the lobster sandwich and it was FANTASTIC.,FOOD#QUALITY/positive
+Best restaurant in Brooklyn,RESTAURANT#GENERAL/positive
+"To me it exemplifies Soho, cute, artsy, interesting.",AMBIENCE#GENERAL/positive
+"I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The food was good.,FOOD#QUALITY/positive
+"service is friendly, and never had a problem walking in and getting a table.","RESTAURANT#MISCELLANEOUS/positive,SERVICE#GENERAL/positive"
+Friendly staff that actually lets you enjoy your meal and the company you're with.,SERVICE#GENERAL/positive
+"Overall, excellent restaurant!",RESTAURANT#GENERAL/positive
+I would never recommend this place to anybody even for a casual dinner.,RESTAURANT#GENERAL/negative
+"The portion sizes here are huge, and the sushi is good.","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+"For instance, plates were just dumped on the table, I was handed the wine list upside down, etc....",SERVICE#GENERAL/negative
+But $1 for each small piece???,FOOD#PRICES/negative
+"We left, never to return.",RESTAURANT#GENERAL/negative
+the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.,FOOD#QUALITY/positive
+"Even if the food wasn't this good, the garden is a great place to sit outside and relax.","AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+More Williamsburg Garbage,RESTAURANT#GENERAL/negative
+Less than three minutes passed before I found myself doubled over the toilet.,FOOD#QUALITY/negative
+This place has great indian chinese food.,FOOD#QUALITY/positive
+"Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I highly recommend it.,RESTAURANT#GENERAL/positive
+Gross food – Wow-,FOOD#QUALITY/negative
+"When we stumbled on Leon, we thought that we had found quite the gem BUT, we were certainly wrong.",RESTAURANT#GENERAL/negative
+"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.","FOOD#QUALITY/positive,SERVICE#GENERAL/negative"
+All the staff is absolutely professional!!,SERVICE#GENERAL/positive
+The lunch buffet is expensive but is deff worth it.,"FOOD#QUALITY/positive,FOOD#PRICES/negative"
+"Our visit their to say the least, was an unpleasant and costly experience!","RESTAURANT#PRICES/negative,RESTAURANT#GENERAL/negative"
+"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.","SERVICE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive"
+The food is good.,FOOD#QUALITY/positive
+"On that scale, it's a world-beater.",RESTAURANT#GENERAL/negative
+"its just a fun place to go, not a five star restaraunt.",RESTAURANT#GENERAL/neutral
+"Fresh, mind blowing flavors.",FOOD#QUALITY/positive
+The pizza is overpriced and soggy.,"FOOD#QUALITY/negative,FOOD#PRICES/negative"
+"I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.",FOOD#QUALITY/positive
+The food is all shared so we get to order together and eat together.,FOOD#STYLE_OPTIONS/positive
+"Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes.",SERVICE#GENERAL/negative
+You should pass on the calamari.,FOOD#QUALITY/negative
+Murray won't do it.,SERVICE#GENERAL/negative
+Quick and friendly service.,SERVICE#GENERAL/positive
+You can get a table without a reservation if you get there early I they don't make you by bottles.,SERVICE#GENERAL/positive
+My friend devoured her chicken and mashed potatos.,FOOD#QUALITY/positive
+Myagi is one of my favorite restaurants in the City; the place the negative reviews describe sound like they were somewhere else.,RESTAURANT#GENERAL/positive
+Guaranteed to be a tasty experience!),DRINKS#QUALITY/positive
+this little place has a cute interior decor and affordable city prices.,"AMBIENCE#GENERAL/positive,RESTAURANT#PRICES/positive"
+Don’t go to this place!,RESTAURANT#GENERAL/negative
+"The large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating.","FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/positive,FOOD#STYLE_OPTIONS/positive"
+I thought the restaurant was nice and clean.,"RESTAURANT#GENERAL/positive,AMBIENCE#GENERAL/positive"
+"Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best, freshly baked bread!","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Zero ambiance to boot.,AMBIENCE#GENERAL/negative
+When the main course finally arrived (another 45mins) half of our order was missing.,SERVICE#GENERAL/negative
+I'm saving up for my next visit.,RESTAURANT#GENERAL/positive
+Unique apppetizers.,FOOD#QUALITY/positive
+"the pad se ew chicken was delicious, however the pad thai was far too oily.","FOOD#QUALITY/negative,FOOD#QUALITY/positive"
+Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,"FOOD#QUALITY/negative,FOOD#QUALITY/negative,RESTAURANT#MISCELLANEOUS/negative"
+"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.","SERVICE#GENERAL/positive,SERVICE#GENERAL/positive"
+I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).,"FOOD#QUALITY/positive,FOOD#QUALITY/negative"
+"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!","SERVICE#GENERAL/positive,RESTAURANT#PRICES/positive,LOCATION#GENERAL/positive,AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive,FOOD#PRICES/positive,FOOD#QUALITY/positive"
+It's all about the food !!,FOOD#QUALITY/positive
+you should travel from the Bronx to try it...,RESTAURANT#GENERAL/positive
+"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.","FOOD#QUALITY/positive,FOOD#QUALITY/neutral"
+They were very abrupt with me when I called and actually claimed the food was late because they were out of rice.,SERVICE#GENERAL/negative
+"Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.",SERVICE#GENERAL/negative
+The service was excellent and the food was delicious.,"FOOD#QUALITY/positive,SERVICE#GENERAL/positive"
+"however, it's the service that leaves a bad taste in my mouth.",SERVICE#GENERAL/negative
+"Service was just ok, it is not what you'd expect for $500.","RESTAURANT#PRICES/negative,SERVICE#GENERAL/negative"
+we love th pink pony.,RESTAURANT#GENERAL/positive
+Mermaid Inn is an overall good restaurant with really good seafood.,"RESTAURANT#GENERAL/positive,FOOD#QUALITY/positive"
+This place blew me away...by far my new favorite restaurant on the uppereast side.,RESTAURANT#GENERAL/positive
+Warm and friendly in the winter and terrific outdoor seating in the warmer months.,"AMBIENCE#GENERAL/positive,AMBIENCE#GENERAL/positive"
+We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.,SERVICE#GENERAL/negative
+They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.,FOOD#QUALITY/negative
+A little overpriced but worth it once you take a bite.,"FOOD#PRICES/negative,FOOD#QUALITY/positive"
+"The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.","FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#QUALITY/negative,FOOD#QUALITY/negative"
+"whoever the jazz duo was, they were on POINT.",AMBIENCE#GENERAL/positive
+We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.,RESTAURANT#MISCELLANEOUS/negative
+I had the best ravioli ever.,FOOD#QUALITY/positive
+Can't wait wait for my next visit.,RESTAURANT#GENERAL/positive
+Hands down the best pizza on the planet.,FOOD#QUALITY/positive
+"Delicious, creative and fun.","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive"
+Probably would not go again...,RESTAURANT#GENERAL/negative
+"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",AMBIENCE#GENERAL/positive
+"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/negative"
+"First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.",AMBIENCE#GENERAL/negative
+Prices too high for this cramped and unappealing resturant.,"RESTAURANT#PRICES/negative,AMBIENCE#GENERAL/negative"
+please don't fool us.,RESTAURANT#GENERAL/negative
+Always great service!,SERVICE#GENERAL/positive
+"If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.",RESTAURANT#MISCELLANEOUS/negative
+What more could you want?,RESTAURANT#GENERAL/positive
+Authentic Shanghai style and I cannot recommend a better Shanghai place in New York.,RESTAURANT#MISCELLANEOUS/positive
+Big thumbs up!,RESTAURANT#GENERAL/positive
+Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,SERVICE#GENERAL/negative
+Decor is nice though service can be spotty.,"AMBIENCE#GENERAL/positive,SERVICE#GENERAL/negative"
+A must try!,RESTAURANT#GENERAL/positive
+A classic!,FOOD#QUALITY/positive
+The only thing that strikes you is the decor?(not very pleasant).,AMBIENCE#GENERAL/negative
+We were less than impressed.,RESTAURANT#GENERAL/negative
+Go here for a romantic dinner but not for an all out wow dining experience.,"AMBIENCE#GENERAL/positive,RESTAURANT#MISCELLANEOUS/negative"
+"While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert.",DRINKS#QUALITY/positive
+But too far east!,LOCATION#GENERAL/negative
+I had fish and my husband had the filet - both of which exceeded our expectations.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The food was bland oily.,FOOD#QUALITY/negative
+We had Pam's special fried fish and it was amazing.,FOOD#QUALITY/positive
+The wine list is extensive and impressive.,DRINKS#STYLE_OPTIONS/positive
+I had the Lamb special which was perfect.,FOOD#QUALITY/positive
+Don't miss Bloom's on your next trip to Manhatten.,RESTAURANT#GENERAL/positive
+"The Steak Tartare is a great bet, they fix it for you at the table.",FOOD#STYLE_OPTIONS/positive
+"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.","AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/positive"
+The food was well prepared and the service impecable.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+"$6 and there is much tasty food, all of it fresh and continually refilled.","FOOD#STYLE_OPTIONS/positive,FOOD#QUALITY/positive,FOOD#PRICES/positive"
+The food was delicious but do not come here on a empty stomach.,"FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/positive"
+"I can't wait for summer, when they serve outside on their gigantic patio.",AMBIENCE#GENERAL/positive
+I had a huge group for my birthday and we were well taken care of.,SERVICE#GENERAL/positive
+Great sake!,DRINKS#QUALITY/positive
+The spicy Tuna roll is huge and probably the best that I've had at this price range.,"FOOD#PRICES/positive,FOOD#QUALITY/positive,FOOD#STYLE_OPTIONS/positive"
+Truly the mark of an attentive waiter.,SERVICE#GENERAL/positive
+Stepping into Casa La Femme last night was a true experience unlike any other in New York!,RESTAURANT#GENERAL/positive
+But the best pork souvlaki I ever had is the main thing.,FOOD#QUALITY/positive
+Unhygienic,FOOD#QUALITY/negative
+"No desert menu, no apology, nothing!!!!!!",SERVICE#GENERAL/negative
+Decor is charming.,AMBIENCE#GENERAL/positive
+The atmosphere is relaxed and casual.,AMBIENCE#GENERAL/positive
+Impressed...,RESTAURANT#GENERAL/positive
+"Paul, the maitre d', was totally professional and always on top of things.",SERVICE#GENERAL/positive
+"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.","FOOD#STYLE_OPTIONS/negative,FOOD#QUALITY/negative"
+"Excellent sashimi, and the millennium roll is beyond delicious.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"If the weather is nice, try to snag an outside table.",AMBIENCE#GENERAL/positive
+It's to die for!,FOOD#QUALITY/positive
+"Very ""normal Indian food"", but done really well.","FOOD#STYLE_OPTIONS/neutral,FOOD#QUALITY/positive"
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+The prices are wonderfully low.,RESTAURANT#PRICES/positive
+THIS STAFF SHOULD BE FIRED.,SERVICE#GENERAL/negative
+I'm partial to the Gnocchi.,RESTAURANT#GENERAL/positive
+A quintessential slice of NYC pizza.,FOOD#QUALITY/neutral
+Great staff.,SERVICE#GENERAL/positive
+bottles of wine are cheap and good.,"DRINKS#PRICES/positive,DRINKS#QUALITY/positive"
+"Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.",FOOD#STYLE_OPTIONS/negative
+It's very spicy but not offensive.,FOOD#QUALITY/positive
+"good music, great food, speedy service affordable prices.","AMBIENCE#GENERAL/positive,FOOD#QUALITY/positive,RESTAURANT#PRICES/positive,SERVICE#GENERAL/positive"
+We have gone for dinner only a few times but the same great quality and service is given.,"SERVICE#GENERAL/positive,FOOD#QUALITY/positive"
+I love this place,RESTAURANT#GENERAL/positive
+Worth visiting the 1st Ave spot because it is the original store.,RESTAURANT#MISCELLANEOUS/positive
+The price is reasonable although the service is poor.,"SERVICE#GENERAL/negative,RESTAURANT#PRICES/positive"
+My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque.,"FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.,"AMBIENCE#GENERAL/positive,SERVICE#GENERAL/positive,RESTAURANT#MISCELLANEOUS/positive"
+"They have a delicious banana chocolate dessert, as well as a great green tea tempura.","FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+Polite acknowledgement is out;,SERVICE#GENERAL/negative
+"stick with the chicken, beef, and lamb dishes.","FOOD#QUALITY/positive,FOOD#QUALITY/positive,FOOD#QUALITY/positive"
+"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.","AMBIENCE#GENERAL/positive,RESTAURANT#GENERAL/negative"
+I cannot imagine you not rushing out to eat there.,RESTAURANT#GENERAL/positive
+The food was good too.,FOOD#QUALITY/positive
+The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!,"FOOD#QUALITY/negative,FOOD#PRICES/negative,AMBIENCE#GENERAL/neutral,SERVICE#GENERAL/negative"
+"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.","SERVICE#GENERAL/negative,SERVICE#GENERAL/negative,SERVICE#GENERAL/negative,FOOD#PRICES/negative"

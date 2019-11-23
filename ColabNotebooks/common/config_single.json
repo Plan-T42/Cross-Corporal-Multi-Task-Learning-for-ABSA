@@ -1,0 +1,22 @@
+[
+    {
+        "name": "trip",
+        "heads": {
+            "aspect": false, "polarity": false, "joint": false
+        },
+        "classes": {
+            "aspect": 11, "polarity": 3, "joint": 33
+        },
+        "data_dir": "data/tripadvisor/"
+    },
+    {
+        "name": "organic",
+        "heads": {
+            "aspect": false, "polarity": false, "joint": true
+        },
+        "classes": {
+            "aspect": 18, "polarity": 3, "joint": 54
+        },
+        "data_dir": "data/organic/"
+    }
+]

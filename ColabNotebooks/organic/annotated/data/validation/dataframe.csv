@@ -1,0 +1,712 @@
+Author_ID|Author_name|Comment_number|Sentence_number|Domain_Relevance|Sentiment|Entity|Attribute|Sentence|Source_file|Annotator|Aspect
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|1|9|0|gg|c|I do not consider myself someone who “supports GMO”, just like I also don’t consider myself someone who “supports chemistry”, or “supports electricity”.|quora.json|florian|gg-c
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|2|0|nan|nan|nan|These are all just tools and technologies that can be applied in both good or bad ways.|quora.json|florian|nan-nan
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|3|0|nan|nan|nan|Stop focusing on the screwdriver.|quora.json|florian|nan-nan
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|4|0|nan|nan|nan|Start focusing on what people are *doing* with the screwdriver… Likewise, one would have to be a real Luddite to call oneself “anti-electricity” - or be very poorly informed about what electricity is and all the many positive ways it can be used.|quora.json|florian|nan-nan
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|5|9|0|gg|g|Same goes for “anti-GMO”.|quora.json|florian|gg-g
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|6|9|0|gg|g|This is also why so many scientists object to labeling foods as GMO or GMO-free: it’s essentially a meaningless label because it carries zero information about *what* modification was made to the food.|quora.json|florian|gg-g
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|7|9|0|cp|ll|Might as well label food as “made with electricity”, or “contains no chemicals” (fact check: *everything* is made out of chemicals).|quora.json|florian|cp-ll
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|8|9|0|gg|g|For the current commercial GMO crops, there are essentially no health reasons to choose in favor or against GMO crops just because they are GMO.|quora.json|florian|gg-g
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|9|9|0|cf|c|There are definitely some strong environmental and agro-political reasons to choose crops that have been grown in ways that reduce the use of dangerous chemicals, or crops grown by local family farms vs a giant industrial agrocomplex, or heirloom varieties vs monocultures, or to eat lower on the food chain; but those are not issues that are specific to the GMO vs non-GMO debate.|quora.json|florian|cf-c
+Patrik-Dhaeseleer|Patrik D'haeseleer|1202|10|9|p|gg|g|I would be more than happy to eat a genetically engineered heirloom tomato grown organically by a local family farm, if I could find such a thing…|quora.json|florian|gg-g
+Matan-Shelomi|Matan Shelomi|791|1|0|nan|nan|nan|I'm not your doctor, so whether you actually have all these conditions or not is not for me to say.|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|3|9|n|p|q|Since they are more likely to be fertilized with manure, and less likely to be cleaned properly, they also are covered in bad microbes!|quora.json|kamal|p-q
+Matan-Shelomi|Matan Shelomi|791|4|9|p|p|q|Consider this: health nuts love organic, anti-oxidant rich food, right?|quora.json|kamal|p-q
+Matan-Shelomi|Matan Shelomi|791|5|9|n|p|s|"Over 150 such health nuts got Hepatitis A in 2013 from ""Townsend Farms Organic Antioxidant Blend."""|quora.json|kamal|p-s
+Matan-Shelomi|Matan Shelomi|791|6|9|n|p|h|( FDA Investigates Multistate Outbreak of Hepatitis A Illnesses Associated with Pomegranate seeds from Turkish Importer ) Hepatitis is spread by human feces: I'll take my chances with man-made chemicals before eating someone else's s**t. What does the science say?|quora.json|kamal|p-h
+Matan-Shelomi|Matan Shelomi|791|7|9|0|p|s|It's actually not as extreme as me: Two studies covering decades of work both found the risk of food poisoning is the same for organics and conventional food.|quora.json|kamal|p-s
+Matan-Shelomi|Matan Shelomi|791|8|9|0|p|s|No higher or lower.|quora.json|kamal|p-s
+Matan-Shelomi|Matan Shelomi|791|9|9|0|p|h|Again, the terms have no meaning or impact on health .|quora.json|kamal|p-h
+Matan-Shelomi|Matan Shelomi|791|10|9|0|p|q|But given that organics are more expensive and have no benefit (proven in the 2012 Stanford study), I see no reason to waste money on them.|quora.json|kamal|p-q
+Matan-Shelomi|Matan Shelomi|791|11|0|nan|nan|nan|Like I say in my answer, every product must be evaluated independently.|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|12|0|nan|nan|nan|"There is no such thing as ""toxins"" because even those probiotics you take can have harsh side effects at high doses (namely diarrhea, your body's way of flushing out excess microbes)."|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|13|9|0|gg|g|"Plus, it is literally impossible for a GMO to be a ""man-made chemical"" because, by definition, an organism is making it."|quora.json|kamal|gg-g
+Matan-Shelomi|Matan Shelomi|791|14|9|0|gg|or|The gene comes from nature, not a lab.|quora.json|kamal|gg-or
+Matan-Shelomi|Matan Shelomi|791|15|9|0|gg|g|Consider Golden Rice: a GMO where a bacterial gene for beta-carotene (a natural compound also found in carrots, and anything else orange) is put in rice.|quora.json|kamal|gg-g
+Matan-Shelomi|Matan Shelomi|791|16|0|nan|nan|nan|If you ate rice and carrots, you would get the same nutrients as eating Golden Rice alone.|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|17|9|0|gg|g|No difference in pesticides or insecticides.|quora.json|kamal|gg-g
+Matan-Shelomi|Matan Shelomi|791|18|0|nan|nan|nan|Nothing your body cannot handle.|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|19|9|0|gg|h|Nothing that could affect your gut bacteria at all.|quora.json|kamal|gg-h
+Matan-Shelomi|Matan Shelomi|791|20|0|nan|nan|nan|So why be afraid?|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|21|9|0|gg|h|You don't need any long-term studies to prove it is safe (though they are doing those right now anyway, and have already proven that the beta-carotene in Golden Rice is digested the same way as from any other source… and, yes, you can prove something like that).|quora.json|kamal|gg-h
+Matan-Shelomi|Matan Shelomi|791|22|9|0|p|h|In the end, you can eat whatever you like (most food poisoning is preventable when food is cooked well), and take anything that makes you feel healthier if you can afford to spend money on it.|quora.json|kamal|p-h
+Matan-Shelomi|Matan Shelomi|791|23|9|0|p|q|Organic isn't bad for you, it just isn't good for you either.|quora.json|kamal|p-q
+Matan-Shelomi|Matan Shelomi|791|24|0|nan|nan|nan|All I wish is that one not buy into pseudoscience.|quora.json|kamal|nan-nan
+Matan-Shelomi|Matan Shelomi|791|25|0|nan|nan|nan|Before you say your diseases are caused by food, remember that correlation is not causality… as this tongue-in-cheek graph below should illustrate clearly.|quora.json|kamal|nan-nan
+Petter-Häggholm|Petter Häggholm|1587|1|0|nan|nan|nan|I am not a regulatory expert, and if you really want to know, you should check the laws for ‘organic’ certification in your jurisdiction.|quora.json|omar|nan-nan
+Petter-Häggholm|Petter Häggholm|1587|2|9|p|g|a|Generally, however, ‘organic’ livestock are raised with a pretty sensible approach to antibiotics—that is, if the livestock are sick, the disease may be diagnosed and then treated with antibiotics.|quora.json|omar|g-a
+Petter-Häggholm|Petter Häggholm|1587|3|9|n|cf|c|However, they are typically not allowed to use antibiotics in the way ‘conventional’ factory farms use it, i.e.|quora.json|omar|cf-c
+Petter-Häggholm|Petter Häggholm|1587|4|9|n|cf|h|chronically, to avoid infection; and subclinically in the feed, to make the livestock grow faster.|quora.json|omar|cf-h
+Petter-Häggholm|Petter Häggholm|1587|5|9|n|cf|g|Those are terrible ideas.|quora.json|omar|cf-g
+Petter-Häggholm|Petter Häggholm|1587|6|0|nan|nan|nan|We know that excessive use of antibiotics tends to promote resistance in bacteria, so the routine use of antibiotics absent specific conditions to treat is a sort of large-scale project to breed better, stronger bacteria and render our antibiotics useless, in order to make more money in the short term.|quora.json|omar|nan-nan
+Petter-Häggholm|Petter Häggholm|1587|7|0|nan|nan|nan|I have my issues with the ‘organic’ movement, but the use of prophylactic antibiotics is a senseless, greedy evil that in the long term endangers both our health and the health of the meat industry.|quora.json|omar|nan-nan
+Dave-Hodgkinson-1|Dave Hodgkinson|1898|1|9|0|gg|q|There is no difference in quality or nutritional content between GMO, organic or commercial foods.|quora.json|abilasha|gg-q
+Dave-Hodgkinson-1|Dave Hodgkinson|1898|1|9|0|g|q|There is no difference in quality or nutritional content between GMO, organic or commercial foods.|quora.json|abilasha|g-q
+Dave-Hodgkinson-1|Dave Hodgkinson|1898|1|9|0|cg|q|There is no difference in quality or nutritional content between GMO, organic or commercial foods.|quora.json|abilasha|cg-q
+Dave-Hodgkinson-1|Dave Hodgkinson|1898|2|0|nan|nan|nan|It’s all marketing.|quora.json|abilasha|nan-nan
+Dave-Hodgkinson-1|Dave Hodgkinson|1898|3|0|nan|nan|nan|Different varieties possibly make a difference.|quora.json|abilasha|nan-nan
+Joshua-Engel|Joshua Engel|423|1|0|nan|nan|nan|tl;dr: Absolutely on meat and eggs, possibly on dairy products, probably not on vegetables, and no way in hell on TV dinners.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|2|0|nan|nan|nan|"""Organic"" is, unfortunately, something of a misnomer at this point."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|3|9|n|c|ll|"The federal rules for ""organic"" allow all sorts of dubious behavior, while prohibiting the use of ""organic"" labels on foods that are actually better and more nutritious because they can't comply with rules designed for vast agribusinesses."|quora.json|fahad|c-ll
+Joshua-Engel|Joshua Engel|423|4|9|0|p|q|An organic vegetable is largely indistinguishable from a conventionally-grown one.|quora.json|fahad|p-q
+Joshua-Engel|Joshua Engel|423|5|9|0|p|g|It's still grown in vast monocultures, far away from where you live, in varieties designed to ship well and look like a Platonic ideal of the vegetable.|quora.json|fahad|p-g
+Joshua-Engel|Joshua Engel|423|6|9|0|p|c|They are still subjected to pesticides and fertilizers.|quora.json|fahad|p-c
+Joshua-Engel|Joshua Engel|423|7|0|nan|nan|nan|"The ""natural"" nature of the fertilizers may give them a faint chance of being more tasty than those grown with chemical fertilizers (which are reductionist and may deprive plants of some things they need to develop full flavor), but I suspect few people can spot the difference."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|8|0|nan|nan|nan|However, many people prefer them for non-taste reasons.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|9|9|n|p|c|The pesticides they're subjected to are less effective, so they need to use more rotation and other techniques to avoid predators.|quora.json|fahad|p-c
+Joshua-Engel|Joshua Engel|423|10|9|p|f|s|This dumps less dangerous pesticides into the environment and may be safer for workers.|quora.json|fahad|f-s
+Joshua-Engel|Joshua Engel|423|11|0|nan|nan|nan|If you want better flavor, however, you pick vegetable varieties grown to taste good rather than to ship.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|12|0|nan|nan|nan|That usually means eating locally, which implies seasonally.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|13|9|0|cf|c|It's also unlikely to be organic, since that would forbid ever using any chemical fertilizers or pesticides, leaving land fallow for years that local farmers can't afford.|quora.json|fahad|cf-c
+Joshua-Engel|Joshua Engel|423|14|9|p|cp|q|But it's going to be tastier, and probably healthier despite the occasional use of chemical pesticides (if done judiciously).|quora.json|fahad|cp-q
+Joshua-Engel|Joshua Engel|423|15|0|nan|nan|nan|The differences with animal products are more noticeable.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|16|9|0|cf|g|Animals packed in conventionally have to be given huge amounts of antibiotics to keep them from dying.|quora.json|fahad|cf-g
+Joshua-Engel|Joshua Engel|423|17|9|n|cf|q|These crowded conditions yield bland meat and eggs, and are an ethical nightmare.|quora.json|fahad|cf-q
+Joshua-Engel|Joshua Engel|423|18|0|nan|nan|nan|They have to be fed a slightly more diverse range of foods to keep them healthy.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|19|0|nan|nan|nan|"But the food is still limited in variety, and the difference between the ""organically"" grown mass-produced grain and conventional is probably undetectable."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|20|0|nan|nan|nan|You will notice the difference with eggs, absolutely.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|21|9|p|p|t|The meat will be slightly more flavorful.|quora.json|fahad|p-t
+Joshua-Engel|Joshua Engel|423|22|9|0|f|g|It should be noticeable in milk, but organic milk is generally subjected to a different pasteurization process.|quora.json|fahad|f-g
+Joshua-Engel|Joshua Engel|423|23|9|0|f|t|The difference in processes will make a more noticeable flavor change than the underlying product.|quora.json|fahad|f-t
+Joshua-Engel|Joshua Engel|423|24|0|nan|nan|nan|The more processed the food is, the less the difference matters because it's been so thoroughly modified from its original state.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|25|9|n|g|t|"An organic TV dinner tastes of ""processed"" rather than ""organic""."|quora.json|fahad|g-t
+Joshua-Engel|Joshua Engel|423|25|0|nan|nan|nan|"An organic TV dinner tastes of ""processed"" rather than ""organic""."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|423|26|0|nan|nan|nan|As before, cooking it yourself (or having it cooked fresh) will make a bigger difference.|quora.json|fahad|nan-nan
+The-EcoStore|The EcoStore|1826|1|9|0|c|or|This hugely depends on the country and city where you reside.|quora.json|abilasha|c-or
+The-EcoStore|The EcoStore|1826|2|9|0|c|or|If you are residing in India, Bangalore city, you have plenty of options.|quora.json|abilasha|c-or
+The-EcoStore|The EcoStore|1826|2|9|0|c|av|If you are residing in India, Bangalore city, you have plenty of options.|quora.json|abilasha|c-av
+The-EcoStore|The EcoStore|1826|3|9|0|c|g|One is theecostore where you get wide variety of 100% natural and organic products like Organic Food Organic Vegetables Organic Gardening Supplies Natural Cosmetics Handmade Jewellery Art & Craft To shop organic products Visit Online grocery bangalore, Online grocery shopping bangalore, Organic food stores in bangalore or call : 080-22580132, 98456 89551|quora.json|abilasha|c-g
+Melissa-Castro|Melissa Castro|131|1|9|p|c|av|I only shop at Whole Foods though I know I can get similar items from Trader Joe's and Ralphs.|quora.json|hannah|c-av
+Melissa-Castro|Melissa Castro|131|2|9|p|c|s|I don't know what it is, but I feel like the items at Whole Foods are cleaner, better quality, organic (even though I know this isn't true), and it's such a pleasant shopping experience all together.|quora.json|hannah|c-s
+Melissa-Castro|Melissa Castro|131|2|9|p|c|q|I don't know what it is, but I feel like the items at Whole Foods are cleaner, better quality, organic (even though I know this isn't true), and it's such a pleasant shopping experience all together.|quora.json|hannah|c-q
+Melissa-Castro|Melissa Castro|131|2|9|n|c|ll|I don't know what it is, but I feel like the items at Whole Foods are cleaner, better quality, organic (even though I know this isn't true), and it's such a pleasant shopping experience all together.|quora.json|hannah|c-ll
+Teresa-Gemellaro|Teresa Gemellaro|49|1|9|p|f|ll|There are organisations that certify the practices on some farms, to show they produce food ‘organically’ so without the use of artificial fertilisers, pesticides and so on.|quora.json|hannah|f-ll
+Teresa-Gemellaro|Teresa Gemellaro|49|2|9|p|p|ll|If the produce has such certification, it is genuine.|quora.json|hannah|p-ll
+Teresa-Gemellaro|Teresa Gemellaro|49|3|9|n|p|ll|However, I’ve seen organic on bottled water, and other things that are patently not ‘organic’.|quora.json|hannah|p-ll
+Teresa-Gemellaro|Teresa Gemellaro|49|4|9|n|gg|ll|Also if the claim is made, and there is no certifying body, then be cautious.|quora.json|hannah|gg-ll
+Teresa-Gemellaro|Teresa Gemellaro|49|5|0|nan|nan|nan|What I have said is true in Australia.|quora.json|hannah|nan-nan
+Teresa-Gemellaro|Teresa Gemellaro|49|6|0|nan|nan|nan|I do not know about other countries.|quora.json|hannah|nan-nan
+Naomi-Parry-1|Naomi Parry|1665|1|9|p|p|e|Most people who eat organic food don't see it as a craze, but as an action that contributes to a better and healthier environment.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|2|9|p|p|c|Food grown and raised to be certified as organic has been grown without the use of pesticides, herbicides or synthetic fertilisers.|quora.json|felix|p-c
+Naomi-Parry-1|Naomi Parry|1665|3|9|p|p|e|Growing food this way means fewer pesticides, herbicides and chemicals find their way into what we eat and into our soils and rivers, kill our bees, etc.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|3|9|p|p|a|Growing food this way means fewer pesticides, herbicides and chemicals find their way into what we eat and into our soils and rivers, kill our bees, etc.|quora.json|felix|p-a
+Naomi-Parry-1|Naomi Parry|1665|4|9|p|cf|e|That is better for us, and better for the environment - organic methods improve the soil, they don't diminish it.|quora.json|felix|cf-e
+Naomi-Parry-1|Naomi Parry|1665|4|9|p|cf|s|That is better for us, and better for the environment - organic methods improve the soil, they don't diminish it.|quora.json|felix|cf-s
+Naomi-Parry-1|Naomi Parry|1665|5|9|p|p|q|There is some (limited) evidence that organic food is more nutritious but it is certainly the case that eating organic helps the body eliminate potential toxins.|quora.json|felix|p-q
+Naomi-Parry-1|Naomi Parry|1665|5|9|p|p|h|There is some (limited) evidence that organic food is more nutritious but it is certainly the case that eating organic helps the body eliminate potential toxins.|quora.json|felix|p-h
+Naomi-Parry-1|Naomi Parry|1665|6|9|p|p|t|Most people would argue that organic food tastes better too.|quora.json|felix|p-t
+Naomi-Parry-1|Naomi Parry|1665|7|9|p|p|h|So, the main reasons people seek out organic food are health, environmental concerns, a desire to support more sustainable forms of agriculture and taste.|quora.json|felix|p-h
+Naomi-Parry-1|Naomi Parry|1665|7|9|p|p|e|So, the main reasons people seek out organic food are health, environmental concerns, a desire to support more sustainable forms of agriculture and taste.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|7|9|p|cf|e|So, the main reasons people seek out organic food are health, environmental concerns, a desire to support more sustainable forms of agriculture and taste.|quora.json|felix|cf-e
+Naomi-Parry-1|Naomi Parry|1665|7|9|p|p|t|So, the main reasons people seek out organic food are health, environmental concerns, a desire to support more sustainable forms of agriculture and taste.|quora.json|felix|p-t
+Naomi-Parry-1|Naomi Parry|1665|8|9|0|g|g|Of course some are responding to fashion, but mostly, it's because they've thought about it.|quora.json|felix|g-g
+Naomi-Parry-1|Naomi Parry|1665|9|9|n|p|g|There are some disadvantages to eating organic food.|quora.json|felix|p-g
+Naomi-Parry-1|Naomi Parry|1665|10|9|n|p|p|A big one is the cost, which is high because growing and raising organic food requires expensive accreditation, can be more labour-intensive, have lower crop yields (albeit of superior produce) and usually have poorer access to food distribution networks, increasing freight charges.|quora.json|felix|p-p
+Naomi-Parry-1|Naomi Parry|1665|10|9|n|p|pp|A big one is the cost, which is high because growing and raising organic food requires expensive accreditation, can be more labour-intensive, have lower crop yields (albeit of superior produce) and usually have poorer access to food distribution networks, increasing freight charges.|quora.json|felix|p-pp
+Naomi-Parry-1|Naomi Parry|1665|11|9|n|p|e|Sometimes, and this is my opinion, just because it's organically accredited doesn't mean it's good for the environment - soy beans, for instance, require a lot of water.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|11|9|n|p|e|Sometimes, and this is my opinion, just because it's organically accredited doesn't mean it's good for the environment - soy beans, for instance, require a lot of water.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|12|9|p|p|e|Still, an organically grown soybean is going to be better for the environment than one that's grown using pesticides and herbicides.|quora.json|felix|p-e
+Naomi-Parry-1|Naomi Parry|1665|12|9|p|p|c|Still, an organically grown soybean is going to be better for the environment than one that's grown using pesticides and herbicides.|quora.json|felix|p-c
+Naomi-Parry-1|Naomi Parry|1665|13|9|n|p|a|You might be eating 'organic chicken' without realising that the only thing organic about how it's raised is the food it's given - it can still be reared indoors, in a shed, and be called 'organic'.|quora.json|felix|p-a
+Naomi-Parry-1|Naomi Parry|1665|14|9|n|f|pp|Sometimes too, organic methods aren't the most efficient use of land.|quora.json|felix|f-pp
+Naomi-Parry-1|Naomi Parry|1665|15|9|n|f|e|We need to find a balance between giant monocultures and small-scale, inefficient farming methods if we are going to feed the world properly.|quora.json|felix|f-e
+Naomi-Parry-1|Naomi Parry|1665|15|9|n|cf|e|We need to find a balance between giant monocultures and small-scale, inefficient farming methods if we are going to feed the world properly.|quora.json|felix|cf-e
+Naomi-Parry-1|Naomi Parry|1665|16|9|0|p|g|I think we should all be thinking about where our food comes from and how it's produced, and the hidden environmental and human costs of agricultural systems.|quora.json|felix|p-g
+Naomi-Parry-1|Naomi Parry|1665|17|0|nan|nan|nan|It's not a craze, it's an important issue for food security and the environment.|quora.json|felix|nan-nan
+Naomi-Parry-1|Naomi Parry|1665|18|0|nan|nan|nan|Don't, however, get me started on the gluten-free craze ...|quora.json|felix|nan-nan
+Grax-McCoar|Grax McCoar|3|1|9|n|p|or|Marketing, marketing, marketing.|quora.json|hannah|p-or
+Grax-McCoar|Grax McCoar|3|2|0|nan|nan|nan|People are used to “store” eggs being white, and brown eggs less common or even difficult to find at all.|quora.json|hannah|nan-nan
+Grax-McCoar|Grax McCoar|3|3|9|n|f|q|So the canny organic farmer orders chicks who will grow up to produce nice, brown, recognizable *Not Store Eggs*.|quora.json|hannah|f-q
+Grax-McCoar|Grax McCoar|3|4|0|nan|nan|nan|Some of us order chicks who will grow up to produce nice brown, green, blue, speckled and tan *Wow Look At Those Colors!” eggs.|quora.json|hannah|nan-nan
+Grax-McCoar|Grax McCoar|3|5|9|n|g|or|It has nothing to do with organicness.|quora.json|hannah|g-or
+Grax-McCoar|Grax McCoar|3|6|9|n|p|q|All those other colors can come from not-organic hens, too.|quora.json|hannah|p-q
+Grax-McCoar|Grax McCoar|3|6|9|n|p|or|All those other colors can come from not-organic hens, too.|quora.json|hannah|p-or
+Francis-Lau-5|Francis Lau|435|1|9|0|p|q|Supporters say organic produce is safer and more nutritious.|quora.json|fahad|p-q
+Francis-Lau-5|Francis Lau|435|1|9|0|p|s|Supporters say organic produce is safer and more nutritious.|quora.json|fahad|p-s
+Francis-Lau-5|Francis Lau|435|2|9|p|p|t|In fact, some claim it even has better taste than non-organic food.|quora.json|fahad|p-t
+Francis-Lau-5|Francis Lau|435|3|9|p|p|e|Organic production is also supposed to be kinder toward animals and better for the environment.|quora.json|fahad|p-e
+Francis-Lau-5|Francis Lau|435|3|9|p|p|a|Organic production is also supposed to be kinder toward animals and better for the environment.|quora.json|fahad|p-a
+Francis-Lau-5|Francis Lau|435|4|0|nan|nan|nan|You may find the following article useful at all: Is Organic Food Really Better and Worth the Higher Price?|quora.json|fahad|nan-nan
+Dan-Parmenter-2|Dan Parmenter|571|1|0|nan|nan|nan|Absolutely incorrect.|quora.json|sumit|nan-nan
+Dan-Parmenter-2|Dan Parmenter|571|2|9|p|gg|pp|Genetic modification achieves higher yield by engineering in herbicide resistance.|quora.json|sumit|gg-pp
+Dan-Parmenter-2|Dan Parmenter|571|3|0|nan|nan|nan|Eg: Monsanto “roundup ready” soy and maize.|quora.json|sumit|nan-nan
+Dan-Parmenter-2|Dan Parmenter|571|4|9|0|g|ll|No organic certification body I know of allows GM.|quora.json|sumit|g-ll
+Dan-Parmenter-2|Dan Parmenter|571|4|9|0|gg|g|No organic certification body I know of allows GM.|quora.json|sumit|gg-g
+Jerry-Gregory-1|Jerry Gregory|1776|1|9|p|f|c|- Organic Partnership with Wildlife - Support for the Farming Community - Water and Organic Food Because organic farmers do not use the harmful chemicals within their farming, they are not polluting the ground and the water supply.|quora.json|abilasha|f-c
+Jerry-Gregory-1|Jerry Gregory|1776|1|9|0|f|av|- Organic Partnership with Wildlife - Support for the Farming Community - Water and Organic Food Because organic farmers do not use the harmful chemicals within their farming, they are not polluting the ground and the water supply.|quora.json|abilasha|f-av
+Scott-DeBruyne|Scott DeBruyne|1778|1|9|0|gg|q|would you care to site any research showing a reason not to eat GMOs, or anything showing increased safety from eating organic?|quora.json|abilasha|gg-q
+Scott-DeBruyne|Scott DeBruyne|1778|2|9|0|f|c|Also, organic producers used pesticides.|quora.json|abilasha|f-c
+Aaron-Buchta|Aaron Buchta|480|1|0|nan|nan|nan|Sustainable is not always efficient.|quora.json|fahad|nan-nan
+Aaron-Buchta|Aaron Buchta|480|2|9|p|cp|p|Conventional is often cheaper/more efficient because of higher yield.|quora.json|fahad|cp-p
+Aaron-Buchta|Aaron Buchta|480|3|0|nan|nan|nan|Example: if I maximize my fertilizer inputs, plant herbicide resistant corn, and spray herbicides/insecticides to control weeds and pests I will have a significantly higher yield per acre than an organic field that does not receive these inputs.|quora.json|fahad|nan-nan
+Aaron-Buchta|Aaron Buchta|480|4|0|nan|nan|nan|That may not be the most sustainable because of increased nutrient runoff risks, pesticide drift, etc.|quora.json|fahad|nan-nan
+Aaron-Buchta|Aaron Buchta|480|5|9|0|p|p|Often the higher price for organic food is because yield is reduced, increased labor inputs, organic fertilizer is more expensive than conventional, and people are willing to pay a premium for the organic certification at the store.|quora.json|fahad|p-p
+Deepu-Deepthi-19|Deepu Deepthi|688|1|9|0|f|or|Not only are organic farms typically smaller than conventional ones, but they also, on average, take more time to produce crops because they refrain from using the chemicals and growth hormones used by conventional farmers.|quora.json|sarthak|f-or
+Deepu-Deepthi-19|Deepu Deepthi|688|2|9|0|f|p|Production-oriented government subsidies reduce the overall cost of crops|quora.json|sarthak|f-p
+Dan-Parmenter-2|Dan Parmenter|1739|1|0|nan|nan|nan|“what little glyphosate”.|quora.json|felix|nan-nan
+Dan-Parmenter-2|Dan Parmenter|1739|2|9|0|gg|c|GM crops are modified to be *resistant* to epic quantities of glyphosate.|quora.json|felix|gg-c
+Dan-Parmenter-2|Dan Parmenter|1739|3|0|nan|nan|nan|Called “roundup ready”.|quora.json|felix|nan-nan
+Dan-Parmenter-2|Dan Parmenter|1739|4|9|0|gg|c|In the case of wheat glyphosate is not only applied during cultivation, but is also applied pre-harvest to “cure” the wheat.|quora.json|felix|gg-c
+Dan-Parmenter-2|Dan Parmenter|1739|5|9|n|gg|c|"<URL>"" And here is some scientific evidence correlating glyphosate with the “modern disease” called celiac."|quora.json|felix|gg-c
+Dan-Parmenter-2|Dan Parmenter|1739|5|9|n|gg|h|"<URL>"" And here is some scientific evidence correlating glyphosate with the “modern disease” called celiac."|quora.json|felix|gg-h
+Dan-Parmenter-2|Dan Parmenter|1739|6|9|n|gg|s|Glyphosate, pathways to modern diseases II: Celiac sprue and gluten intolerance There is no washing bread.|quora.json|felix|gg-s
+Dan-Parmenter-2|Dan Parmenter|1739|7|9|n|cp|c|In the case of neonicotinoid pesticides, they are applied to the seeds, impregnating the whole plant.|quora.json|felix|cp-c
+Dan-Parmenter-2|Dan Parmenter|1739|8|0|nan|nan|nan|Neonicotinoid - Wikipedia I can assure you that I am perfectly well informed about agriculture and the environmental and toxicological reasoning behind organic farming.|quora.json|felix|nan-nan
+Dan-Parmenter-2|Dan Parmenter|1739|9|9|p|f|g|There are marketing scams, but organic agriculture is not a scam.|quora.json|felix|f-g
+Dan-Parmenter-2|Dan Parmenter|1739|10|9|p|f|g|It's a conservative policy which prohibits the use of poisons, contaminants and synthetic chemicals, and testing rigorously for their presence.|quora.json|felix|f-g
+Dan-Parmenter-2|Dan Parmenter|1739|11|9|n|c|ll|In the food industry it is not unknown for batches to be sold as organic which are *not* organic.|quora.json|felix|c-ll
+Dan-Parmenter-2|Dan Parmenter|1739|12|0|nan|nan|nan|Those batches can be detected using perfectly scientific tests.|quora.json|felix|nan-nan
+Dan-Parmenter-2|Dan Parmenter|1739|13|0|nan|nan|nan|Probably more often than a lot of companies would like to admit.|quora.json|felix|nan-nan
+Abe-Kline|Abe Kline|931|1|0|nan|nan|nan|There are few indisputable claims for either side.|quora.json|sebastian|nan-nan
+Abe-Kline|Abe Kline|931|2|9|p|g|a|Organic has certain specifications about animal conditions, worker's conditions and a couple other things that ensure a marginally more ethical foodstuff.|quora.json|sebastian|g-a
+Abe-Kline|Abe Kline|931|3|0|nan|nan|nan|Non-organic is certainly cheaper to produce.|quora.json|sebastian|nan-nan
+Joshua-Engel|Joshua Engel|416|1|0|nan|nan|nan|"Well, the name ""organic"", for one."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|416|2|9|n|c|g|The organic rules were designed by large agribusinesses, imposing overhead requirements that small farmers find it hard to meet.|quora.json|fahad|c-g
+Joshua-Engel|Joshua Engel|416|3|9|n|c|q|And conversely, they allow processes that the founders of the organic movement find abhorrent: overcrowding, monoculture, poor nutrition safety created by extreme isolation rather than by care for the animals.|quora.json|fahad|c-q
+Joshua-Engel|Joshua Engel|416|4|0|nan|nan|nan|"And that's just in the term ""organic""."|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|416|5|9|n|cf|c|Among conventional farmers, animals are subjected to abusive treatments, even worse diets, antibiotics, hormones; plants are genetically modified and sprayed with toxic chemicals.|quora.json|fahad|cf-c
+Joshua-Engel|Joshua Engel|416|5|9|n|gg|g|Among conventional farmers, animals are subjected to abusive treatments, even worse diets, antibiotics, hormones; plants are genetically modified and sprayed with toxic chemicals.|quora.json|fahad|gg-g
+Joshua-Engel|Joshua Engel|416|6|9|n|f|g|And these processes are in fact subsidized, even for extremely wealthy agribusinesses, so that farmers wanting to practice more responsible farming (both for health and the environment) have their prices undercut by government support, as if the government were trying to drive the out of business.|quora.json|fahad|f-g
+David-Wilderness|David Wilderness|1735|1|0|nan|nan|nan|Partially accurate.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|2|0|nan|nan|nan|But an oversimplification that does a disservice to the casual reader.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|3|0|nan|nan|nan|Also, you didn't answer the question.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|4|0|nan|nan|nan|OP asked how we know a grocer like Trader Joe's isn't relabeling in store.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|5|0|nan|nan|nan|Not, how do we know the food is grown a certain way.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|6|0|nan|nan|nan|That answer is simple though, no grocer would risk their reputation to sell a cucumber for a few quid more.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|7|0|nan|nan|nan|Now, to your oft repeated assertion that all vegetables are the same.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|8|0|nan|nan|nan|This is true, if you manage to buy both a conventionally grown, and organically grown beefsteak tomato.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|9|0|nan|nan|nan|Accounting for other minor variations in terroir, the only consistent difference will be detectably more nitrogen in the conventional tomato.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|10|9|p|p|q|That's a virtue of this thing called bio accumulation, and it's one of the contributing reasons organic produce is on the average more nutritious than the competitive goods offered on the shelf next to it.|quora.json|felix|p-q
+David-Wilderness|David Wilderness|1735|11|9|p|p|t|They will often taste better too.|quora.json|felix|p-t
+David-Wilderness|David Wilderness|1735|12|0|nan|nan|nan|The market data is that you won't often find the exact same variety of most common vegetables grown both ways in the same market.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|13|0|nan|nan|nan|So you're right about organics being a marketing play.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|14|0|nan|nan|nan|Organic farmers aren't stupid (by and large) so they play to the brand they've collectively established by offering a differentiated high value product to compete with the cookie cutter burp less cucumbers and beefsteak tomatoes.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|15|9|n|g|ll|It's just good marketing.|quora.json|felix|g-ll
+David-Wilderness|David Wilderness|1735|16|0|nan|nan|nan|Organic philosophy pushes older less 'optimized' species.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|17|9|p|cf|pp|Conventional farming pushes the species that results in the highest mass yield per input.|quora.json|felix|cf-pp
+David-Wilderness|David Wilderness|1735|18|9|p|cp|q|The result is a beefsteak tomato today that has about 50% the nutrients value of a Brandywine or German Johnson.|quora.json|felix|cp-q
+David-Wilderness|David Wilderness|1735|19|9|p|cp|g|They're also more visually appealing in during a period where preferences run toward the unfamiliar and unique.|quora.json|felix|cp-g
+David-Wilderness|David Wilderness|1735|20|9|p|g|e|There's also this whole dialogue about making an attempt at being responsible stewards of the earth, something Organics make a best effort at and evolve as research does.|quora.json|felix|g-e
+David-Wilderness|David Wilderness|1735|21|0|nan|nan|nan|And, while both sides of the coin have their high impact extremists, using that basis to deride an entire group is insulting to the other 98% of growers making an effort to counter the problems developed over a few generstions of unsustainable practices.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|22|0|nan|nan|nan|Not to mention it's insulting to the intelligence of the readers listening to you try and make the mass media argument that the views of a few must represent the views of the entire group.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|23|0|nan|nan|nan|Buy organic if its marketing you can buy into, not because someone on the Internet made an argument for or against it thay barely applied to your question.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|24|0|nan|nan|nan|But buy it in faith that if it bears the logo it's organic in the US.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|25|0|nan|nan|nan|The brand is worth too much for them to let it be sullied.|quora.json|felix|nan-nan
+David-Wilderness|David Wilderness|1735|26|0|nan|nan|nan|Regardless of what you think is behind it.|quora.json|felix|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|1|0|nan|nan|nan|Fascinating question.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|2|0|nan|nan|nan|First off, one has to point out that there isn't actually too little food being produced globally (at least right now), it's just that it's in the wrong places, a lot is being wasted, and yet more is in relatively inefficient forms (like meat).|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|3|0|nan|nan|nan|Most starving people actually being in Africa as of today and the most significant increase in population driving the demand for more calories being there as well, the first objective for Africa will be to feed itself.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|4|0|nan|nan|nan|But in theory, it probably could.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|5|0|nan|nan|nan|Africa has a lot of untapped potential in agriculture: There are significant productivity reserves.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|6|0|nan|nan|nan|Take as an example this study by the Ghanaian ministry of agriculture that tallies the average crop yields across the country under rainfed conditions: Notice that for the majority of the crops, production per hectare could be doubled, tripled, even quadrupled, and that is not taking into account any heavy technical input (six tonnes of maize per hectare is just over the global yield average, but the most advanced countries like the US, France or Italy average 9 or 10, and the recordholder in Iowa apparently reached yields of over 20).|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|7|0|nan|nan|nan|And this is in a country like Ghana that is not the one with the least developed agriculture.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|8|0|nan|nan|nan|So on average, yields could be pushed up significantly, and Africa as a whole could probably double or triple its production with its current cultivated surface by changing and intensifying its methods.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|9|0|nan|nan|nan|There is a lot of non-cultivated, arable land.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|10|0|nan|nan|nan|This of course depends on the country even more heavily than the yields - a relatively small but super-densely populated country like Rwanda doesn't have much space left.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|11|0|nan|nan|nan|The Congo has lots.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|12|0|nan|nan|nan|It's rather likely that over the entire continent on average, you could increase cultivated surfaces by something like 100%.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|13|0|nan|nan|nan|Combine that with our previous assumption of productivity increases, it means Africa could produce four to six times more than it currently does.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|14|0|nan|nan|nan|There is no mechanisation.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|15|0|nan|nan|nan|Now, the impact there is not so much the yield per hectare as the yield per farmer and hence isn't necessarily a priority, or even a good thing, as long as there are plenty of people around to do the farming and aren't really qualified to do anything else; But as the next step, it could probably add a bit on top, let's say 25%, bringing the total increase to five to seven times the current production.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|16|9|0|g|g|At this point, we haven't quite made a hard choice between organic and conventional methods.|quora.json|abilasha|g-g
+David-Riefenstahl|David Riefenstahl|1920|17|9|p|f|c|By default, they are less aggressive to the environment in small farms in Africa simply because these farmers don't have the money to put the large quantities of fertiliser on their crops the Americans or Europeans do.|quora.json|abilasha|f-c
+David-Riefenstahl|David Riefenstahl|1920|18|9|n|g|g|A meta study by UC Berkeley on the yields of organic agriculture vs. conventional agriculture found that the average difference across all the crops they looked at was around 19% (in favour of conventional), but also noted that a lot of the studies analysed were biased in favour of it and that certain practices, specifically multi-cropping and crop rotation, which happen to be common in most of African smallholder agriculture, can reduce the gap to less than 10%.|quora.json|abilasha|g-g
+David-Riefenstahl|David Riefenstahl|1920|19|9|n|g|pp|That's not that much, and given the potential increase we just found, the lower yield of organic farming doesn't actually make a huge difference.|quora.json|abilasha|g-pp
+David-Riefenstahl|David Riefenstahl|1920|20|0|nan|nan|nan|So theoretically Africa should be able to become the breadbasket of the world (or at least of itself, for a start).|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|21|0|nan|nan|nan|Production is not the only issue though: Logistics need to be taken care of.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|22|0|nan|nan|nan|Due to bad roads and an atomised, unorganised transportation market with not always reliable suppliers, it's not that easy and often expensive and risky to actually bring crops to the seaports for export.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|23|0|nan|nan|nan|Standards and norms.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|24|0|nan|nan|nan|To export to Europe for example, you need certifications proving the quality of your production processes and those are often too expensive and too complicated especially for small farmers to acquire.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|25|0|nan|nan|nan|This is only going to get more difficult as other geographies will continuously tighten their quality requirements as well.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|26|0|nan|nan|nan|The exporters have few direct links to the producers, leading to unstable supply and frequent over- or under-supply of various crops due to lack of communication and stable links.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|27|0|nan|nan|nan|Pre-processing and/or packaging.|quora.json|abilasha|nan-nan
+David-Riefenstahl|David Riefenstahl|1920|28|0|nan|nan|nan|This is essential for African countries to capture more value and should help with the linkage gap.|quora.json|abilasha|nan-nan
+Osman-Blake|Osman Blake|773|8|9|0|p|l|However without this its difficult to know whether the local market produce is in fact organic or not.|quora.json|kamal|p-l
+Osman-Blake|Osman Blake|773|9|0|nan|nan|nan|I take a punt with certain stall traders, others I wouldn't even dream of taking at their word.|quora.json|kamal|nan-nan
+Osman-Blake|Osman Blake|773|1|9|0|p|g|- reduce your meat intake.|quora.json|sarthak|p-g
+Osman-Blake|Osman Blake|773|2|9|n|p|p|grass-fed beef et al is expensive.|quora.json|sarthak|p-p
+Osman-Blake|Osman Blake|773|3|9|n|p|av|I believe that the industrialisation of meat is a bad thing - and that meat should not be affordable and as available as it is.|quora.json|sarthak|p-av
+Osman-Blake|Osman Blake|773|3|9|n|c|p|I believe that the industrialisation of meat is a bad thing - and that meat should not be affordable and as available as it is.|quora.json|sarthak|c-p
+Osman-Blake|Osman Blake|773|4|9|0|p|g|We eat much more meat than is necessary as a result to our changing attitude to mass farming of meat.|quora.json|sarthak|p-g
+Osman-Blake|Osman Blake|773|5|9|0|g|l|- I have noticed a rise in local market produce that is 'near' organic.|quora.json|sarthak|g-l
+Osman-Blake|Osman Blake|773|6|9|0|f|p|For small volume producers, being certified organic is often expensive.|quora.json|sarthak|f-p
+Osman-Blake|Osman Blake|773|7|9|0|g|ll|If something is certified organic we sort of take it at face value.|quora.json|sarthak|g-ll
+Timothy-Sly|Timothy Sly|1184|1|9|0|g|s|Organic and non-organic are indistinguishable in terms of risk, safety or health of the milk.|quora.json|florian|g-s
+Timothy-Sly|Timothy Sly|1184|2|9|0|cp|q|The only important factor is that the milk has been pasteurized or sterilized (UHT).|quora.json|florian|cp-q
+Simone-Dozier|Simone Dozier|577|1|9|0|p|g|I think buying and eating ONLY organic food is sort of weird and uninformed, though I buy plenty of humane/organic stuff.|quora.json|sumit|p-g
+Simone-Dozier|Simone Dozier|577|2|9|n|g|ll|"Thing is, the system isn't perfect: -Ironically, because becoming ""certified organic"" can be time-consuming and expensive, it can cause problems for small-scale farmers."|quora.json|sumit|g-ll
+Simone-Dozier|Simone Dozier|577|3|9|n|p|p|"-organic food is more expensive and labor intensive; if all available food was ""organic"", we'd have more hungry people, so it doesn't make sense to support it exclusively -If a friend told me they ate only organic food, I would ask, ""What exactly does a business have to do to get certified as 'organic'?"""|quora.json|sumit|p-p
+Simone-Dozier|Simone Dozier|577|3|9|0|g|ll|"-organic food is more expensive and labor intensive; if all available food was ""organic"", we'd have more hungry people, so it doesn't make sense to support it exclusively -If a friend told me they ate only organic food, I would ask, ""What exactly does a business have to do to get certified as 'organic'?"""|quora.json|sumit|g-ll
+Simone-Dozier|Simone Dozier|577|4|0|nan|nan|nan|I bet I would get a pretty vague answer.|quora.json|sumit|nan-nan
+Simone-Dozier|Simone Dozier|577|5|9|0|g|g|"-""organic"" is a word people like, not a 100% gaurantee of smart or ethical business practices."|quora.json|sumit|g-g
+Simone-Dozier|Simone Dozier|577|6|0|nan|nan|nan|-if small-farm food is transported fewer miles, large-scale farms transport food more efficiently.|quora.json|sumit|nan-nan
+Simone-Dozier|Simone Dozier|577|7|0|nan|nan|nan|If you and the farmer both drive to the farmers market, that's more gas PER apple than you'll find in Safeway's bin.|quora.json|sumit|nan-nan
+Simone-Dozier|Simone Dozier|577|8|9|p|p|t|I like farmer's market food because it tastes better and have a small herb and veggie garden.|quora.json|sumit|p-t
+Simone-Dozier|Simone Dozier|577|9|9|p|p|e|Organic food does benefit the environment and we need to keep figuring out more ways to do that.|quora.json|sumit|p-e
+Simone-Dozier|Simone Dozier|577|10|9|p|f|a|I try to eat meat from humanely-raised animals, whose owners aren't doing greedy dumb things (e.g.|quora.json|sumit|f-a
+Simone-Dozier|Simone Dozier|577|11|0|nan|nan|nan|fattening them with antibiotics).|quora.json|sumit|nan-nan
+Simone-Dozier|Simone Dozier|577|12|9|0|cg|g|Will I buy nonorganic food?|quora.json|sumit|cg-g
+Simone-Dozier|Simone Dozier|577|13|0|nan|nan|nan|Will I ask the waiter if my salad was farmed with pesticides?|quora.json|sumit|nan-nan
+C-Stuart-Hardwick|C Stuart Hardwick|1890|1|0|nan|nan|nan|The OP is asking the wrong question.|quora.json|abilasha|nan-nan
+C-Stuart-Hardwick|C Stuart Hardwick|1890|2|9|p|gg|s|There is absolutely no direct health impact to GMO consumption, and the government has no business either supporting or fighting it.|quora.json|abilasha|gg-s
+C-Stuart-Hardwick|C Stuart Hardwick|1890|3|9|n|gg|g|The government's job is to regulate the industry to prevent the loss of control of modified genes, and the funding of research and distribution of information so consumers like the OP stop worrying that somehow GMO foods are magically dangerous, where the cultivated crops they derive from and which, through artificial selection, or FAR more different genetically from wild stocks than the GMOs are from them, somehow aren't.|quora.json|abilasha|gg-g
+C-Stuart-Hardwick|C Stuart Hardwick|1890|4|9|0|g|g|The right question is not, why isn't the government subsidizing organic, but why is it subsidizing SUGAR.|quora.json|abilasha|g-g
+Francis-Lau-5|Francis Lau|704|1|9|0|g|g|Is organic food really better?|quora.json|sarthak|g-g
+Francis-Lau-5|Francis Lau|704|2|9|0|g|g|This is a controversial issue.|quora.json|sarthak|g-g
+Francis-Lau-5|Francis Lau|704|3|9|0|g|h|You are on a healthy diet, and you know this means eating many vegetables, lean protein, and fruits.|quora.json|sarthak|g-h
+Francis-Lau-5|Francis Lau|704|4|9|0|g|av|But as you roam around the grocery store, looking for fresh produce, you see one more choice.|quora.json|sarthak|g-av
+Francis-Lau-5|Francis Lau|704|5|0|nan|nan|nan|I found the following article for you.|quora.json|sarthak|nan-nan
+Francis-Lau-5|Francis Lau|704|6|9|0|g|p|It helps you to understand more about organic food: Is Organic Food Really Better and Worth the Higher Price?|quora.json|sarthak|g-p
+Phil-DiNuzzo|Phil DiNuzzo|770|1|9|n|f|ll|I think you are very right about branding and organics labels somehow convince people that the animal they're eating must have lived on some idyllic farm.|quora.json|sarthak|f-ll
+Phil-DiNuzzo|Phil DiNuzzo|770|2|9|0|f|g|It doesn't help that we never see what an industrialized farm looks like, and we're mostly stuck with childhood images of petting zoos and wide open spaces.|quora.json|sarthak|f-g
+Phil-DiNuzzo|Phil DiNuzzo|770|3|9|n|f|a|I'm glad you posted that photo - I imagine most people have never seen a photo like that.|quora.json|sarthak|f-a
+Saurabh-125|Saurabh|132|1|9|n|c|ll|The reasons are aplenty, The amazing marketing or hype.|quora.json|hannah|c-ll
+Saurabh-125|Saurabh|132|3|9|p|c|av|You do not get the feeling of everything crowded together.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|4|9|p|c|g|Basically, great shopping experience in shortFeel good factor : Wholefoods cleverly greets you with, saplings, flower plants and beautiful fruits.|quora.json|hannah|c-g
+Saurabh-125|Saurabh|132|5|0|nan|nan|nan|This is a psychological trick, in fact every store employs it.|quora.json|hannah|nan-nan
+Saurabh-125|Saurabh|132|6|0|nan|nan|nan|Keep the organic/vegetarian stuff on the right side to make people feel good about themselves and their eating habits and then gradually move on towards meat, and end with pizzas, bakery on your way outExclusive : High prices deter all but few from shopping there.|quora.json|hannah|nan-nan
+Saurabh-125|Saurabh|132|7|0|nan|nan|nan|And who does not feel good about being exclusive.|quora.json|hannah|nan-nan
+Saurabh-125|Saurabh|132|8|0|nan|nan|nan|Not to offend anyone, but people in Wholefoods are way different than what you would find in say Wallmart.|quora.json|hannah|nan-nan
+Saurabh-125|Saurabh|132|9|9|p|c|av|Amazing selection of breads, not seen that good collection in another supermarket be it Sprouts, or HEB here in TexasQuality, and selection of meat, way better than any other supermarket.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|10|9|p|c|av|They also mention the source of meat, not sure if its a gimmick, but hey all of these too add to feel good factorSomeone already mentioned about huge selection of cheese from across Europe and available in all sizes.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|10|9|p|p|or|They also mention the source of meat, not sure if its a gimmick, but hey all of these too add to feel good factorSomeone already mentioned about huge selection of cheese from across Europe and available in all sizes.|quora.json|hannah|p-or
+Saurabh-125|Saurabh|132|11|9|p|c|ll|Good for trying outFood served in Wholefoods is not part of piggyback market strategy but a genuine attempt.|quora.json|hannah|c-ll
+Saurabh-125|Saurabh|132|12|9|p|c|av|Again what they serve here, multiple selection of fruits, salads and maybe 11 types of just olives.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|13|9|n|c|g|Overdoes for diet and health obsessed individualsFinally, not sure if this is part of each and every Wholefoods store.|quora.json|hannah|c-g
+Saurabh-125|Saurabh|132|14|9|p|c|av|I became Wholefoods customer because of their Beer Bar.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|15|9|p|c|av|What an amazing selection of beers, with an option to taste each one of them(thought it would be cheap of you, they have like 50+ ) before you buy a glass, bottle or whole Growler.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|16|9|p|c|av|Not to forget an option to pick marinated meats from their meat section and get it grilled or cooked in their barIn all, if you visit Wholefoods with an intention of it being a grocery store, everything will feel expensive and over-priced.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|16|9|p|c|av|Not to forget an option to pick marinated meats from their meat section and get it grilled or cooked in their barIn all, if you visit Wholefoods with an intention of it being a grocery store, everything will feel expensive and over-priced.|quora.json|hannah|c-av
+Saurabh-125|Saurabh|132|16|9|n|c|p|Not to forget an option to pick marinated meats from their meat section and get it grilled or cooked in their barIn all, if you visit Wholefoods with an intention of it being a grocery store, everything will feel expensive and over-priced.|quora.json|hannah|c-p
+Saurabh-125|Saurabh|132|17|9|p|c|g|But once in a while, the experience is really worth it|quora.json|hannah|c-g
+Jennifer-Quail|Jennifer Quail|609|1|9|n|g|e|They both use pesticides and need to be washed (just different categories and some organic certified pesticides are much nastier to the environment than the conventional varieties), there's no real taste difference, there's no real nutritional difference.|quora.json|sumit|g-e
+Jennifer-Quail|Jennifer Quail|609|1|9|0|g|t|They both use pesticides and need to be washed (just different categories and some organic certified pesticides are much nastier to the environment than the conventional varieties), there's no real taste difference, there's no real nutritional difference.|quora.json|sumit|g-t
+Jennifer-Quail|Jennifer Quail|609|1|9|0|g|q|They both use pesticides and need to be washed (just different categories and some organic certified pesticides are much nastier to the environment than the conventional varieties), there's no real taste difference, there's no real nutritional difference.|quora.json|sumit|g-q
+Jennifer-Quail|Jennifer Quail|609|2|0|nan|nan|nan|It basically makes people feel better about themselves without actually doing much besides costing more to produce.|quora.json|sumit|nan-nan
+Eric-Guicherit|Eric Guicherit|481|1|9|n|f|e|Organic agriculture is not more sustainable than conventional agriculture.|quora.json|fahad|f-e
+Eric-Guicherit|Eric Guicherit|481|2|0|nan|nan|nan|Actually, it is sustainable where people can afford to pay the premium price for organic produce, like in Switzerland or other wealthy countries.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|3|0|nan|nan|nan|It is not sustainable where people cannot afford to spend the extra money on it.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|4|0|nan|nan|nan|There are several reasons for organic produce to be more expensive: It is mostly from small scale plantings (at least in Europe)Has lower output (yields) per acre planted (lower yields, more discards)Is more labor intensiveIs premium priced Especially the last point is what drives the price.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|5|0|nan|nan|nan|It's “feel good food” and one has to pay for that.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|6|0|nan|nan|nan|Producers and distributors play into this and sell organic produce as being healthier than conventionally grown.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|7|0|nan|nan|nan|This misconception resonates with the public willing to pay a premium for a clean conscience.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|8|0|nan|nan|nan|Foodscare, so to say.|quora.json|fahad|nan-nan
+Eric-Guicherit|Eric Guicherit|481|9|9|n|f|s|In fact, organic food can contain higher levels of mycotoxins due to less effective fungal control.|quora.json|fahad|f-s
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|1|9|p|g|g|Let me give the disclaimer that if money and accessibility were no issue, I would buy absolutely everything organic, fair-trade, and local.|quora.json|sumit|g-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|2|0|nan|nan|nan|But that's not the case, and we have to make choices.|quora.json|sumit|nan-nan
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|3|9|0|p|g|I do agree with grains not being as critical in the spectrum of organic.|quora.json|sumit|p-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|4|9|0|cp|g|I buy non-organic coffee and chocolate (they are seeds, after all) but do choose fair trade if I can.|quora.json|sumit|cp-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|5|9|0|cp|g|Any fruits or vegetables that I peel before eating: Bananas, oranges, avocados, I feel OK about choosing non-organic.|quora.json|sumit|cp-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|6|9|0|p|g|I always buy cage-free eggs, but not always organic eggs.|quora.json|sumit|p-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|7|9|0|p|g|Food that is processed and thus has added crap ingredients anyway (packaged snack foods, breakfast cereals, frozen meals) I don't see the point of organic.|quora.json|sumit|p-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|8|0|nan|nan|nan|Yes it is an added benefit to one of the ingredients, but look at the others!|quora.json|sumit|nan-nan
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|9|9|p|g|g|Stuff that IS important to me to buy organic: Meat, dairy, and most fruit and vegetables, especially produce where I eat the exposed part of the plant (leafy greens, berries.)|quora.json|sumit|g-g
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|10|0|nan|nan|nan|I'm lucky enough to be able to grow a lot of my own produce and live in a rural area where a ton of stuff is available locally.|quora.json|sumit|nan-nan
+Sonnet-Fitzgerald|Sonnet Fitzgerald|640|11|9|p|p|l|Even if it's not organic, I prefer the tomatoes my neighbor grew over the organic ones from Brazil at Whole Foods.|quora.json|sumit|p-l
+Adam-Rasheed|Adam Rasheed|128|2|9|0|c|av|However, Whole foods is not the only place that carries organic produce.|quora.json|hannah|c-av
+Adam-Rasheed|Adam Rasheed|128|3|9|0|c|av|There are much cheaper options like Sprouts, if your'e in Southern California, or even national chain stores such as Albertons, which carry a limited number of organic products.|quora.json|hannah|c-av
+Dan-Parmenter-2|Dan Parmenter|706|1|0|nan|nan|nan|Absolutely not overrated.|quora.json|sarthak|nan-nan
+Dan-Parmenter-2|Dan Parmenter|706|2|9|0|g|g|However, the nature of the advantages are often misrepresented and misunderstood.|quora.json|sarthak|g-g
+Dan-Parmenter-2|Dan Parmenter|706|3|9|n|c|ll|This is partly due to the regulations to do with making “health claims” on food packaging packaging and advertising.|quora.json|sarthak|c-ll
+Dan-Parmenter-2|Dan Parmenter|706|4|9|n|p|ll|This skews the argument in favour of unhealthy and unethical food producers.|quora.json|sarthak|p-ll
+Dan-Parmenter-2|Dan Parmenter|706|5|9|p|f|e|Organic farming has its priorities, namely ecological responsibility and non-toxicity.|quora.json|sarthak|f-e
+Dan-Parmenter-2|Dan Parmenter|706|6|9|p|f|c|Organic farming does not employ poisonous synthetic chemicals in agriculture.|quora.json|sarthak|f-c
+Dan-Parmenter-2|Dan Parmenter|706|7|9|p|f|c|No preservatives.|quora.json|sarthak|f-c
+Dan-Parmenter-2|Dan Parmenter|706|8|9|p|f|c|*all* of these use selective toxicity as their primary mode of action.|quora.json|sarthak|f-c
+Dan-Parmenter-2|Dan Parmenter|706|9|9|p|p|q|It also prohibits the use of preservatives, so organic food is fresher.|quora.json|sarthak|p-q
+Dan-Parmenter-2|Dan Parmenter|706|10|9|p|g|q|In many cases the freshness is equivalent to being more nutritious.|quora.json|sarthak|g-q
+Dan-Parmenter-2|Dan Parmenter|706|11|9|n|cp|g|I had a non-organic supermarket bell pepper sit forgotten on a shelf in my flat for two years.|quora.json|sarthak|cp-g
+Dan-Parmenter-2|Dan Parmenter|706|12|0|nan|nan|nan|I found it when I moved out.|quora.json|sarthak|nan-nan
+Dan-Parmenter-2|Dan Parmenter|706|13|9|n|cp|q|It did not dry out or go off.|quora.json|sarthak|cp-q
+Dan-Parmenter-2|Dan Parmenter|706|14|9|n|cp|c|I have no idea what they were putting on those, but that ain't natural.|quora.json|sarthak|cp-c
+Dan-Parmenter-2|Dan Parmenter|706|15|9|0|g|g|However, plastic packaging is common.|quora.json|sarthak|g-g
+Dan-Parmenter-2|Dan Parmenter|706|16|9|n|g|e|It is assumed to be safe… but scientific investigation suggests otherwise.|quora.json|sarthak|g-e
+Dan-Parmenter-2|Dan Parmenter|706|17|9|n|cp|c|What is more, the scientific work featured above suggests that conventional toxicological studies are extremely misleading in the assumption of a linear dose-response effect and that finding the threshold of fatal toxicity is conclusively indicative of the full impact on health - the situation is actually far more complicated.|quora.json|sarthak|cp-c
+Alok-Singh-715|Alok Singh|707|1|9|n|cp|c|Ever since people have realized a number of chemicals and artificial enhancements present in food products, organic food has become quite a popular choice.|quora.json|sarthak|cp-c
+Alok-Singh-715|Alok Singh|707|2|9|0|cp|c|Whether it’s overrated or not, is a good question as people have been living on artificially enhanced food for decades without any trouble.|quora.json|sarthak|cp-c
+Alok-Singh-715|Alok Singh|707|3|0|nan|nan|nan|All this comes down to your lifestyle.|quora.json|sarthak|nan-nan
+Alok-Singh-715|Alok Singh|707|4|9|p|p|h|If you’re one of those health conscious people who are concerned with everything that goes into your body, organic food is probably for you.|quora.json|sarthak|p-h
+Alok-Singh-715|Alok Singh|707|5|0|nan|nan|nan|However, there are a lot of people with a lot bigger problems in their life, and to them, it really doesn’t matter as long as they have food on the table.|quora.json|sarthak|nan-nan
+Alok-Singh-715|Alok Singh|707|6|9|n|cp|c|It has never actually scientifically been proved that genetically enhanced fruits or vegetables are especially harmful to us.|quora.json|sarthak|cp-c
+Alok-Singh-715|Alok Singh|707|7|9|n|cf|e|However, the practices involve artificially increasing animal produce are quite cruel in nature.|quora.json|sarthak|cf-e
+Alok-Singh-715|Alok Singh|707|8|9|p|f|a|It is for this reason that organic meat is preferred by most people as the animals are allowed to live their natural lives open and free, unlike commercial projects where animals are cooped up in cages their entire lives and fattened on artificial hormones and chemicals.|quora.json|sarthak|f-a
+Alok-Singh-715|Alok Singh|707|9|9|p|p|av|Organic foods are generally considered healthier and quite popular, and easily available.|quora.json|sarthak|p-av
+Alok-Singh-715|Alok Singh|707|10|9|p|p|av|Some online stores that sell a variety of organic foods are bigbasket, lalaji24x7, and onekirana.|quora.json|sarthak|p-av
+Barthelemy-Lature|Barthelemy Lature|1669|1|0|nan|nan|nan|Hi, ABOUT HEALTHIER DIETS Yes, definitely.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|2|0|nan|nan|nan|Going from a poor diet to a healthier diet can have outstandingly positive and obvious effects.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|3|0|nan|nan|nan|It depends where you start from and what you implement sustainably in contrast.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|4|0|nan|nan|nan|This all can be measured quite extensively by markers like blood pressure, markers of inflammation, epidemiological rates of illness and mortality...There is VERY solid evidence that the right changes in diet are outstandingly beneficial.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|5|0|nan|nan|nan|"Other people have explained this in detail so I will just invite you to watch the talks here : <URL>"" Look for the ""Nutrition Year-in-Review"", bottom of the home page at the present moment."|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|6|9|0|p|h|ABOUT ORGANIC FOOD I would say in short: There is more to the picture of health than what we can see and feel.|quora.json|felix|p-h
+Barthelemy-Lature|Barthelemy Lature|1669|7|0|nan|nan|nan|Likewise, there is more to the picture of disease than what you can see and feel.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|8|0|nan|nan|nan|"Those are subclinical problems, the most popular being cancer, which from a single cell takes 5 to 8 years to slowly grow with no symptoms detectable using ""early detection""."|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|9|0|nan|nan|nan|For that whole time the patient would have had no idea they were sick.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|10|0|nan|nan|nan|You can also take an action that is in the direction of health, but have no perceivable clue how that is benefiting you.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|11|0|nan|nan|nan|I work in cancer PREVENTION advocacy, so I notice, when people are helped to avoid having problems in the first place (prevention), they forget the gravity of what they are avoiding because they can't feel it.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|12|0|nan|nan|nan|How wonderful does a life without cancer feel?|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|13|0|nan|nan|nan|You are probably reading this not having a cancer (I hope), so pretty much all or most your life it felt like that?|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|14|0|nan|nan|nan|Just normal, so why bother doing something (preventive) that keep things in a way that feels not particularly special?|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|15|0|nan|nan|nan|(That was the evil cancer voice in people's heads by the way) But someone who had cancer and is cured will obviously feel the difference from getting back to normal and will be willing to make changes and efforts to keep it that way, the normal way.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|16|0|nan|nan|nan|It's a mental bias we have I suppose.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|17|0|nan|nan|nan|Now more specifically on organics, there has been studies on exactly that.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|18|0|nan|nan|nan|"<URL>"" has a good series on organic food and the effects on the body."|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|19|0|nan|nan|nan|"Once on the site, look up ""organic""."|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|20|9|0|p|h|Keep in mind: Diet alone, even organic, accounts for a limited portion of what makes people healthy.|quora.json|felix|p-h
+Barthelemy-Lature|Barthelemy Lature|1669|21|0|nan|nan|nan|For instance, if you take the standard American diet and turn that 100% organic.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|22|9|0|p|h|Even with the strictest organic rules, it will still very likely conduce to the same dramatic rates of avoidable death: cardiovascular disease, cancer, etc...There are far more important factors than {organic/not organic to} prioritize in the attempt to develop a healthy lifestyle.|quora.json|felix|p-h
+Barthelemy-Lature|Barthelemy Lature|1669|23|9|n|g|ll|In some countries like New Zealand, the word organic is not regulated, you can sell anything calling it organic, even if it is not what people expect it to be.|quora.json|felix|g-ll
+Barthelemy-Lature|Barthelemy Lature|1669|24|9|0|g|ll|Many countries have different labels/norms/rules for organic, they differ quite a lot.|quora.json|felix|g-ll
+Barthelemy-Lature|Barthelemy Lature|1669|25|0|nan|nan|nan|So no two organic products from different labels are as organic.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|26|9|n|p|c|Food can be grown organically and still be sprayed with toxic but organic products.|quora.json|felix|p-c
+Barthelemy-Lature|Barthelemy Lature|1669|27|9|n|p|s|Food can be grown organically and still be covered in bacteria and viruses from the feaces of animals used to fertilize the crops (which is why I believe cover crops / no till are far better).|quora.json|felix|p-s
+Barthelemy-Lature|Barthelemy Lature|1669|27|9|p|cp|s|Food can be grown organically and still be covered in bacteria and viruses from the feaces of animals used to fertilize the crops (which is why I believe cover crops / no till are far better).|quora.json|felix|cp-s
+Barthelemy-Lature|Barthelemy Lature|1669|28|9|n|p|p|Organic does not mean ideal, far from it, but it's generally a good step forward to eat less toxic food, I just wish it was more affordable.|quora.json|felix|p-p
+Barthelemy-Lature|Barthelemy Lature|1669|28|9|p|p|c|Organic does not mean ideal, far from it, but it's generally a good step forward to eat less toxic food, I just wish it was more affordable.|quora.json|felix|p-c
+Barthelemy-Lature|Barthelemy Lature|1669|29|0|nan|nan|nan|Food is still not sold based on its nutritional profile.|quora.json|felix|nan-nan
+Barthelemy-Lature|Barthelemy Lature|1669|30|9|n|p|q|If it were, we would probably pay less for supermarket food, less for organic food, and more for truly nutritive food.|quora.json|felix|p-q
+Barthelemy-Lature|Barthelemy Lature|1669|31|9|n|f|pp|Organic doesn't mean that optimal soil practices were used, like cover crop / no till, which leave the soil and its biological life minimally disturbed and require minimal fertilizer/pesticide use because the the soil is kept covered, and plants are left to decompose slowly on the surface which fertilizes.|quora.json|felix|f-pp
+Barthelemy-Lature|Barthelemy Lature|1669|31|9|n|f|c|Organic doesn't mean that optimal soil practices were used, like cover crop / no till, which leave the soil and its biological life minimally disturbed and require minimal fertilizer/pesticide use because the the soil is kept covered, and plants are left to decompose slowly on the surface which fertilizes.|quora.json|felix|f-c
+Barthelemy-Lature|Barthelemy Lature|1669|32|9|n|f|e|Organic does not guarantee anything about the quality of the soil, the nutrients in them and (from a more environmental standpoint) the level and diversity of biological life in them.|quora.json|felix|f-e
+Deekshith-Pinto|Deekshith Pinto|1222|1|9|p|f|g|All the factors favoring sustainability on the long run, support organic farming as the future of agriculture around the globe.|quora.json|florian|f-g
+Deekshith-Pinto|Deekshith Pinto|1222|2|9|p|f|g|Let me quote from my previous answer Deekshith Pinto's answer to Can India afford organic farming?|quora.json|florian|f-g
+Deekshith-Pinto|Deekshith Pinto|1222|3|0|nan|nan|nan|As we all know, for a technique to be proven sustainable and for the state policy to be driven in that direction, the environmental, social as well as the economic sustainability needs to be demonstrated.|quora.json|florian|nan-nan
+Deekshith-Pinto|Deekshith Pinto|1222|4|9|n|f|e|Let us see them one by one:There is no questions about the environmental sustainability of organic farming.|quora.json|florian|f-e
+Deekshith-Pinto|Deekshith Pinto|1222|5|9|n|cf|c|The chemical fertilizers and pesticides have cascading impacts on the ecological resilience of any region by killing many essential creatures apart from impacts on the human health, poisoning water and land, degrading the fertility, and so on.|quora.json|florian|cf-c
+Deekshith-Pinto|Deekshith Pinto|1222|6|9|n|cf|c|Even during production these chemicals possess a huge carbon and water footprint, disrupts nitrogen and phosphate cycles, and pollutes local environment.|quora.json|florian|cf-c
+Deekshith-Pinto|Deekshith Pinto|1222|7|9|p|f|e|The organic farming techniques have proven to be of far less harm to the environment and human health.|quora.json|florian|f-e
+Deekshith-Pinto|Deekshith Pinto|1222|8|0|nan|nan|nan|The socio-economic dimension, on the other hand, is quite tricky.|quora.json|florian|nan-nan
+Deekshith-Pinto|Deekshith Pinto|1222|9|0|nan|nan|nan|Here comes the concepts like natural justice, intra- or inter-generational equity, precautionary principle, etc.|quora.json|florian|nan-nan
+Deekshith-Pinto|Deekshith Pinto|1222|10|9|n|f|p|With current state of technology, yes, organic farming is comparatively costlier and gives less output.|quora.json|florian|f-p
+Deekshith-Pinto|Deekshith Pinto|1222|11|9|0|f|g|Mind you, even these stats vary quite considerably depending on the scale, region, farming practices, etc., and sometimes it has been even demonstrated that organic farming can also be more profitable than inorganic.|quora.json|florian|f-g
+Deekshith-Pinto|Deekshith Pinto|1222|12|9|0|f|g|However, given the current policy regime of subsidized chemical fertilizers and pesticides and the lack of awareness towards the nuanced techniques of organic farming, it does become less profitable.|quora.json|florian|f-g
+Deekshith-Pinto|Deekshith Pinto|1222|13|9|n|f|c|However, what most of the land users (farmers) fail to recognize is the masking effect of the chemical fertilizers and pesticides on the continued degradation of their own land leading them towards a vicious circle where these chemicals degrades land productivity and the farmers apply even more chemicals to increase productivity.|quora.json|florian|f-c
+Deekshith-Pinto|Deekshith Pinto|1222|14|9|n|cf|g|At one point the economic viability of inorganic farming also diminishes as the land degrades more and more.|quora.json|florian|cf-g
+Deekshith-Pinto|Deekshith Pinto|1222|15|9|n|f|g|Therefore, it is always beneficial for the farmers to turn to organic farming in the long run, though it might mean less profits in the present circumstance.|quora.json|florian|f-g
+Deekshith-Pinto|Deekshith Pinto|1222|16|9|0|f|g|The small land holders who live on a season to season basis might find it difficult due to the economy of scales but the medium and large scale farmers must shift to organic farming for their ow interest as well as for the benefit of the society.|quora.json|florian|f-g
+Simon-Meisinger-1|Simon Meisinger|832|1|9|p|g|e|The difference is though that “better for the environment” is far less BS than “it’s healthier” – because in its actual sense “organic” does mean “better for the environment” while it doesn’t mean “healthier” in its actual sense.|quora.json|kamal|g-e
+Simon-Meisinger-1|Simon Meisinger|832|2|9|0|p|h|It did mean “healthier” around 20 years ago, at least in Europe.|quora.json|kamal|p-h
+Simon-Meisinger-1|Simon Meisinger|832|3|9|0|cp|c|But the pesticides that were used for “non-organic” food are now banned, so that difference is gone.|quora.json|kamal|cp-c
+Justin-Ma|Justin Ma|519|1|0|nan|nan|nan|"Unfortunately, the question from the start is problematic, because ""sustainable"" is difficult to define."|quora.json|sumit|nan-nan
+Justin-Ma|Justin Ma|519|2|9|0|f|g|"""Organic"" farming and ""regular"" farming are also difficult to define."|quora.json|sumit|f-g
+Justin-Ma|Justin Ma|519|3|9|n|f|g|But to provide my (biased) opinion, the answer is no.|quora.json|sumit|f-g
+Justin-Ma|Justin Ma|519|4|9|p|cf|g|My basic reason is that regular farming can incorporate all the techniques that organic farming employs, plus more .|quora.json|sumit|cf-g
+Justin-Ma|Justin Ma|519|5|9|0|f|g|Organic farming, by the certification definition, is restricted to the use of certain techniques.|quora.json|sumit|f-g
+Justin-Ma|Justin Ma|519|6|0|nan|nan|nan|On the more general point, the most important concept to think of when considering sustainability is that it's an incorporation of long-term and scalable economic, social, and environmental aspects.|quora.json|sumit|nan-nan
+Justin-Ma|Justin Ma|519|7|0|nan|nan|nan|All three are equally important.|quora.json|sumit|nan-nan
+Justin-Ma|Justin Ma|519|8|9|0|f|pp|A good example of why a discussion needs to consider all these points: organic yields and conventional yields do not differ per se .|quora.json|sumit|f-pp
+Justin-Ma|Justin Ma|519|9|9|n|f|pp|But organic yields, when considering labour input, is always substantially less.|quora.json|sumit|f-pp
+Justin-Ma|Justin Ma|519|10|0|nan|nan|nan|In my opinion, that fails the economic scalability test.|quora.json|sumit|nan-nan
+Tim-Zweber|Tim Zweber|592|1|9|0|f|a|In brief there are three big requirements for chickens to be organic.|quora.json|sumit|f-a
+Tim-Zweber|Tim Zweber|592|2|0|nan|nan|nan|Outdoor access - not necessarily pasture but need to have a choice of stepping out for fresh air 2.|quora.json|sumit|nan-nan
+Tim-Zweber|Tim Zweber|592|3|9|0|f|a|Organic feed for entire life - exception for first 2 days after hatching 3.|quora.json|sumit|f-a
+Tim-Zweber|Tim Zweber|592|4|0|nan|nan|nan|No drugs - fed antibiotics biggest concern there.|quora.json|sumit|nan-nan
+Tim-Zweber|Tim Zweber|592|5|0|nan|nan|nan|Not aware of legal use of any other drugs like beta agonists etc.|quora.json|sumit|nan-nan
+Tim-Zweber|Tim Zweber|592|6|9|0|f|g|allowed in conventional or organic production.|quora.json|sumit|f-g
+Tim-Zweber|Tim Zweber|592|7|0|nan|nan|nan|"Whole Foods has a nice blog on this topic: <URL>"""|quora.json|sumit|nan-nan
+Simran-Malhotra-52|Simran Malhotra|1494|1|9|0|p|av|There are number of website through which you can Shop online organic spices.|quora.json|omar|p-av
+Simran-Malhotra-52|Simran Malhotra|1494|2|0|nan|nan|nan|But the main problem that on whom we trust.|quora.json|omar|nan-nan
+Simran-Malhotra-52|Simran Malhotra|1494|3|0|nan|nan|nan|According to my view you can Shop online organic spices by the website, through which I use to buy these organic product regularly i.e Clickgreen- the best website for these types of products.|quora.json|omar|nan-nan
+Simran-Malhotra-52|Simran Malhotra|1494|4|0|nan|nan|nan|"Thankyou Here is the website link:- <URL>"""|quora.json|omar|nan-nan
+Megha-Das-24|Megha Das|779|1|9|p|p|av|I am not sure which is the best organic shop in the country however I have always shopped organic fruits and vegetables from Organicgarden and I have always been satisfied wit h their quick service.|quora.json|kamal|p-av
+Megha-Das-24|Megha Das|779|2|0|nan|nan|nan|I think you can try it out.|quora.json|kamal|nan-nan
+Megha-Das-24|Megha Das|779|3|9|p|c|g|They are into organic industry since last 5 years.|quora.json|kamal|c-g
+0|Anonymous|135|1|9|0|p|ll|This is a good question and depends on the US definition of Organic wine.|quora.json|hannah|p-ll
+0|Anonymous|135|2|9|0|p|ll|There are two types in the US.|quora.json|hannah|p-ll
+0|Anonymous|135|3|9|0|p|ll|Wine Made With Organic Grapes and 100% Organic wine(USDA Organic).|quora.json|hannah|p-ll
+0|Anonymous|135|4|9|0|p|ll|The first category is (As it's wording states) made from organic certified grapes but not made with organic principles in the cellar.|quora.json|hannah|p-ll
+0|Anonymous|135|5|9|0|p|ll|The main point of differentiation to consumers is that sulphur dioxide is allowed to be added, with a maximum of 100 Parts per Million.|quora.json|hannah|p-ll
+0|Anonymous|135|6|9|0|p|ll|Though i have to point out that there is no control of this limit at all with either the US government or producing country, in the case of imported wines.|quora.json|hannah|p-ll
+0|Anonymous|135|7|9|0|p|ll|So these wines can fluctuate easily well above 100 ppm.|quora.json|hannah|p-ll
+0|Anonymous|135|9|9|0|p|ll|The total Sulfite level in the finished wine has to be under 10 Parts per Million and no other Non Organic ingredients are allowed.|quora.json|hannah|p-ll
+0|Anonymous|135|10|9|0|p|ll|This category of wine has to under go USDA Lab analysis every vintage to prove it is what it claims.|quora.json|hannah|p-ll
+0|Anonymous|135|11|9|p|p|or|Of course like all marketeers we think the best Organic wines are the ones we import and distribute through out the US.|quora.json|hannah|p-or
+0|Anonymous|135|12|0|nan|nan|nan|Try any of the following wines: Stellar Organics - $9.99 Live a Little - $8.99 Zeroincondotta - $13.99|quora.json|hannah|nan-nan
+Iida-Ruishalme|Iida Ruishalme|149|1|9|0|p|h|Several comprehensive reviews support the view that there are no nutritional or health benefits from organic products.|quora.json|hannah|p-h
+Iida-Ruishalme|Iida Ruishalme|149|2|9|p|p|q|I lay them out in this piece: Organic vs conventional food The summary: It must be reasonable to assume, that should there be a stable measurable difference in the nutritional content of organic food, other reviews would be able to arrive at that conclusion independently of each other.|quora.json|hannah|p-q
+Iida-Ruishalme|Iida Ruishalme|149|2|9|n|cp|q|I lay them out in this piece: Organic vs conventional food The summary: It must be reasonable to assume, that should there be a stable measurable difference in the nutritional content of organic food, other reviews would be able to arrive at that conclusion independently of each other.|quora.json|hannah|cp-q
+Iida-Ruishalme|Iida Ruishalme|149|3|9|n|p|q|Instead, we have four reviews on similar lines – finding no nutritional or health benefits of organic food.|quora.json|hannah|p-q
+Iida-Ruishalme|Iida Ruishalme|149|4|9|0|p|q|Then we have one study stating a different conclusion, but at a closer look demonstrating very little differences for a few nutrients, likely at a level of no consequence for our health or nutrient intake.|quora.json|hannah|p-q
+0|Anonymous|1605|1|0|nan|nan|nan|Capsacin is eaten by millions of people all over the world every day.|quora.json|omar|nan-nan
+0|Anonymous|1605|2|0|nan|nan|nan|I wash my dishes with soap.|quora.json|omar|nan-nan
+0|Anonymous|1605|3|0|nan|nan|nan|Animal manure has been used as fertilizer for thousands of years.|quora.json|omar|nan-nan
+0|Anonymous|1605|4|0|nan|nan|nan|All these things wash off and should leave no harmful residue.|quora.json|omar|nan-nan
+0|Anonymous|1605|5|0|nan|nan|nan|If the same could be said for synthetic pesticides, I would be open to them.|quora.json|omar|nan-nan
+0|Anonymous|1605|6|9|n|cp|h|But when people who eat a conventional diet are tested, their blood contains detectable levels of pesticides, which disappear when they go on an organic diet.|quora.json|omar|cp-h
+0|Anonymous|1605|6|9|p|cp|h|But when people who eat a conventional diet are tested, their blood contains detectable levels of pesticides, which disappear when they go on an organic diet.|quora.json|omar|cp-h
+0|Anonymous|130|2|0|nan|nan|nan|This is why right-wingers teach abstinence-only sex-ed and left-wingers flock to Whole Foods to buy organic cheese doodles and fancy soap.|quora.json|hannah|nan-nan
+0|Anonymous|130|3|9|n|p|p|The Chivas Regal Effect: the idea that if something is more expensive than a similar product offered at a lower price, it must be of better quality.|quora.json|hannah|p-p
+0|Anonymous|130|4|9|n|c|g|And Whole Foods places its stores in high density areas filled with rich white people, which helps….|quora.json|hannah|c-g
+0|Anonymous|130|5|9|n|c|ll|It doesn't look like the grocery store in the poorer areas (or the Wal-Mart around the corner where the poorer people shop) so they're tapping into something there as well.|quora.json|hannah|c-ll
+Forage-Complete|Forage Complete|898|1|0|nan|nan|nan|Hello, The product which produced by nature; not artificial or man-made.|quora.json|kamal|nan-nan
+Forage-Complete|Forage Complete|898|2|9|0|p|g|Natural, pesticide-free, not-natural-chemistry free, additive-free are called organic product.|quora.json|kamal|p-g
+Forage-Complete|Forage Complete|898|3|9|p|p|s|More and more people are turning to natural organic food due to safety and healthy reasons, both for people and environment.|quora.json|kamal|p-s
+Forage-Complete|Forage Complete|898|3|9|p|p|e|More and more people are turning to natural organic food due to safety and healthy reasons, both for people and environment.|quora.json|kamal|p-e
+Forage-Complete|Forage Complete|898|4|9|p|p|s|Growing numbers of consumers want foods made with fewer, more simple and natural ingredients and without genetically modified organisms and pesticides.|quora.json|kamal|p-s
+Forage-Complete|Forage Complete|898|5|9|p|c|g|And If you are looking for organic seeds, Forage Complete is one of the famous brand for providing organic or non gmo alfalfa seed, corn, Timothy, Oats, Clover and many more.|quora.json|kamal|c-g
+Forage-Complete|Forage Complete|898|6|9|p|c|g|We are also providing important information about seed grazing alfalfa seed, along with an extensive offering of organic and hybrid seed products.|quora.json|kamal|c-g
+Forage-Complete|Forage Complete|898|7|0|nan|nan|nan|For more information visit- Home - Forage Complete|quora.json|kamal|nan-nan
+Kim-Chamberlain|Kim Chamberlain|145|1|9|p|f|pp|There is a great myth that organic farms will not produce the same yields that conventional farms do.|quora.json|hannah|f-pp
+Kim-Chamberlain|Kim Chamberlain|145|2|9|p|f|pp|As organic farms mature, particularly in Europe where there are many that have been going for decades, they are now starting to produce greater yields than conventional farms.|quora.json|hannah|f-pp
+Kim-Chamberlain|Kim Chamberlain|145|3|9|p|f|e|It makes sense that the more nutritious the soil, the better yields from the plants.|quora.json|hannah|f-e
+Kim-Chamberlain|Kim Chamberlain|145|3|9|p|f|pp|It makes sense that the more nutritious the soil, the better yields from the plants.|quora.json|hannah|f-pp
+Kim-Chamberlain|Kim Chamberlain|145|4|9|p|f|e|Also many biodynamic farms are working with their environment to enrich the soil to an even greater extent.|quora.json|hannah|f-e
+0|Anonymous|1325|1|9|0|cf|c|What about all the pesticides in conventional farming compared to organic?|quora.json|florian|cf-c
+0|Anonymous|1325|2|0|nan|nan|nan|That must make a huge difference in the pollution it produces?|quora.json|florian|nan-nan
+Ryan-Carlyle|Ryan Carlyle|749|1|9|0|cp|g|Foods with tortuous edible surface area (like strawberries and kale) are difficult to wash properly.|quora.json|sarthak|cp-g
+Ryan-Carlyle|Ryan Carlyle|749|2|9|n|g|g|I wouldn't personally buy them organic.|quora.json|sarthak|g-g
+Ryan-Carlyle|Ryan Carlyle|749|3|9|n|p|t|I don't buy organic bananas, I just think they taste different.|quora.json|sarthak|p-t
+Ryan-Carlyle|Ryan Carlyle|749|4|9|0|f|g|On a quasi-related sidenote, I've met some Peruvian organic banana farmers.|quora.json|sarthak|f-g
+Ryan-Carlyle|Ryan Carlyle|749|5|9|0|p|g|They put the growing bananas in porous clear plastic bags instead of spraying pesticides.|quora.json|sarthak|p-g
+Ryan-Carlyle|Ryan Carlyle|749|6|9|0|f|g|It's labor-intensive, but developing-nation agriculture always is.|quora.json|sarthak|f-g
+Rebecca-Miller-137|Rebecca Miller|667|1|0|nan|nan|nan|I don’t have an answer.|quora.json|sarthak|nan-nan
+Rebecca-Miller-137|Rebecca Miller|667|2|9|n|cp|g|just recently put on no milk:no gluten free diet.|quora.json|sarthak|cp-g
+Rebecca-Miller-137|Rebecca Miller|667|3|9|0|cp|g|I bought some butter fro Amidh that said.|quora.json|sarthak|cp-g
+Rebecca-Miller-137|Rebecca Miller|667|4|0|nan|nan|nan|I didn’ know what it meant.|quora.json|sarthak|nan-nan
+Rebecca-Miller-137|Rebecca Miller|667|5|9|p|p|g|Now, more than ever, I would buy organic milk.|quora.json|sarthak|p-g
+Rebecca-Miller-137|Rebecca Miller|667|6|9|p|p|h|And, I will enform my family .|quora.json|sarthak|p-h
+Rebecca-Miller-137|Rebecca Miller|667|7|9|p|p|h|So they can make healthier choices.|quora.json|sarthak|p-h
+0|Anonymous|1027|1|9|0|p|g|I grow and eat/juice organic veges.|quora.json|sebastian|p-g
+0|Anonymous|1027|2|0|nan|nan|nan|I feel satisfied after i have eaten whereas with inorganic food i still crave more.|quora.json|sebastian|nan-nan
+0|Anonymous|1027|3|0|nan|nan|nan|i feel good most of the time... no severe mood swings or headaches.|quora.json|sebastian|nan-nan
+0|Anonymous|1027|4|0|nan|nan|nan|There is so much pollution everywhere that i really don't need it at every meal as well.|quora.json|sebastian|nan-nan
+0|Anonymous|1027|5|9|p|g|h|Eating organic allows my body to detoxify rather than creating further toxification.|quora.json|sebastian|g-h
+0|Anonymous|1027|6|9|p|g|p|If you think eating organic is expensive, just think how much more expensive all those hospital bills will be!|quora.json|sebastian|g-p
+0|Anonymous|1027|6|9|p|g|h|If you think eating organic is expensive, just think how much more expensive all those hospital bills will be!|quora.json|sebastian|g-h
+0|Anonymous|1027|7|9|p|g|h|Have a look around at people who eat organic as opposed to those who go for the chemical stuff... the answer to your questions are to be found in their shing good health and energy!|quora.json|sebastian|g-h
+0|Anonymous|1027|8|0|nan|nan|nan|Well, that's my tuppence worth anyhow.|quora.json|sebastian|nan-nan
+Vincent-Colletti-1|Vincent Colletti|1033|1|9|n|g|p|The cost of organic food in supermarkets is outrageous.|quora.json|sebastian|g-p
+Vincent-Colletti-1|Vincent Colletti|1033|2|0|nan|nan|nan|So when we considered the fact that we could save some money during the summer months by growing our own it was a no brainer, so I guess economics was the true inspiration but now it has grown into a sense of accomplishment whenever we pull from the garden.|quora.json|sebastian|nan-nan
+Saravana-Bharathi|Saravana Bharathi|94|1|9|n|p|ll|My main concern would be questionable authenticity of organic!|quora.json|hannah|p-ll
+Saravana-Bharathi|Saravana Bharathi|94|2|9|n|p|q|Adding to this would be bugs, bacteria etc.|quora.json|hannah|p-q
+Saravana-Bharathi|Saravana Bharathi|94|3|9|n|p|s|wash well before consuming.|quora.json|hannah|p-s
+Ryan-Carlyle|Ryan Carlyle|750|1|9|p|cp|c|Pesticides sprayed directly on edible fruit are EITHER designed to break down prior to arrival at the supermarket (rain, air, sun, etc.)|quora.json|sarthak|cp-c
+Ryan-Carlyle|Ryan Carlyle|750|2|9|p|cp|c|or are safe for human consumption.|quora.json|sarthak|cp-c
+Ryan-Carlyle|Ryan Carlyle|750|3|9|n|p|c|I'll take food-grade pesticide over e.coli any day of the week.|quora.json|sarthak|p-c
+Ryan-Carlyle|Ryan Carlyle|750|4|9|n|p|c|"Organic produce is sprayed with pesticides too, it's just ""organic"" pesticide meaning it was extracted from a plant (eg low-quality tobacco)."|quora.json|sarthak|p-c
+Ryan-Carlyle|Ryan Carlyle|750|5|9|n|p|c|That doesn't make it fundamentally safer.|quora.json|sarthak|p-c
+Ryan-Carlyle|Ryan Carlyle|750|5|9|n|p|s|That doesn't make it fundamentally safer.|quora.json|sarthak|p-s
+Jane-Cristina|Jane Cristina|1792|1|0|nan|nan|nan|It depends on the toxins.|quora.json|abilasha|nan-nan
+Jane-Cristina|Jane Cristina|1792|2|9|p|p|c|Organic foods are food items produced using processes without synthetics such as chemical fertilizers and pesticides.|quora.json|abilasha|p-c
+Jane-Cristina|Jane Cristina|1792|3|9|n|cp|c|Inorganic foods use synthetics to produce the finished food products.|quora.json|abilasha|cp-c
+Arvind-Gauns|Arvind Gauns|1283|1|9|0|f|g|Organic farming for me is the farming practices acquired with the organic materials (nutrition and base planting materials) using the indigenous varieties of seeds and crops (found and prominent in your neighborhood) , with integrated pest and disease management using either natural predator or biological control without using any of the inorganic (insecticides and pesticides) or nutrition enrichment substrate (fertiliser).|quora.json|florian|f-g
+Arvind-Gauns|Arvind Gauns|1283|2|9|0|g|c|Residue free substances can't be called organic, which is misunderstood as organic.|quora.json|florian|g-c
+0|Anonymous|904|1|0|nan|nan|nan|Organic - by etymology means anything related to organs.|quora.json|sebastian|nan-nan
+0|Anonymous|904|2|0|nan|nan|nan|From that it has started to mean anything living or related to living things, which in turn started to mean anything that occurs naturally.|quora.json|sebastian|nan-nan
+0|Anonymous|904|3|9|0|g|ll|Organic food: fully produced based only on organic (life based) nutrients including fertilizers and pesticides (if used).|quora.json|sebastian|g-ll
+0|Anonymous|904|4|9|0|g|c|Organic compounds: any chemical compounds that are found in living things.|quora.json|sebastian|g-c
+0|Anonymous|904|5|9|0|g|c|Carbon mostly occurs only in living things, so most of the compounds that contain carbon are often called organic compounds.|quora.json|sebastian|g-c
+0|Anonymous|904|6|0|nan|nan|nan|Organic growth: any organization that develops naturally without any force or money are said to have achieved organic growth.|quora.json|sebastian|nan-nan
+Deb-Karen-Cee|Deb Karen Cee|1284|1|9|p|g|h|Experts at Consumer Reports believe that organic is always the best choice because it is better for your health, the environment, and the people who grow our food.|quora.json|florian|g-h
+Deb-Karen-Cee|Deb Karen Cee|1284|2|0|nan|nan|nan|The risk from pesticides in produce grown conventionally varies from very low to very high, depending on the type of produce and on the country where it’s grown.|quora.json|florian|nan-nan
+Deb-Karen-Cee|Deb Karen Cee|1284|3|0|nan|nan|nan|The differences can be dramatic.|quora.json|florian|nan-nan
+Deb-Karen-Cee|Deb Karen Cee|1284|4|9|n|g|g|For instance, eating one serving of green beans from the U.S. is 200 times riskier than eating a serving of U.S.-grown broccoli.|quora.json|florian|g-g
+Deb-Karen-Cee|Deb Karen Cee|1284|5|0|nan|nan|nan|Pesticides in Produce - Consumer Reports|quora.json|florian|nan-nan
+Sneha-Falcon|Sneha Falcon|653|1|9|p|g|h|Natural and organic food is very important part of our life.|quora.json|sarthak|g-h
+Sneha-Falcon|Sneha Falcon|653|2|0|nan|nan|nan|If you want to purchase online anything regarding organic food then please visit us at Buy Organic Food Online - Dairy Products, Fruits, Vegetable, Bakery, Confectionery, Meat, Egg, Baby Food|quora.json|sarthak|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|1|0|nan|nan|nan|A statistical fact that is true about a large set may not be true about a subset.|quora.json|sebastian|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|2|0|nan|nan|nan|For example, the majority of Americans may vote for Obama, but the majority of voters in a particular state X may vote for his opponent.|quora.json|sebastian|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|3|0|nan|nan|nan|So if the questions is about state X, the answer should also be about state X, and not about a larger set consisting of 49 other states.|quora.json|sebastian|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|4|0|nan|nan|nan|It seems to me that the original answer is evasive.|quora.json|sebastian|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|5|9|0|g|g|Otherwise, a simple answer would be: gmo, organic, or I don't know.|quora.json|sebastian|g-g
+Vijay-Gupta|Vijay Gupta|1024|5|9|0|gg|g|Otherwise, a simple answer would be: gmo, organic, or I don't know.|quora.json|sebastian|gg-g
+Vijay-Gupta|Vijay Gupta|1024|6|0|nan|nan|nan|After that any extra explanation about molecular level, etc.|quora.json|sebastian|nan-nan
+Vijay-Gupta|Vijay Gupta|1024|7|0|nan|nan|nan|would be welcome.|quora.json|sebastian|nan-nan
+Zheng-Zheng-29|Zheng Zheng|650|1|9|p|p|ll|No, in fact it's sometimes quite the opposite (as you can see from the comments).|quora.json|sarthak|p-ll
+Zheng-Zheng-29|Zheng Zheng|650|2|9|n|p|c|While organic beef and perhaps other meat/animal products (like milk and eggs) have been verified as having better micronutrient profiles and lower incidence of pathogenic microbes (discovered very recently), organic vegetables are not necessarily better than conventional and often have pesticides as well.|quora.json|sarthak|p-c
+Zheng-Zheng-29|Zheng Zheng|650|3|9|n|g|ll|"The label of ""organic"" is a type of certification and many organic standards do not exclude pesticides or other chemicals."|quora.json|sarthak|g-ll
+Zheng-Zheng-29|Zheng Zheng|650|4|9|n|p|h|Organic foods along with diet/lifestyle fads like gluten-free (for the non-celiac), paleo (pure psuedoscience), and non-GMO (ignorant fear-mongering) are more about business and instilling fear in the scientifically-illiterate consumer.|quora.json|sarthak|p-h
+Craig-Good|Craig Good|17|1|9|n|p|q|There is no nutritional advantage to organic anything.|quora.json|hannah|p-q
+Craig-Good|Craig Good|17|2|9|0|p|h|And, besides, it’s not possible to call one food “healthier” than another.|quora.json|hannah|p-h
+Craig-Good|Craig Good|17|3|9|0|p|h|There is no single axis metric for “healthy”.|quora.json|hannah|p-h
+Craig-Good|Craig Good|17|4|9|n|g|ll|Organic, though, is purely a marketing term.|quora.json|hannah|g-ll
+Mary-Jane-Bell-1|Mary Jane Bell|1281|1|0|nan|nan|nan|Great answer Frank.|quora.json|florian|nan-nan
+Mary-Jane-Bell-1|Mary Jane Bell|1281|2|9|0|f|e|you might tell the people a little more about rotating crops and all of the other measures that are taken as part of the fundamental principals of organic farming to prevent soil erosion and degradation, preserve and conserve the other natural resources like water and the air.|quora.json|florian|f-e
+Mary-Jane-Bell-1|Mary Jane Bell|1281|3|0|nan|nan|nan|"We do work and strive to preserve and conserve all of our natural resources while providing consumers with foods that are free from man-made poisons, artificial preservatives, colors and ""flavor enhancers""."|quora.json|florian|nan-nan
+Mary-Jane-Bell-1|Mary Jane Bell|1281|4|9|p|f|g|"Organic farming is so much more than just sustainable farming, because when you think about it anything can be considered ""sustainable"" for an undisclosed amount of time... organic farming is more than a struggle to maintain the status quo (sustain) it is by design a regenerative method of farming capable of remediating if not reversing damages that have already been done."|quora.json|florian|f-g
+Ming-Law|Ming Law|512|1|9|0|p|p|To add on to what Joshua Engel said, farmers charge more for organic produce partly because they paid the USDA a large fee to become certified as organic- this enables them to tack on the label organic, which is a major selling point, is it not?|quora.json|fahad|p-p
+Ming-Law|Ming Law|512|1|9|0|p|ll|To add on to what Joshua Engel said, farmers charge more for organic produce partly because they paid the USDA a large fee to become certified as organic- this enables them to tack on the label organic, which is a major selling point, is it not?|quora.json|fahad|p-ll
+Ming-Law|Ming Law|512|2|0|nan|nan|nan|Secondly, the integrated pest management (IPM) that Joshua was alluding to is more labor intensive than just spraying pesticide everywhere.|quora.json|fahad|nan-nan
+M-P-Sharma|M.P. Sharma|1837|1|9|0|g|g|Our customers always have a lot of trouble with understanding the differences around Certified Organic, Organic and Natural and with good reason.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|1|9|0|g|g|Our customers always have a lot of trouble with understanding the differences around Certified Organic, Organic and Natural and with good reason.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|2|9|0|g|g|We did a fairly comprehensive guide on this and before researching on the topic, we thought we knew pretty much all of the differences but we were proven wrong!|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|3|9|0|g|g|An excerpt for your purposes from our guide is as follows (from an Australian perspective): Difference Between Organic and Natural - Easy Guide - Nim-Véda Australia Blog It turns out that in Australia at least, Certified Organic refers to products that are Organic and have been declared as such by an appropriate government/independent body.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|4|9|n|c|g|Companies that are manufacturing Certified Organic Products probably have CEOs that have lost all their hair by now.|quora.json|abilasha|c-g
+M-P-Sharma|M.P. Sharma|1837|5|0|nan|nan|nan|I’m not kidding; I’d actually be prepared to put a wager on it which is saying something considering my dismal betting record.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|6|9|0|g|g|Acquiring Organic Certification is not a small feat, it takes loads of time, lots of documentation, going back and forth a gazillion times and heaps of finance.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|7|9|0|g|g|Organic is probably (don’t shoot me, I did say probably and even italicised it) exactly the same in terms of quality and processing as Certified Organic without the official badge of honour.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|8|9|0|g|g|What stops some people from purchasing organic however is that there’s no official proof.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|9|0|nan|nan|nan|It’s like swearing that you saw a spaceship without the photograph to prove it.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|10|0|nan|nan|nan|You may be wondering why I’ve italicised official twice before.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|11|9|p|p|c|It’s because the manufacturers of Organic Products should have some sort of documentation stating that the products have had no chemical and unnatural processing going on before it got to your fingertips.|quora.json|abilasha|p-c
+M-P-Sharma|M.P. Sharma|1837|12|0|nan|nan|nan|Should doesn’t always mean they do, which is wrong.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|13|0|nan|nan|nan|At least in my book anyway but we all have different yardsticks … you get the picture.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|14|9|0|p|ll|Basically organic products are based on trusting the manufacture within reason.|quora.json|abilasha|p-ll
+M-P-Sharma|M.P. Sharma|1837|15|9|0|c|g|Though there’s no official certification, the document stating the above still means the manufacturer better be telling the truth or they’re likely to be in hot water if someone finds out otherwise.|quora.json|abilasha|c-g
+M-P-Sharma|M.P. Sharma|1837|16|9|0|g|g|Organic/Natural Based is often referred to as Organic by Default.|quora.json|abilasha|g-g
+M-P-Sharma|M.P. Sharma|1837|17|0|nan|nan|nan|What this means is that a natural based product is likely to be exactly the way Mother Nature intended.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|18|0|nan|nan|nan|It’s like growing your own tomatoes in your backyard and then selling them at your kids’ lemonade stand.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|19|0|nan|nan|nan|They were grown exactly the way the environment wanted them grown, the naturally perfect way and you don’t have to have any documentation stating so because well, Mother Nature didn’t pass one along, did she?|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|20|0|nan|nan|nan|Because if she did why are you here reading this post?|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|21|0|nan|nan|nan|Go and tell someone now and get rich and famous.|quora.json|abilasha|nan-nan
+M-P-Sharma|M.P. Sharma|1837|22|9|0|g|g|If you’d like to read the whole article, you can do so here - Difference Between Organic and Natural - Easy Guide - Nim-Véda Australia Blog Hope this helps!|quora.json|abilasha|g-g
+Robin-Wilson-65|Robin Wilson|25|1|9|n|p|ll|Aren’t apples naturally organic?|quora.json|hannah|p-ll
+Robin-Wilson-65|Robin Wilson|25|2|9|0|p|ll|I never quite understood this!!|quora.json|hannah|p-ll
+Louise-Dahlborn-Samet|Louise Dahlborn Samet|1285|1|9|0|c|g|Cooponline.se has good variety of organic food|quora.json|florian|c-g
+Joshua-Engel|Joshua Engel|556|1|0|nan|nan|nan|And I suspect that they'll find yet another problem on the cooking end.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|2|0|nan|nan|nan|McD's food can be cooked by robots.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|3|0|nan|nan|nan|(The only reason it isn't is that minimum wage drones are cheaper.)|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|4|0|nan|nan|nan|Everything is standardized to within an inch of its life.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|5|0|nan|nan|nan|Veggies are a lot harder to do that with.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|6|0|nan|nan|nan|There's more variation, and if you squeeze out the variation you'll squeeze out the flavor.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|556|7|9|0|c|g|They can try to sell pre-cooked foods warmed up by drones, essentially selling you organic TV dinners.|quora.json|sumit|c-g
+Joshua-Engel|Joshua Engel|556|8|0|nan|nan|nan|There's even a niche for that, I'm sure, though Whole Foods is probably in a better place to do it than they are.|quora.json|sumit|nan-nan
+Arjun-Thapa-14|Arjun Thapa|1298|1|9|p|c|g|Lot of option available to buy organic food products in Delhi / NCR region.|quora.json|florian|c-g
+Arjun-Thapa-14|Arjun Thapa|1298|2|0|nan|nan|nan|I also try out few of them.|quora.json|florian|nan-nan
+Arjun-Thapa-14|Arjun Thapa|1298|3|9|p|c|g|The most trustworthy store I got is Nourish Organics.|quora.json|florian|c-g
+Arjun-Thapa-14|Arjun Thapa|1298|4|9|p|g|g|I ordered lot of products from there like Oat meal cookies, amaranth cookies, breakfast muesli, brown rice cookies and organic nuts.|quora.json|florian|g-g
+Craig-Good|Craig Good|1544|1|0|nan|nan|nan|It's the neurology and psychology behind confirmation bias, plus an illusion of quality.|quora.json|omar|nan-nan
+Craig-Good|Craig Good|1544|2|9|n|p|h|"There is no nutritional or flavor difference between ""organic"" food and any other."|quora.json|omar|p-h
+Craig-Good|Craig Good|1544|2|9|n|p|t|"There is no nutritional or flavor difference between ""organic"" food and any other."|quora.json|omar|p-t
+Craig-Good|Craig Good|1544|3|0|nan|nan|nan|But when people think something is more expensive it actually tastes better to them.|quora.json|omar|nan-nan
+Craig-Good|Craig Good|1544|4|9|n|p|p|"If ""organic"" tastes better to you it's because of the price."|quora.json|omar|p-p
+Craig-Good|Craig Good|1546|1|9|n|p|t|It can taste different, but not because it's organic.|quora.json|omar|p-t
+Craig-Good|Craig Good|1549|1|9|n|p|t|There can be taste differences, but not because something's organic.|quora.json|omar|p-t
+Craig-Good|Craig Good|1549|2|0|nan|nan|nan|It may be farmed or processed in a way that affects flavor or appearance.|quora.json|omar|nan-nan
+Steve-Williams-104|Steve Williams|1552|1|9|p|p|g|Oh come on Craig have you tried regular milk vs organic milk?|quora.json|omar|p-g
+Steve-Williams-104|Steve Williams|1552|2|9|p|p|t|"No competition, organic milke is like 3x ""nicer""."|quora.json|omar|p-t
+Frank-Robertson-3|Frank Robertson|1280|1|9|0|f|c|The fundamental principal of organic farming is to produce crops without using chemicals, GMO seeds, or otherwise compromising the yield of the crop so that it is as natural as possible.|quora.json|florian|f-c
+Frank-Robertson-3|Frank Robertson|1280|2|9|n|f|c|Often, this means using manual labor and symbiotic methods for control of insects, weeds, and disease, and organic fertilizer rather than chemical products.|quora.json|florian|f-c
+Frank-Robertson-3|Frank Robertson|1280|3|9|n|g|g|Using natural selection seeds/cultivars, and preventing cross-pollination with non organic crops to insure the harvest produce is not adulterated with non organic produce.|quora.json|florian|g-g
+0|Anonymous|1289|1|0|nan|nan|nan|That is a start.|quora.json|florian|nan-nan
+0|Anonymous|1289|2|9|0|f|g|You need to start with natural, untreated seeds, too.|quora.json|florian|f-g
+0|Anonymous|1289|3|9|0|f|g|You will need to learn the difference between a good bug and a bad bug.|quora.json|florian|f-g
+0|Anonymous|1289|4|9|0|f|g|You will want to educate yourself on creating compost for a nutrient rich amendment for your soil.|quora.json|florian|f-g
+0|Anonymous|1289|5|9|0|f|c|There are natural organic pesticides available to the organic gardener.|quora.json|florian|f-c
+0|Anonymous|1289|6|0|nan|nan|nan|The idea is to identify the culprit and use the appropriate defense as you see it.|quora.json|florian|nan-nan
+0|Anonymous|1289|7|0|nan|nan|nan|This is opposed to the modern practices of commercial growing that favors indiscriminate and broad spectrum killers as a prevention.|quora.json|florian|nan-nan
+0|Anonymous|1289|8|0|nan|nan|nan|It is about balance, when you have found that, the world wins.|quora.json|florian|nan-nan
+Jeremy-Miles|Jeremy Miles|547|1|9|n|p|c|Three reasons: Organic != Pesticide free.|quora.json|sumit|p-c
+Jeremy-Miles|Jeremy Miles|547|2|9|n|f|c|"There are plenty of pesticides that are permitted in organic farming, which you would not want to eat: <URL>"" In addition, if the fruit grows near or on the ground (for example: strawberries, melons) it's possible to get contaminated with manure - an organic fertilizer."|quora.json|sumit|f-c
+Jeremy-Miles|Jeremy Miles|547|3|0|nan|nan|nan|You ever seen fields of fruit around picking season?|quora.json|sumit|nan-nan
+Jeremy-Miles|Jeremy Miles|547|4|0|nan|nan|nan|You seen that there are a few portapotties somewhere in or near the field?|quora.json|sumit|nan-nan
+Jeremy-Miles|Jeremy Miles|547|5|0|nan|nan|nan|You think the pickers always wash their hands?|quora.json|sumit|nan-nan
+Jeremy-Miles|Jeremy Miles|547|6|0|nan|nan|nan|"Picture: <URL>"" (Photo has all rights reserved, I couldn't find one I could copy, hence I have not embedded it.)"|quora.json|sumit|nan-nan
+Tim-Breen|Tim Breen|897|1|9|0|p|p|I’ve taught my kids that “organic” means “a buck more expensive.” ;-) (They’re 16 and 13, so they get it.)|quora.json|kamal|p-p
+Craig-Good|Craig Good|1569|1|9|n|p|h|"There is zero nutritional difference between ""organic"" and conventional foods."|quora.json|omar|p-h
+Craig-Good|Craig Good|1569|2|9|n|p|p|It's a marketing term, used to jack up the price.|quora.json|omar|p-p
+Craig-Good|Craig Good|1569|3|9|n|p|g|"Some ""organic"" fruit may be raised and harvested in a way that makes it prettier or arrive fresher, so there could possibly be a flavor advantage, but that has nothing to do with it being ""organic""."|quora.json|omar|p-g
+Viola-Yee|Viola Yee|813|1|9|n|p|p|I am not convinced that organic food is worth the cost.|quora.json|kamal|p-p
+Viola-Yee|Viola Yee|813|2|9|0|p|g|I don't think it's disgusting though.|quora.json|kamal|p-g
+Viola-Yee|Viola Yee|813|3|9|0|p|g|The things I grow in my garden are organic, but only because I am too lazy and too cheap to use chemicals.|quora.json|kamal|p-g
+Viola-Yee|Viola Yee|813|4|9|p|f|g|Compost is great.|quora.json|kamal|f-g
+Preman-Tilson|Preman Tilson|1579|1|0|nan|nan|nan|Possibly a misunderstanding, as you asked for blood studies on organic pesticides, which I already said I am not aware of any that have been done.|quora.json|omar|nan-nan
+Preman-Tilson|Preman Tilson|1579|2|0|nan|nan|nan|These articles are about blood studies for synthetic pesticide levels.|quora.json|omar|nan-nan
+Preman-Tilson|Preman Tilson|1579|3|9|p|p|c|Again, I'm talking about minimizing, not eliminating: Study Finds Lower Pesticide Levels in People Who Eat Organic Produce 3 Studies Proving Glyphosate Found in Urine, Blood, and Breast Milk Eating Organic Lowers Pesticide Levels in Children Eating Organic Can Lower Pesticide Levels in Your Body Organophosphate pesticide levels in blood and urine of women and newborns living in an agricultural community.|quora.json|omar|p-c
+Preman-Tilson|Preman Tilson|1579|4|0|nan|nan|nan|"Medscape Log In <URL>"""|quora.json|omar|nan-nan
+Terra-Greens|Terra Greens|12|1|0|nan|nan|nan|Forest Honey provides essential vitamins, nutrients and is a great source of iron, sodium, magnesium, phosphorus and calcium.|quora.json|hannah|nan-nan
+Terra-Greens|Terra Greens|12|2|0|nan|nan|nan|Forest Honey is enriched with energy sources from sucrose and fructose.|quora.json|hannah|nan-nan
+Terra-Greens|Terra Greens|12|3|0|nan|nan|nan|Some of the benefits of Forest Honey is, that it's an excellent digestive and antioxidant and provides protection from allergies when used regularly.|quora.json|hannah|nan-nan
+Terra-Greens|Terra Greens|12|4|0|nan|nan|nan|Also Forest Honey can be a great substitute to sugar in many foods and drinks; Forest Honey contains 69% glucose and fructose, making it the perfect sweetener.|quora.json|hannah|nan-nan
+Terra-Greens|Terra Greens|12|5|0|nan|nan|nan|Besides which Forest Honey has more calories than sugar, when combined with warm water, therefore honey helps to digest the fat stored in your body.|quora.json|hannah|nan-nan
+Terra-Greens|Terra Greens|12|6|9|p|p|c|Terra Green's Forest Honey has been tested for traces of pesticide residue and is certified clean; also our product is certified under the NPOP and NOP standards of organic certification.|quora.json|hannah|p-c
+Kaustubh-Jagdale|Kaustubh Jagdale|784|1|9|p|p|q|Yes Now we see the organic vegetables which provide more nutrition than the fresh vegetables.|quora.json|kamal|p-q
+Hemlata-Verma-13|Hemlata Verma|1311|1|9|p|p|g|We believe in delivering fresh and high quality organic vegetables products that people who have good health and improving the health of the buyers.|quora.json|florian|p-g
+Hemlata-Verma-13|Hemlata Verma|1311|2|9|p|p|q|organic Delhi is one of the best online organic food delivery website who provide high quality range of fruits and vegetables products.|quora.json|florian|p-q
+Hemlata-Verma-13|Hemlata Verma|1311|3|9|p|p|g|we deliver high quality gluten free products, organic fruits and vegetables, cereals, spices and beauty products and more We supply organic fruits and vegetables in Delhi at affordable prices : )|quora.json|florian|p-g
+Ecocert-India|Ecocert India|518|1|9|0|f|g|Coming to the real point, it depends on how you tend to look at organic farming that decides on its practicality.|quora.json|sumit|f-g
+Ecocert-India|Ecocert India|518|2|9|0|f|g|Read More: Is Organic Farming / Natural Farming Practical?|quora.json|sumit|f-g
+Richard-Haven|Richard Haven|563|1|9|0|f|g|I buy organic more to protect the field workers from harm than myself|quora.json|sumit|f-g
+MJ-Atkins|MJ Atkins|578|1|0|nan|nan|nan|"I agree with all your points except the ""hungry people"" one!"|quora.json|sumit|nan-nan
+MJ-Atkins|MJ Atkins|578|2|9|0|f|g|Increasing the numbers of organic farmers could feed at least as many people, and a hybrid approach is likely even better; I think there are more serious roadblocks to feeding starving people than merely food availbility.|quora.json|sumit|f-g
+Joshua-Engel|Joshua Engel|554|1|0|nan|nan|nan|I have a rule: if you're reading about it in Wired, and it's not already famous, it is the last time you will ever hear about it.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|2|0|nan|nan|nan|Well, aside from all the news aggregators reposting it, and the wire services pretending they're not just paraphrasing Wired.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|3|0|nan|nan|nan|People don't eat veggies in restaurants.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|4|0|nan|nan|nan|They go there to eat stuff that thrills them, i.e.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|5|0|nan|nan|nan|fat, protein, and white carbs.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|6|0|nan|nan|nan|They're fast, cheap, and easy to eat.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|7|0|nan|nan|nan|If veggies are on the menu, they'll feel better about knowing they're eating some place with healthier options, and then not actually opt for them.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|8|0|nan|nan|nan|Not the foodies, either.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|9|0|nan|nan|nan|The foodies will eat there on occasion, but not in sufficient number or with sufficient frequency.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|10|9|n|p|h|"They're prone to exactly the same fallacies that everybody else is (including the ""organic=healthy"" fallacy)."|quora.json|sumit|p-h
+Joshua-Engel|Joshua Engel|554|11|0|nan|nan|nan|Can these guys change American dining?|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|12|0|nan|nan|nan|I wish them luck.|quora.json|sumit|nan-nan
+Joshua-Engel|Joshua Engel|554|13|0|nan|nan|nan|But I wouldn't loan them any money.|quora.json|sumit|nan-nan
+Apurva-Sethi-5|Apurva Sethi|1580|1|9|p|p|h|yes it is, organic fruits have higher number of nutrients that of non-organic which eventually increase your health in a much faster way than non-organic.|quora.json|omar|p-h
+Apurva-Sethi-5|Apurva Sethi|1580|2|9|p|p|h|moreover, organic fruits are purest form of a fruit that nature gives you with added no peservatives and that’s what we need for our better health.|quora.json|omar|p-h
+Marius-Pynchon|Marius Pynchon|1583|1|9|p|p|h|Organic fruit tend to have a higher nutritional density and less residual toxins.|quora.json|omar|p-h
+Marius-Pynchon|Marius Pynchon|1583|2|9|0|p|g|But the difference can be quite slight.|quora.json|omar|p-g
+Marius-Pynchon|Marius Pynchon|1583|3|0|nan|nan|nan|Better results come from polyculture.|quora.json|omar|nan-nan
+Marius-Pynchon|Marius Pynchon|1583|4|0|nan|nan|nan|Better results in nutritional density can come from soil enriched with rock dust and seaweed.|quora.json|omar|nan-nan
+Marius-Pynchon|Marius Pynchon|1583|5|9|p|p|g|Organic may be a bit better.|quora.json|omar|p-g
+Marius-Pynchon|Marius Pynchon|1583|6|0|nan|nan|nan|But we ought to be aspiring to much better quality than merely organic.|quora.json|omar|nan-nan
+Devin-Lu|Devin Lu|531|1|0|nan|nan|nan|That last point goes against economics.|quora.json|sumit|nan-nan
+Devin-Lu|Devin Lu|531|2|0|nan|nan|nan|Generally, lower demand drives prices down ( Supply and demand ).|quora.json|sumit|nan-nan
+Devin-Lu|Devin Lu|531|3|9|p|p|g|It's more likely demand is actually higher: given the choice between organic and non-organic, all else equal, most people will probably pick organic.|quora.json|sumit|p-g
+Devin-Lu|Devin Lu|531|4|0|nan|nan|nan|This will drive prices up.|quora.json|sumit|nan-nan
+Nithya-Nagalingam|Nithya Nagalingam|890|1|9|0|p|g|good quality Palm Sugar crystals, rice bran oil, organic frozen vegetables which were kept at right temp usually in frozen state all the time.|quora.json|kamal|p-g
+The-Shop-of-Good-Taste|The Shop of Good Taste|1212|1|9|0|p|g|You could check out organic packaged food at The Shop of Good Taste, an online store delivering quality organic and gourmet ingredients across India.|quora.json|florian|p-g
+The-Shop-of-Good-Taste|The Shop of Good Taste|1212|2|9|0|p|g|They have a wide range of packaged organic food and snacks sourced from around the world - including cheese from Greece, tea and coffee from the UK, quinoa from Peru and much more.|quora.json|florian|p-g
+Derek-Schatz|Derek Schatz|60|1|0|nan|nan|nan|Americans are fat because they consume too much sugar and they don't exercise.|quora.json|hannah|nan-nan
+Derek-Schatz|Derek Schatz|60|2|9|0|p|g|Has nothing to do with eating organic vegetables.|quora.json|hannah|p-g
+Joyce-Barone|Joyce Barone|580|1|9|0|p|g|I think people that eat organics food only, need to get their facts straight.|quora.json|sumit|p-g
+Joyce-Barone|Joyce Barone|580|2|9|0|p|g|There are certain reasons why you should buy/eat organics.|quora.json|sumit|p-g
+Joyce-Barone|Joyce Barone|580|3|9|0|p|g|I eat some organics foods...mainly the dirty dozen is what I buy organic.|quora.json|sumit|p-g
+Ford-Dyce|Ford Dyce|1612|1|9|0|p|g|There are a lot of factors for comparing an organic product, and people usually prefer seeing them in person.|quora.json|omar|p-g
+Ford-Dyce|Ford Dyce|1612|2|0|nan|nan|nan|At best is you provide a video showing the real product (better yet, hire an expert to do the comparison and the conclusion).|quora.json|omar|nan-nan
+Ford-Dyce|Ford Dyce|1612|3|0|nan|nan|nan|But tha's also challenging and very asset hungry.|quora.json|omar|nan-nan
+Kim-Randolph|Kim Randolph|1037|1|9|0|g|g|"I haven't bought any oil yet but I purchased a high quality organic product in powder form from a company called Organic India from: Branded Health and Beauty Care Products Online <URL>"" ."|quora.json|sebastian|g-g
+Kim-Randolph|Kim Randolph|1037|2|0|nan|nan|nan|Branded Health and Beauty Care Products Online / The customer service was excellent, too.|quora.json|sebastian|nan-nan
+George-Savva|George Savva|71|1|0|nan|nan|nan|I always try to buy locally grown produce, food that is in season (kind of the same thing as local) and from places with a high standard of animal welfare.|quora.json|hannah|nan-nan
+George-Savva|George Savva|71|2|9|n|g|g|Not at all bothered by 'organic'.|quora.json|hannah|g-g
+George-Savva|George Savva|71|3|0|nan|nan|nan|I buy 'fair trade' tea/coffee/chocolate as much as possible though I'm a bit sceptical as to the real meaning of that.|quora.json|hannah|nan-nan
+George-Savva|George Savva|71|4|0|nan|nan|nan|I also shop pretty much exclusively from the Co-operative supermarket (, but this is mainly because it is a very good supermarket and 5 minutes walk from my house.|quora.json|hannah|nan-nan
+George-Savva|George Savva|71|6|0|nan|nan|nan|My vote may not mean a lot but I can speak through where I spend my money.|quora.json|hannah|nan-nan
+George-Savva|George Savva|71|7|0|nan|nan|nan|So I support the kinds of organisations and practices that I want to see continue.|quora.json|hannah|nan-nan
+Charles-Stuart-5|Charles Stuart|1906|1|9|p|g|g|I agree that it's a marketing term but organic produce in the UK states its control body, for example, The Soil Association.|quora.json|abilasha|g-g
+Charles-Stuart-5|Charles Stuart|1906|2|0|nan|nan|nan|You can then look up the control body's terms and know that the produce met the conditions set out for certification.|quora.json|abilasha|nan-nan
+Charles-Stuart-5|Charles Stuart|1906|3|0|nan|nan|nan|It's legally enforcible, though I agree that the consumer does need to do a lot of work to know exactly what he's getting.|quora.json|abilasha|nan-nan
+Charles-Stuart-5|Charles Stuart|1906|4|0|nan|nan|nan|I think that outside the EU it can be much harder to know what you're getting and in some markets the term is more or less meaningless with no statutory regulation.|quora.json|abilasha|nan-nan
+Snehal-Biswas|Snehal Biswas|1912|1|9|0|g|g|Though I agree that the organic-inorganic debate is a fear-mongering campaign by the same breed of people who wear tinfoil hats and blog about alien abductions, I'm a little confused here.|quora.json|abilasha|g-g
+Snehal-Biswas|Snehal Biswas|1912|2|0|nan|nan|nan|Plants can derive nutrients from both shrimp shells and manufactured fertilisers.|quora.json|abilasha|nan-nan
+Snehal-Biswas|Snehal Biswas|1912|3|0|nan|nan|nan|So how is it that people allergic to shellfish will still be at risk, when the components are broken down into various nutrients by plants?|quora.json|abilasha|nan-nan
+Seain-Gutridge|Seain Gutridge|1259|1|9|0|g|g|I think so, but variety in foods is more important than just eating organic.|quora.json|florian|g-g
+John-Burgess-1|John Burgess|1000|1|9|n|g|g|Those restaurants that are seeking to reach the customer base for whom non-GMO, organic, natural foods are important will widely and loudly advertise the fact.|quora.json|sebastian|g-g
+John-Burgess-1|John Burgess|1000|2|0|nan|nan|nan|If they're not screaming that that's what they have, then assume they do not.|quora.json|sebastian|nan-nan
+Joshua-Engel|Joshua Engel|507|1|0|nan|nan|nan|Yeah, it's definitely complicated.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|507|2|0|nan|nan|nan|I'm not a big fan of the monocultures for exactly that reason.|quora.json|fahad|nan-nan
+Joshua-Engel|Joshua Engel|507|3|9|p|g|g|"Commercial ""organic"" is deeply problematic but at least it can be better than the full-on industrial farming on that score."|quora.json|fahad|g-g
+W-Biggs|W. Biggs|1535|1|9|0|g|g|"I think this question meant organic as in from nature, not the ""certified non-chemical"" whatever."|quora.json|omar|g-g
+Drew-Nichol-1|Drew Nichol|78|1|0|nan|nan|nan|I buy fresh local produce where possible, and free range, organic, outdoor-bred meat.|quora.json|hannah|nan-nan
+Drew-Nichol-1|Drew Nichol|78|2|0|nan|nan|nan|I never buy convenience foods.|quora.json|hannah|nan-nan
+Drew-Nichol-1|Drew Nichol|78|3|0|nan|nan|nan|I cook everything from scratch.|quora.json|hannah|nan-nan
+Rochelle-Foster|Rochelle Foster|454|1|0|nan|nan|nan|"From Wikipedia: In 1939, Lord Northbourne coined the term organic farming in his book Look to the Land (1940), out of his conception of ""the farm as organism,"" to describe a holistic, ecologically-balanced approach to farming—in contrast to what he called chemical farming , which relied on ""imported fertility"" and ""cannot be self-sufficient nor an organic whole."""|quora.json|fahad|nan-nan
+Rochelle-Foster|Rochelle Foster|454|2|0|nan|nan|nan|"This is different from the scientific use of the term ""organic,"" to refer to a class of molecules that contain carbon, especially those involved in the chemistry of life."|quora.json|fahad|nan-nan
+Rochelle-Foster|Rochelle Foster|454|3|0|nan|nan|nan|...For the vast majority of human history, agriculture can be described as organic; only during the 20th century was a large supply of new synthetic chemicals introduced to the food supply.|quora.json|fahad|nan-nan
+Rochelle-Foster|Rochelle Foster|454|4|0|nan|nan|nan|"The organic farming movement arose in the 1940s in response to the industrialization of agriculture."""|quora.json|fahad|nan-nan
+Sajeendran-Thotten|Sajeendran Thotten|965|1|0|nan|nan|nan|Thanks for your valuable suggestions, i would like to know more about organic farming.|quora.json|sebastian|nan-nan
+Sajeendran-Thotten|Sajeendran Thotten|965|2|0|nan|nan|nan|Could you please send me an email - phvinodnair@gmail.com|quora.json|sebastian|nan-nan
+Sandeep-198|Sandeep|1017|1|0|nan|nan|nan|I am going to start my organic store in haryana,from where I can purchase all item ?|quora.json|sebastian|nan-nan
+W-Biggs|W. Biggs|1538|1|0|nan|nan|nan|"I know that's not the meaning used in marketing and packaging, but it's still a very common meaning of the word- if I had asked this question, I probably would have said ""organic"" too."|quora.json|omar|nan-nan
+W-Biggs|W. Biggs|1538|2|0|nan|nan|nan|The asker never specified that it was the organic that you're talking about.|quora.json|omar|nan-nan
+W-Biggs|W. Biggs|1538|3|0|nan|nan|nan|"They just said ""organic"", which is a pretty decent synonym with ""not created in a lab""."|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|1|0|nan|nan|nan|They are under more stress!|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|2|0|nan|nan|nan|From pests that haven't been killed.|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|3|0|nan|nan|nan|More than half of nature's species are parasites, and that's nature in the raw.|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|4|0|nan|nan|nan|"So your ""organic"" dog hasn't been treated with meds for his fleas, ticks, mites, dermatophytes, and parasitic worms."|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|5|0|nan|nan|nan|So the poor mangy, scabrous and ringwormed mutt spends all his time scratching and biting himself and pulling hair.|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|6|0|nan|nan|nan|Masses of white worms fill his heart ventricles like vermicelli.|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|7|0|nan|nan|nan|Plants have problems, too, but aren't as dramatic about it.|quora.json|omar|nan-nan
+Steve-Harris-33|Steve Harris|1539|8|0|nan|nan|nan|All they can do is sit there and make poisons.|quora.json|omar|nan-nan
+Tom-Wayne-3|Tom Wayne|1542|1|0|nan|nan|nan|The dirty secret, that isn't all that much of a secret, most organic restaurants don't actually buy organic ingredients.|quora.json|omar|nan-nan
+Tom-Wayne-3|Tom Wayne|1542|2|0|nan|nan|nan|Especially the chain firms.|quora.json|omar|nan-nan
+0|Anonymous|1617|1|0|nan|nan|nan|"Who is this ""they"" that you refer to?"|quora.json|omar|nan-nan
+0|Anonymous|1617|2|0|nan|nan|nan|Store bought organic i.e.|quora.json|omar|nan-nan
+0|Anonymous|1617|3|0|nan|nan|nan|It's all marketing is what you are saying and therefore a lie?|quora.json|omar|nan-nan
+0|Anonymous|1617|4|0|nan|nan|nan|Even if a grey lie or at least a white lie?|quora.json|omar|nan-nan
+0|Anonymous|1617|5|0|nan|nan|nan|Can one not grow their own food, for example, which will be as close to organic as possible?|quora.json|omar|nan-nan
+0|Anonymous|1617|6|0|nan|nan|nan|Do you include such a scenario in your answer as well?|quora.json|omar|nan-nan
+Poornachandra-Shankar|Poornachandra Shankar|1637|1|0|nan|nan|nan|HI Man, I have personally helped many of my client on catchment analysis while opening a retail outlet Location is the key , for organic products you need to eye on Highend area like sadashiv nagar Indiranagar Central Bangalore sahakarnagar RMV Dollars colony Whitefiled i could only give you suggestions in terms of real-estate point of view ... all the best|quora.json|omar|nan-nan
+Gitika-Shrivastava-1|Gitika Shrivastava|1760|1|0|nan|nan|nan|If it says 'Certified Organic' then it most likely is.|quora.json|felix|nan-nan
+Gitika-Shrivastava-1|Gitika Shrivastava|1760|2|0|nan|nan|nan|If it doesn't say anything then not, though it could be accidentally organic.|quora.json|felix|nan-nan
+Ian-Sawyer|Ian Sawyer|1765|1|0|nan|nan|nan|Yes, as long as it's able to be broken down by the action of microscopic bacteria and yeasts - which of course all organic substances are.|quora.json|felix|nan-nan
+Ian-Sawyer|Ian Sawyer|1765|2|0|nan|nan|nan|Thanks for the A2A.|quora.json|felix|nan-nan
