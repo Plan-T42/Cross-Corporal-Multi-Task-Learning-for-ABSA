@@ -8,8 +8,7 @@ Literature:
 
 [Transformer](https://arxiv.org/abs/1706.03762)/[annotated version with Python code](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-Andreas Pirchner | Farrukh Mushtaq | F
-ranziska Sperl | Xinyi Tu
+Andreas Pirchner | Farrukh Mushtaq | Franziska Sperl | Xinyi Tu
 
 Sentiment Analysis refers to the automatic detection of the sentiment expressed in a piece of text, while Aspect-based Sentiment Analysis (ABSA) aims at a finer analysis i.e. it requires that certain aspects of an entity in question be distinguished in a given piece of text and the sentiment be classified with regard to each of them. Furthermore, we want to have a model that can capture the variation across multiple corpora for ABSA and make the model more adaptable to new data.
 
