@@ -1,6 +1,6 @@
 ## Cross-Corporal Multi-Task Learning for Aspect-Based Sentiment Analysis
 
-Andreas Pirchner | Farrukh Mushtaq | Franziska Sperl | Xinyi Tu
+Project together with Andreas Pirchner | Farrukh Mushtaq | Franziska Sperl 
 
 Sentiment Analysis refers to the automatic detection of the sentiment expressed in a piece of text, while Aspect-based Sentiment Analysis (ABSA) aims at a finer analysis i.e. it requires that certain aspects of an entity in question be distinguished in a given piece of text and the sentiment be classified with regard to each of them. Furthermore, we want to have a model that can capture the variation across multiple corpora for ABSA and make the model more adaptable to new data.
 
